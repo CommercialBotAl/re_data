@@ -1,0 +1,68 @@
+GEOID,STATEFP,COUNTYFP,fred_county_fips,NAME,NAMELSAD,region,region_type,region_type_id,table_id,state,state_code,parent_metro_region,parent_metro_region_metro_code,fred_child_id,fred_region_id,fred_state_id,ALAND,AWATER,INTPTLAT,INTPTLON,data_source,state_fips
+01001,01,001,01001,Autauga,Autauga County,"Autauga County, AL",county,5.0,119.0,Alabama,AL,"Montgomery, AL",33860.0,27336.0,27335.0,27282.0,1539631459.0,25677536.0,32.5322367,-86.6464395,Complete data,01
+01003,01,003,01003,Baldwin,Baldwin County,"Baldwin County, AL",county,5.0,120.0,Alabama,AL,"Daphne, AL",19300.0,27337.0,27335.0,27282.0,4117781416.0,1132830835.0,30.6592183,-87.7460666,Complete data,01
+01005,01,005,01005,Barbour,Barbour County,"Barbour County, AL",county,5.0,121.0,Alabama,AL,"Eufaula, AL",21640.0,27338.0,27335.0,27282.0,2292160151.0,50523213.0,31.8702531,-85.4051035,Complete data,01
+01007,01,007,01007,Bibb,Bibb County,"Bibb County, AL",county,5.0,122.0,Alabama,AL,"Birmingham, AL",13820.0,27339.0,27335.0,27282.0,1612188713.0,9572302.0,33.0158929,-87.1271475,Complete data,01
+01009,01,009,01009,Blount,Blount County,"Blount County, AL",county,5.0,123.0,Alabama,AL,"Birmingham, AL",13820.0,27340.0,27335.0,27282.0,1670259099.0,14860281.0,33.9773575,-86.56644,Complete data,01
+01011,01,011,01011,Bullock,Bullock County,"Bullock County, AL",county,5.0,124.0,Alabama,AL,Alabama nonmetropolitan area,,27341.0,27335.0,27282.0,1613084322.0,6029813.0,32.1017589,-85.7172613,Complete data,01
+01013,01,013,01013,Butler,Butler County,"Butler County, AL",county,5.0,125.0,Alabama,AL,Alabama nonmetropolitan area,,27342.0,27335.0,27282.0,2012002549.0,2701199.0,31.751667,-86.6819689,Complete data,01
+01015,01,015,01015,Calhoun,Calhoun County,"Calhoun County, AL",county,5.0,126.0,Alabama,AL,"Anniston, AL",11500.0,27343.0,27335.0,27282.0,1569256885.0,16525540.0,33.7705162,-85.8279089,Complete data,01
+01017,01,017,01017,Chambers,Chambers County,"Chambers County, AL",county,5.0,127.0,Alabama,AL,"LaGrange, GA",29300.0,27344.0,27335.0,27282.0,1545068607.0,16988689.0,32.9155039,-85.3940321,Complete data,01
+01019,01,019,01019,Cherokee,Cherokee County,"Cherokee County, AL",county,5.0,128.0,Alabama,AL,Alabama nonmetropolitan area,,27345.0,27335.0,27282.0,1433614765.0,120316891.0,34.0695153,-85.6542417,Complete data,01
+01021,01,021,01021,Chilton,Chilton County,"Chilton County, AL",county,5.0,129.0,Alabama,AL,"Birmingham, AL",13820.0,27346.0,27335.0,27282.0,1794443235.0,20587728.0,32.8540514,-86.7266071,Complete data,01
+01023,01,023,,Choctaw,Choctaw County,,,,,,,,,,,,2365900084.0,19114321.0,31.9909539,-88.2488894,Census only,01
+01025,01,025,01025,Clarke,Clarke County,"Clarke County, AL",county,5.0,131.0,Alabama,AL,Alabama nonmetropolitan area,,27348.0,27335.0,27282.0,3207494083.0,36657889.0,31.6855211,-87.8186244,Complete data,01
+01027,01,027,01027,Clay,Clay County,"Clay County, AL",county,5.0,132.0,Alabama,AL,Alabama nonmetropolitan area,,27349.0,27335.0,27282.0,1564255426.0,5281616.0,33.2703999,-85.8635254,Complete data,01
+01029,01,029,01029,Cleburne,Cleburne County,"Cleburne County, AL",county,5.0,133.0,Alabama,AL,Alabama nonmetropolitan area,,27350.0,27335.0,27282.0,1450669160.0,2349509.0,33.6719637,-85.5161261,Complete data,01
+01031,01,031,01031,Coffee,Coffee County,"Coffee County, AL",county,5.0,134.0,Alabama,AL,"Enterprise, AL",21460.0,27351.0,27335.0,27282.0,1758565928.0,3907189.0,31.402258,-85.9896022,Complete data,01
+01033,01,033,01033,Colbert,Colbert County,"Colbert County, AL",county,5.0,135.0,Alabama,AL,"Florence, AL",22520.0,27352.0,27335.0,27282.0,1535740663.0,79162005.0,34.703112,-87.8014569,Complete data,01
+01035,01,035,01035,Conecuh,Conecuh County,"Conecuh County, AL",county,5.0,136.0,Alabama,AL,Alabama nonmetropolitan area,,27353.0,27335.0,27282.0,2202213383.0,6426488.0,31.4309257,-86.9887221,Complete data,01
+01037,01,037,01037,Coosa,Coosa County,"Coosa County, AL",county,5.0,137.0,Alabama,AL,"Alexander City, AL",10760.0,27354.0,27335.0,27282.0,1685846963.0,39991153.0,32.9314453,-86.2434818,Complete data,01
+01039,01,039,01039,Covington,Covington County,"Covington County, AL",county,5.0,138.0,Alabama,AL,Alabama nonmetropolitan area,,27355.0,27335.0,27282.0,2669165560.0,34194851.0,31.2439873,-86.4487206,Complete data,01
+01041,01,041,01041,Crenshaw,Crenshaw County,"Crenshaw County, AL",county,5.0,139.0,Alabama,AL,Alabama nonmetropolitan area,,27356.0,27335.0,27282.0,1576952763.0,5388562.0,31.7303106,-86.3200384,Complete data,01
+01043,01,043,01043,Cullman,Cullman County,"Cullman County, AL",county,5.0,140.0,Alabama,AL,"Cullman, AL",18980.0,27357.0,27335.0,27282.0,1902985237.0,52510688.0,34.1319229,-86.8692666,Complete data,01
+01045,01,045,01045,Dale,Dale County,"Dale County, AL",county,5.0,141.0,Alabama,AL,"Ozark, AL",37120.0,27358.0,27335.0,27282.0,1453276164.0,4051341.0,31.4306536,-85.609476,Complete data,01
+01047,01,047,01047,Dallas,Dallas County,"Dallas County, AL",county,5.0,142.0,Alabama,AL,"Selma, AL",42820.0,27359.0,27335.0,27282.0,2534919602.0,39124772.0,32.3335263,-87.11436,Complete data,01
+01049,01,049,01049,DeKalb,DeKalb County,"DeKalb County, AL",county,5.0,143.0,Alabama,AL,"Fort Payne, AL",22840.0,27360.0,27335.0,27282.0,2012620263.0,4107136.0,34.4609148,-85.8040207,Complete data,01
+01051,01,051,01051,Elmore,Elmore County,"Elmore County, AL",county,5.0,144.0,Alabama,AL,"Montgomery, AL",33860.0,27361.0,27335.0,27282.0,1601959016.0,99767744.0,32.597229,-86.1427347,Complete data,01
+01053,01,053,01053,Escambia,Escambia County,"Escambia County, AL",county,5.0,145.0,Alabama,AL,"Atmore, AL",12120.0,27362.0,27335.0,27282.0,2448595164.0,20024887.0,31.1222867,-87.1684097,Complete data,01
+01055,01,055,01055,Etowah,Etowah County,"Etowah County, AL",county,5.0,146.0,Alabama,AL,"Gadsden, AL",23460.0,27363.0,27335.0,27282.0,1386015447.0,34924289.0,34.0476407,-86.0342629,Complete data,01
+01057,01,057,01057,Fayette,Fayette County,"Fayette County, AL",county,5.0,147.0,Alabama,AL,Alabama nonmetropolitan area,,27364.0,27335.0,27282.0,1625693253.0,4330881.0,33.7161568,-87.7642923,Complete data,01
+01059,01,059,01059,Franklin,Franklin County,"Franklin County, AL",county,5.0,148.0,Alabama,AL,Alabama nonmetropolitan area,,27365.0,27335.0,27282.0,1641945980.0,32539346.0,34.4419892,-87.8428144,Complete data,01
+01061,01,061,01061,Geneva,Geneva County,"Geneva County, AL",county,5.0,149.0,Alabama,AL,"Dothan, AL",20020.0,27366.0,27335.0,27282.0,1487908415.0,11567411.0,31.0923822,-85.8210224,Complete data,01
+01063,01,063,01063,Greene,Greene County,"Greene County, AL",county,5.0,150.0,Alabama,AL,"Tuscaloosa, AL",46220.0,27367.0,27335.0,27282.0,1675782053.0,33416143.0,32.8444965,-87.9642005,Complete data,01
+01065,01,065,01065,Hale,Hale County,"Hale County, AL",county,5.0,151.0,Alabama,AL,"Tuscaloosa, AL",46220.0,27368.0,27335.0,27282.0,1667929291.0,32401180.0,32.7527958,-87.6230608,Complete data,01
+01067,01,067,01067,Henry,Henry County,"Henry County, AL",county,5.0,152.0,Alabama,AL,"Dothan, AL",20020.0,27369.0,27335.0,27282.0,1455293386.0,16620066.0,31.5169779,-85.2399712,Complete data,01
+01069,01,069,01069,Houston,Houston County,"Houston County, AL",county,5.0,153.0,Alabama,AL,"Dothan, AL",20020.0,27370.0,27335.0,27282.0,1501742250.0,4795418.0,31.1581831,-85.2964111,Complete data,01
+01071,01,071,01071,Jackson,Jackson County,"Jackson County, AL",county,5.0,154.0,Alabama,AL,"Scottsboro, AL",42460.0,27371.0,27335.0,27282.0,2792044612.0,126334711.0,34.764114,-85.9800556,Complete data,01
+01073,01,073,01073,Jefferson,Jefferson County,"Jefferson County, AL",county,5.0,155.0,Alabama,AL,"Birmingham, AL",13820.0,27372.0,27335.0,27282.0,2878917022.0,32616917.0,33.5534439,-86.8965359,Complete data,01
+01075,01,075,01075,Lamar,Lamar County,"Lamar County, AL",county,5.0,156.0,Alabama,AL,Alabama nonmetropolitan area,,27373.0,27335.0,27282.0,1566544672.0,1600679.0,33.7870852,-88.0874309,Complete data,01
+01077,01,077,01077,Lauderdale,Lauderdale County,"Lauderdale County, AL",county,5.0,157.0,Alabama,AL,"Florence, AL",22520.0,27374.0,27335.0,27282.0,1730157470.0,133597557.0,34.9041677,-87.6511075,Complete data,01
+01079,01,079,01079,Lawrence,Lawrence County,"Lawrence County, AL",county,5.0,158.0,Alabama,AL,"Decatur, AL",19460.0,27375.0,27335.0,27282.0,1788864892.0,68681744.0,34.529776,-87.3218651,Complete data,01
+01081,01,081,01081,Lee,Lee County,"Lee County, AL",county,5.0,159.0,Alabama,AL,"Auburn, AL",12220.0,27376.0,27335.0,27282.0,1573562418.0,21481149.0,32.6040644,-85.3530477,Complete data,01
+01083,01,083,01083,Limestone,Limestone County,"Limestone County, AL",county,5.0,160.0,Alabama,AL,"Huntsville, AL",26620.0,27377.0,27335.0,27282.0,1459195371.0,113412127.0,34.8102387,-86.9813995,Complete data,01
+01085,01,085,01085,Lowndes,Lowndes County,"Lowndes County, AL",county,5.0,161.0,Alabama,AL,"Montgomery, AL",33860.0,27378.0,27335.0,27282.0,1854651875.0,23271196.0,32.147888,-86.6505859,Complete data,01
+01087,01,087,01087,Macon,Macon County,"Macon County, AL",county,5.0,162.0,Alabama,AL,Alabama nonmetropolitan area,,27379.0,27335.0,27282.0,1576435599.0,11765503.0,32.3870267,-85.692887,Complete data,01
+01089,01,089,01089,Madison,Madison County,"Madison County, AL",county,5.0,163.0,Alabama,AL,"Huntsville, AL",26620.0,27380.0,27335.0,27282.0,2076166271.0,28756353.0,34.7642377,-86.5510802,Complete data,01
+01091,01,091,01091,Marengo,Marengo County,"Marengo County, AL",county,5.0,164.0,Alabama,AL,Alabama nonmetropolitan area,,27381.0,27335.0,27282.0,2530155124.0,14951685.0,32.2475911,-87.791091,Complete data,01
+01093,01,093,01093,Marion,Marion County,"Marion County, AL",county,5.0,165.0,Alabama,AL,Alabama nonmetropolitan area,,27382.0,27335.0,27282.0,1922657200.0,3183480.0,34.1382194,-87.881551,Complete data,01
+01095,01,095,01095,Marshall,Marshall County,"Marshall County, AL",county,5.0,166.0,Alabama,AL,"Albertville, AL",10700.0,27383.0,27335.0,27282.0,1465553967.0,148475491.0,34.3095637,-86.3216681,Complete data,01
+01097,01,097,01097,Mobile,Mobile County,"Mobile County, AL",county,5.0,167.0,Alabama,AL,"Mobile, AL",33660.0,27384.0,27335.0,27282.0,3184078558.0,1073996733.0,30.6845725,-88.1965682,Complete data,01
+01099,01,099,01099,Monroe,Monroe County,"Monroe County, AL",county,5.0,168.0,Alabama,AL,Alabama nonmetropolitan area,,27385.0,27335.0,27282.0,2656469674.0,22609681.0,31.5803531,-87.3833416,Complete data,01
+01101,01,101,01101,Montgomery,Montgomery County,"Montgomery County, AL",county,5.0,169.0,Alabama,AL,"Montgomery, AL",33860.0,27386.0,27335.0,27282.0,2034057754.0,37704823.0,32.2028812,-86.2044615,Complete data,01
+01103,01,103,01103,Morgan,Morgan County,"Morgan County, AL",county,5.0,170.0,Alabama,AL,"Decatur, AL",19460.0,27387.0,27335.0,27282.0,1501349979.0,50181962.0,34.4544844,-86.8464021,Complete data,01
+01105,01,105,,Perry,Perry County,,,,,,,,,,,,1863936201.0,10902207.0,32.6390053,-87.2938269,Census only,01
+01107,01,107,01107,Pickens,Pickens County,"Pickens County, AL",county,5.0,172.0,Alabama,AL,"Tuscaloosa, AL",46220.0,27389.0,27335.0,27282.0,2282835043.0,22621093.0,33.2968003,-88.0968644,Complete data,01
+01109,01,109,01109,Pike,Pike County,"Pike County, AL",county,5.0,173.0,Alabama,AL,"Troy, AL",45980.0,27390.0,27335.0,27282.0,1740645368.0,2339145.0,31.7986533,-85.9416076,Complete data,01
+01111,01,111,01111,Randolph,Randolph County,"Randolph County, AL",county,5.0,174.0,Alabama,AL,Alabama nonmetropolitan area,,27391.0,27335.0,27282.0,1503618354.0,9283013.0,33.2964614,-85.4640637,Complete data,01
+01113,01,113,,Russell,Russell County,,,,,,,,,,,,1660653961.0,15562947.0,32.2898113,-85.1869798,Census only,01
+01115,01,115,01115,St. Clair,St. Clair County,"St. Clair County, AL",county,5.0,176.0,Alabama,AL,"Birmingham, AL",13820.0,27394.0,27335.0,27282.0,1635862395.0,56329029.0,33.7194907,-86.3113273,Complete data,01
+01117,01,117,01117,Shelby,Shelby County,"Shelby County, AL",county,5.0,177.0,Alabama,AL,"Birmingham, AL",13820.0,27393.0,27335.0,27282.0,2034316795.0,62251115.0,33.2668934,-86.6610071,Complete data,01
+01119,01,119,,Sumter,Sumter County,,,,,,,,,,,,2340898912.0,24634886.0,32.5974811,-88.2000571,Census only,01
+01121,01,121,01121,Talladega,Talladega County,"Talladega County, AL",county,5.0,179.0,Alabama,AL,"Talladega, AL",45180.0,27396.0,27335.0,27282.0,1908348741.0,60872243.0,33.3693135,-86.1759302,Complete data,01
+01123,01,123,01123,Tallapoosa,Tallapoosa County,"Tallapoosa County, AL",county,5.0,180.0,Alabama,AL,"Alexander City, AL",10760.0,27397.0,27335.0,27282.0,1855807728.0,128781251.0,32.8633076,-85.7996176,Complete data,01
+01125,01,125,01125,Tuscaloosa,Tuscaloosa County,"Tuscaloosa County, AL",county,5.0,181.0,Alabama,AL,"Tuscaloosa, AL",46220.0,27398.0,27335.0,27282.0,3421003353.0,78680131.0,33.2902197,-87.5227834,Complete data,01
+01127,01,127,01127,Walker,Walker County,"Walker County, AL",county,5.0,182.0,Alabama,AL,"Jasper, AL",27530.0,27399.0,27335.0,27282.0,2048761803.0,36678983.0,33.7915581,-87.3010936,Complete data,01
+01129,01,129,,Washington,Washington County,,,,,,,,,,,,2797848586.0,21524393.0,31.4085035,-88.2124041,Census only,01
+01131,01,131,01131,Wilcox,Wilcox County,"Wilcox County, AL",county,5.0,184.0,Alabama,AL,Alabama nonmetropolitan area,,27401.0,27335.0,27282.0,2299540557.0,50592191.0,31.9900824,-87.3049349,Complete data,01
+01133,01,133,01133,Winston,Winston County,"Winston County, AL",county,5.0,185.0,Alabama,AL,Alabama nonmetropolitan area,,27402.0,27335.0,27282.0,1587660956.0,48870378.0,34.1545665,-87.3653458,Complete data,01
