@@ -1,0 +1,160 @@
+GEOID,STATEFP,COUNTYFP,fred_county_fips,NAME,NAMELSAD,region,region_type,region_type_id,table_id,state,state_code,parent_metro_region,parent_metro_region_metro_code,fred_child_id,fred_region_id,fred_state_id,ALAND,AWATER,INTPTLAT,INTPTLON,data_source,state_fips
+13001,13,001,13001,Appling,Appling County,"Appling County, GA",county,5.0,504.0,Georgia,GA,Georgia nonmetropolitan area,,27728.0,27727.0,27292.0,1316393793.0,10357488.0,31.7397262,-82.2901018,Complete data,13
+13003,13,003,,Atkinson,Atkinson County,,,,,,,,,,,,887642157.0,4696298.0,31.2968056,-82.8781511,Census only,13
+13005,13,005,13005,Bacon,Bacon County,"Bacon County, GA",county,5.0,506.0,Georgia,GA,Georgia nonmetropolitan area,,27730.0,27727.0,27292.0,735776107.0,4500418.0,31.5502095,-82.4514325,Complete data,13
+13007,13,007,,Baker,Baker County,,,,,,,,,,,,885665382.0,18598653.0,31.3195798,-84.4548812,Census only,13
+13009,13,009,13009,Baldwin,Baldwin County,"Baldwin County, GA",county,5.0,508.0,Georgia,GA,"Milledgeville, GA",33300.0,27732.0,27727.0,27292.0,670028049.0,24803188.0,33.0594897,-83.2554566,Complete data,13
+13011,13,011,13011,Banks,Banks County,"Banks County, GA",county,5.0,509.0,Georgia,GA,Georgia nonmetropolitan area,,27733.0,27727.0,27292.0,602578150.0,4635946.0,34.3519216,-83.4984409,Complete data,13
+13013,13,013,13013,Barrow,Barrow County,"Barrow County, GA",county,5.0,510.0,Georgia,GA,"Atlanta, GA",12060.0,27734.0,27727.0,27292.0,417122366.0,4870098.0,33.9920094,-83.7123025,Complete data,13
+13015,13,015,13015,Bartow,Bartow County,"Bartow County, GA",county,5.0,511.0,Georgia,GA,"Atlanta, GA",12060.0,27735.0,27727.0,27292.0,1188576977.0,27365992.0,34.2409175,-84.8381879,Complete data,13
+13017,13,017,13017,Ben Hill,Ben Hill County,"Ben Hill County, GA",county,5.0,512.0,Georgia,GA,"Fitzgerald, GA",22340.0,27736.0,27727.0,27292.0,647802704.0,9813798.0,31.7407715,-83.147197,Complete data,13
+13019,13,019,13019,Berrien,Berrien County,"Berrien County, GA",county,5.0,513.0,Georgia,GA,Georgia nonmetropolitan area,,27737.0,27727.0,27292.0,1174239572.0,11671125.0,31.2886522,-83.2278695,Complete data,13
+13021,13,021,13021,Bibb,Bibb County,"Bibb County, GA",county,5.0,514.0,Georgia,GA,"Macon, GA",31420.0,27738.0,27727.0,27292.0,645898854.0,14304451.0,32.8089903,-83.6940595,Complete data,13
+13023,13,023,13023,Bleckley,Bleckley County,"Bleckley County, GA",county,5.0,515.0,Georgia,GA,Georgia nonmetropolitan area,,27739.0,27727.0,27292.0,559122131.0,8425411.0,32.4354034,-83.3317174,Complete data,13
+13025,13,025,13025,Brantley,Brantley County,"Brantley County, GA",county,5.0,516.0,Georgia,GA,"Brunswick, GA",15260.0,27740.0,27727.0,27292.0,1147972265.0,10291548.0,31.1973339,-81.9829779,Complete data,13
+13027,13,027,13027,Brooks,Brooks County,"Brooks County, GA",county,5.0,517.0,Georgia,GA,"Valdosta, GA",46660.0,27741.0,27727.0,27292.0,1277341891.0,11955148.0,30.8229337,-83.5819054,Complete data,13
+13029,13,029,13029,Bryan,Bryan County,"Bryan County, GA",county,5.0,518.0,Georgia,GA,"Savannah, GA",42340.0,27742.0,27727.0,27292.0,1133284239.0,43751265.0,32.0179692,-81.4385431,Complete data,13
+13031,13,031,13031,Bulloch,Bulloch County,"Bulloch County, GA",county,5.0,519.0,Georgia,GA,"Statesboro, GA",44340.0,27743.0,27727.0,27292.0,1750735216.0,32827781.0,32.3944979,-81.7414492,Complete data,13
+13033,13,033,13033,Burke,Burke County,"Burke County, GA",county,5.0,520.0,Georgia,GA,"Augusta, GA",12260.0,27744.0,27727.0,27292.0,2142029072.0,20565643.0,33.0601805,-82.0001638,Complete data,13
+13035,13,035,13035,Butts,Butts County,"Butts County, GA",county,5.0,521.0,Georgia,GA,"Atlanta, GA",12060.0,27745.0,27727.0,27292.0,475754795.0,11269640.0,33.2903551,-83.9582206,Complete data,13
+13037,13,037,13037,Calhoun,Calhoun County,"Calhoun County, GA",county,5.0,522.0,Georgia,GA,Georgia nonmetropolitan area,,27746.0,27727.0,27292.0,726191507.0,8271470.0,31.521279,-84.6262895,Complete data,13
+13039,13,039,13039,Camden,Camden County,"Camden County, GA",county,5.0,523.0,Georgia,GA,"St. Marys, GA",41220.0,27747.0,27727.0,27292.0,1632396445.0,392734814.0,30.913358,-81.6420193,Complete data,13
+13043,13,043,13043,Candler,Candler County,"Candler County, GA",county,5.0,524.0,Georgia,GA,Georgia nonmetropolitan area,,27748.0,27727.0,27292.0,629520842.0,15018189.0,32.4039497,-82.0712656,Complete data,13
+13045,13,045,13045,Carroll,Carroll County,"Carroll County, GA",county,5.0,525.0,Georgia,GA,"Atlanta, GA",12060.0,27749.0,27727.0,27292.0,1292705389.0,11882059.0,33.5822366,-85.0805272,Complete data,13
+13047,13,047,,Catoosa,Catoosa County,,,,,,,,,,,,419998917.0,771159.0,34.9002118,-85.1393851,Census only,13
+13049,13,049,13049,Charlton,Charlton County,"Charlton County, GA",county,5.0,527.0,Georgia,GA,Georgia nonmetropolitan area,,27751.0,27727.0,27292.0,2020415649.0,5963237.0,30.7799036,-82.1396442,Complete data,13
+13051,13,051,13051,Chatham,Chatham County,"Chatham County, GA",county,5.0,528.0,Georgia,GA,"Savannah, GA",42340.0,27752.0,27727.0,27292.0,1120736307.0,510889307.0,31.9804037,-81.085184,Complete data,13
+13053,13,053,,Chattahoochee,Chattahoochee County,,,,,,,,,,,,644225832.0,6277089.0,32.3474454,-84.7880206,Census only,13
+13055,13,055,13055,Chattooga,Chattooga County,"Chattooga County, GA",county,5.0,530.0,Georgia,GA,"Summerville, GA",44900.0,27754.0,27727.0,27292.0,811512397.0,570806.0,34.4741785,-85.3452894,Complete data,13
+13057,13,057,13057,Cherokee,Cherokee County,"Cherokee County, GA",county,5.0,531.0,Georgia,GA,"Atlanta, GA",12060.0,27755.0,27727.0,27292.0,1090268755.0,34410017.0,34.2443166,-84.4750574,Complete data,13
+13059,13,059,,Clarke,Clarke County,,,,,,,,,,,,308985565.0,4776726.0,33.9521852,-83.3671522,Census only,13
+13061,13,061,13061,Clay,Clay County,"Clay County, GA",county,5.0,533.0,Georgia,GA,Georgia nonmetropolitan area,,27757.0,27727.0,27292.0,506093893.0,56546964.0,31.6198309,-84.9925826,Complete data,13
+13063,13,063,13063,Clayton,Clayton County,"Clayton County, GA",county,5.0,534.0,Georgia,GA,"Atlanta, GA",12060.0,27758.0,27727.0,27292.0,367009134.0,6914194.0,33.552242,-84.4129728,Complete data,13
+13065,13,065,13065,Clinch,Clinch County,"Clinch County, GA",county,5.0,535.0,Georgia,GA,Georgia nonmetropolitan area,,27759.0,27727.0,27292.0,2110841411.0,23291048.0,30.9176531,-82.7026143,Complete data,13
+13067,13,067,13067,Cobb,Cobb County,"Cobb County, GA",county,5.0,536.0,Georgia,GA,"Atlanta, GA",12060.0,27760.0,27727.0,27292.0,879793162.0,12036674.0,33.9399263,-84.5741102,Complete data,13
+13069,13,069,13069,Coffee,Coffee County,"Coffee County, GA",county,5.0,537.0,Georgia,GA,"Douglas, GA",20060.0,27761.0,27727.0,27292.0,1533916511.0,26939607.0,31.5492452,-82.8449401,Complete data,13
+13071,13,071,13071,Colquitt,Colquitt County,"Colquitt County, GA",county,5.0,538.0,Georgia,GA,"Moultrie, GA",34220.0,27762.0,27727.0,27292.0,1416897182.0,24791336.0,31.1897075,-83.769773,Complete data,13
+13073,13,073,13073,Columbia,Columbia County,"Columbia County, GA",county,5.0,539.0,Georgia,GA,"Augusta, GA",12260.0,27763.0,27727.0,27292.0,751599702.0,45344735.0,33.5520746,-82.2496077,Complete data,13
+13075,13,075,13075,Cook,Cook County,"Cook County, GA",county,5.0,540.0,Georgia,GA,Georgia nonmetropolitan area,,27764.0,27727.0,27292.0,591694198.0,12298660.0,31.1525157,-83.4294448,Complete data,13
+13077,13,077,13077,Coweta,Coweta County,"Coweta County, GA",county,5.0,541.0,Georgia,GA,"Atlanta, GA",12060.0,27765.0,27727.0,27292.0,1142174889.0,12675178.0,33.3528965,-84.7621381,Complete data,13
+13079,13,079,13079,Crawford,Crawford County,"Crawford County, GA",county,5.0,542.0,Georgia,GA,"Macon, GA",31420.0,27766.0,27727.0,27292.0,841524046.0,3986929.0,32.7094483,-83.9791685,Complete data,13
+13081,13,081,13081,Crisp,Crisp County,"Crisp County, GA",county,5.0,543.0,Georgia,GA,"Cordele, GA",18380.0,27767.0,27727.0,27292.0,706237949.0,21408088.0,31.9202675,-83.7565301,Complete data,13
+13083,13,083,,Dade,Dade County,,,,,,,,,,,,450855119.0,488463.0,34.8524237,-85.5062006,Census only,13
+13085,13,085,13085,Dawson,Dawson County,"Dawson County, GA",county,5.0,545.0,Georgia,GA,"Atlanta, GA",12060.0,27769.0,27727.0,27292.0,546042252.0,9272655.0,34.4426077,-84.1732611,Complete data,13
+13087,13,087,13087,Decatur,Decatur County,"Decatur County, GA",county,5.0,546.0,Georgia,GA,"Bainbridge, GA",12460.0,27770.0,27727.0,27292.0,1546842847.0,67154652.0,30.8806431,-84.5838902,Complete data,13
+13089,13,089,13089,DeKalb,DeKalb County,"DeKalb County, GA",county,5.0,547.0,Georgia,GA,"Atlanta, GA",12060.0,27771.0,27727.0,27292.0,693251647.0,8848778.0,33.7706611,-84.2263432,Complete data,13
+13091,13,091,13091,Dodge,Dodge County,"Dodge County, GA",county,5.0,548.0,Georgia,GA,Georgia nonmetropolitan area,,27772.0,27727.0,27292.0,1284554870.0,18512260.0,32.164369,-83.1678658,Complete data,13
+13093,13,093,13093,Dooly,Dooly County,"Dooly County, GA",county,5.0,549.0,Georgia,GA,Georgia nonmetropolitan area,,27773.0,27727.0,27292.0,1016908643.0,12141885.0,32.1519954,-83.807167,Complete data,13
+13095,13,095,13095,Dougherty,Dougherty County,"Dougherty County, GA",county,5.0,550.0,Georgia,GA,"Albany, GA",10500.0,27774.0,27727.0,27292.0,851183382.0,15352851.0,31.5325876,-84.20904,Complete data,13
+13097,13,097,13097,Douglas,Douglas County,"Douglas County, GA",county,5.0,551.0,Georgia,GA,"Atlanta, GA",12060.0,27775.0,27727.0,27292.0,518350010.0,2379712.0,33.7012421,-84.7673139,Complete data,13
+13099,13,099,13099,Early,Early County,"Early County, GA",county,5.0,552.0,Georgia,GA,Georgia nonmetropolitan area,,27776.0,27727.0,27292.0,1327626624.0,9702714.0,31.3241906,-84.9067225,Complete data,13
+13101,13,101,,Echols,Echols County,,,,,,,,,,,,1088849470.0,809587.0,30.7140081,-82.8973758,Census only,13
+13103,13,103,13103,Effingham,Effingham County,"Effingham County, GA",county,5.0,554.0,Georgia,GA,"Savannah, GA",42340.0,27778.0,27727.0,27292.0,1240163625.0,10550420.0,32.361688,-81.3433553,Complete data,13
+13105,13,105,13105,Elbert,Elbert County,"Elbert County, GA",county,5.0,555.0,Georgia,GA,Georgia nonmetropolitan area,,27779.0,27727.0,27292.0,909352140.0,59863330.0,34.1164153,-82.8418919,Complete data,13
+13107,13,107,,Emanuel,Emanuel County,,,,,,,,,,,,1762679432.0,24889123.0,32.5912003,-82.3001948,Census only,13
+13109,13,109,13109,Evans,Evans County,"Evans County, GA",county,5.0,557.0,Georgia,GA,Georgia nonmetropolitan area,,27781.0,27727.0,27292.0,473690212.0,10299805.0,32.1530834,-81.890153,Complete data,13
+13111,13,111,13111,Fannin,Fannin County,"Fannin County, GA",county,5.0,558.0,Georgia,GA,Georgia nonmetropolitan area,,27782.0,27727.0,27292.0,1002600783.0,13470320.0,34.8665427,-84.3173308,Complete data,13
+13113,13,113,13113,Fayette,Fayette County,"Fayette County, GA",county,5.0,559.0,Georgia,GA,"Atlanta, GA",12060.0,27783.0,27727.0,27292.0,504256682.0,12780875.0,33.4127172,-84.4939407,Complete data,13
+13115,13,115,13115,Floyd,Floyd County,"Floyd County, GA",county,5.0,560.0,Georgia,GA,"Rome, GA",40660.0,27784.0,27727.0,27292.0,1320461793.0,22356808.0,34.2636901,-85.2136849,Complete data,13
+13117,13,117,13117,Forsyth,Forsyth County,"Forsyth County, GA",county,5.0,561.0,Georgia,GA,"Atlanta, GA",12060.0,27785.0,27727.0,27292.0,581754407.0,58405072.0,34.225143,-84.1274075,Complete data,13
+13119,13,119,13119,Franklin,Franklin County,"Franklin County, GA",county,5.0,562.0,Georgia,GA,Georgia nonmetropolitan area,,27786.0,27727.0,27292.0,676873326.0,12752557.0,34.3752657,-83.2275325,Complete data,13
+13121,13,121,13121,Fulton,Fulton County,"Fulton County, GA",county,5.0,563.0,Georgia,GA,"Atlanta, GA",12060.0,27787.0,27727.0,27292.0,1364484194.0,20639636.0,33.7900338,-84.4681816,Complete data,13
+13123,13,123,13123,Gilmer,Gilmer County,"Gilmer County, GA",county,5.0,564.0,Georgia,GA,Georgia nonmetropolitan area,,27788.0,27727.0,27292.0,1103804462.0,12337139.0,34.6905232,-84.4548113,Complete data,13
+13125,13,125,,Glascock,Glascock County,,,,,,,,,,,,372299252.0,1832723.0,33.2274908,-82.6069126,Census only,13
+13127,13,127,13127,Glynn,Glynn County,"Glynn County, GA",county,5.0,566.0,Georgia,GA,"Brunswick, GA",15260.0,27790.0,27727.0,27292.0,1086818208.0,429140130.0,31.2127098,-81.4964503,Complete data,13
+13129,13,129,13129,Gordon,Gordon County,"Gordon County, GA",county,5.0,567.0,Georgia,GA,"Calhoun, GA",15660.0,27791.0,27727.0,27292.0,923219316.0,5732775.0,34.5096669,-84.8738622,Complete data,13
+13131,13,131,13131,Grady,Grady County,"Grady County, GA",county,5.0,568.0,Georgia,GA,Georgia nonmetropolitan area,,27792.0,27727.0,27292.0,1177052070.0,15026015.0,30.8759004,-84.2449647,Complete data,13
+13133,13,133,13133,Greene,Greene County,"Greene County, GA",county,5.0,569.0,Georgia,GA,Georgia nonmetropolitan area,,27793.0,27727.0,27292.0,1003664492.0,48417220.0,33.5767036,-83.1666253,Complete data,13
+13135,13,135,13135,Gwinnett,Gwinnett County,"Gwinnett County, GA",county,5.0,570.0,Georgia,GA,"Atlanta, GA",12060.0,27794.0,27727.0,27292.0,1116612133.0,15692560.0,33.9587564,-84.0257351,Complete data,13
+13137,13,137,13137,Habersham,Habersham County,"Habersham County, GA",county,5.0,571.0,Georgia,GA,"Cornelia, GA",18460.0,27795.0,27727.0,27292.0,717081397.0,5672376.0,34.6343924,-83.5258749,Complete data,13
+13139,13,139,13139,Hall,Hall County,"Hall County, GA",county,5.0,572.0,Georgia,GA,"Gainesville, GA",23580.0,27796.0,27727.0,27292.0,1016489905.0,93647786.0,34.3175689,-83.8184997,Complete data,13
+13141,13,141,13141,Hancock,Hancock County,"Hancock County, GA",county,5.0,573.0,Georgia,GA,"Milledgeville, GA",33300.0,27797.0,27727.0,27292.0,1220057416.0,17479620.0,33.2692195,-83.0004653,Complete data,13
+13143,13,143,13143,Haralson,Haralson County,"Haralson County, GA",county,5.0,574.0,Georgia,GA,"Atlanta, GA",12060.0,27798.0,27727.0,27292.0,730804597.0,2616531.0,33.7951646,-85.2200629,Complete data,13
+13145,13,145,,Harris,Harris County,,,,,,,,,,,,1201282985.0,23668704.0,32.7315494,-84.912432,Census only,13
+13147,13,147,13147,Hart,Hart County,"Hart County, GA",county,5.0,576.0,Georgia,GA,Georgia nonmetropolitan area,,27800.0,27727.0,27292.0,601970607.0,63521436.0,34.3487328,-82.96329,Complete data,13
+13149,13,149,13149,Heard,Heard County,"Heard County, GA",county,5.0,577.0,Georgia,GA,"Atlanta, GA",12060.0,27801.0,27727.0,27292.0,766567353.0,13263789.0,33.2913469,-85.1378862,Complete data,13
+13151,13,151,13151,Henry,Henry County,"Henry County, GA",county,5.0,578.0,Georgia,GA,"Atlanta, GA",12060.0,27802.0,27727.0,27292.0,825452046.0,20253636.0,33.4529466,-84.1540207,Complete data,13
+13153,13,153,13153,Houston,Houston County,"Houston County, GA",county,5.0,579.0,Georgia,GA,"Warner Robins, GA",47580.0,27803.0,27727.0,27292.0,974236344.0,9708965.0,32.4581466,-83.6623089,Complete data,13
+13155,13,155,13155,Irwin,Irwin County,"Irwin County, GA",county,5.0,580.0,Georgia,GA,Georgia nonmetropolitan area,,27804.0,27727.0,27292.0,917795237.0,21756147.0,31.6043062,-83.2770374,Complete data,13
+13157,13,157,13157,Jackson,Jackson County,"Jackson County, GA",county,5.0,581.0,Georgia,GA,"Jefferson, GA",27600.0,27805.0,27727.0,27292.0,879812977.0,8784885.0,34.1309052,-83.5625568,Complete data,13
+13159,13,159,13159,Jasper,Jasper County,"Jasper County, GA",county,5.0,582.0,Georgia,GA,"Atlanta, GA",12060.0,27806.0,27727.0,27292.0,954167639.0,13100767.0,33.3169807,-83.6891515,Complete data,13
+13161,13,161,,Jeff Davis,Jeff Davis County,,,,,,,,,,,,857075892.0,11600966.0,31.8116153,-82.6368248,Census only,13
+13163,13,163,13163,Jefferson,Jefferson County,"Jefferson County, GA",county,5.0,584.0,Georgia,GA,Georgia nonmetropolitan area,,27808.0,27727.0,27292.0,1363771350.0,8059597.0,33.0581756,-82.4200036,Complete data,13
+13165,13,165,13165,Jenkins,Jenkins County,"Jenkins County, GA",county,5.0,585.0,Georgia,GA,Georgia nonmetropolitan area,,27809.0,27727.0,27292.0,899705945.0,13195935.0,32.7945631,-81.9715244,Complete data,13
+13167,13,167,13167,Johnson,Johnson County,"Johnson County, GA",county,5.0,586.0,Georgia,GA,"Dublin, GA",20140.0,27810.0,27727.0,27292.0,784815228.0,9256633.0,32.6945842,-82.6639696,Complete data,13
+13169,13,169,13169,Jones,Jones County,"Jones County, GA",county,5.0,587.0,Georgia,GA,"Macon, GA",31420.0,27811.0,27727.0,27292.0,1020304153.0,3820256.0,33.0216636,-83.5621958,Complete data,13
+13171,13,171,13171,Lamar,Lamar County,"Lamar County, GA",county,5.0,588.0,Georgia,GA,"Atlanta, GA",12060.0,27812.0,27727.0,27292.0,475264402.0,6044329.0,33.0744405,-84.1466893,Complete data,13
+13173,13,173,13173,Lanier,Lanier County,"Lanier County, GA",county,5.0,589.0,Georgia,GA,"Valdosta, GA",46660.0,27813.0,27727.0,27292.0,509030779.0,8418857.0,31.0381973,-83.0631635,Complete data,13
+13175,13,175,13175,Laurens,Laurens County,"Laurens County, GA",county,5.0,590.0,Georgia,GA,"Dublin, GA",20140.0,27814.0,27727.0,27292.0,2090990052.0,28838459.0,32.3932197,-82.9263171,Complete data,13
+13177,13,177,13177,Lee,Lee County,"Lee County, GA",county,5.0,591.0,Georgia,GA,"Albany, GA",10500.0,27815.0,27727.0,27292.0,921632943.0,15408829.0,31.8184185,-84.1466814,Complete data,13
+13179,13,179,13179,Liberty,Liberty County,"Liberty County, GA",county,5.0,592.0,Georgia,GA,"Hinesville, GA",25980.0,27816.0,27727.0,27292.0,1337632044.0,222884796.0,31.8074582,-81.4578709,Complete data,13
+13181,13,181,13181,Lincoln,Lincoln County,"Lincoln County, GA",county,5.0,593.0,Georgia,GA,"Augusta, GA",12260.0,27817.0,27727.0,27292.0,544884775.0,121513274.0,33.7921507,-82.4482992,Complete data,13
+13183,13,183,13183,Long,Long County,"Long County, GA",county,5.0,594.0,Georgia,GA,"Hinesville, GA",25980.0,27818.0,27727.0,27292.0,1037028629.0,8862019.0,31.7495633,-81.7428697,Complete data,13
+13185,13,185,13185,Lowndes,Lowndes County,"Lowndes County, GA",county,5.0,595.0,Georgia,GA,"Valdosta, GA",46660.0,27819.0,27727.0,27292.0,1287872477.0,34511663.0,30.833145,-83.2689952,Complete data,13
+13187,13,187,13187,Lumpkin,Lumpkin County,"Lumpkin County, GA",county,5.0,596.0,Georgia,GA,Georgia nonmetropolitan area,,27820.0,27727.0,27292.0,732820611.0,3275560.0,34.5681403,-83.9989251,Complete data,13
+13189,13,189,13189,McDuffie,McDuffie County,"McDuffie County, GA",county,5.0,597.0,Georgia,GA,"Augusta, GA",12260.0,27824.0,27727.0,27292.0,666608438.0,23095606.0,33.4806102,-82.4795718,Complete data,13
+13191,13,191,13191,McIntosh,McIntosh County,"McIntosh County, GA",county,5.0,598.0,Georgia,GA,"Brunswick, GA",15260.0,27825.0,27727.0,27292.0,1117184399.0,369182273.0,31.485629,-81.3721413,Complete data,13
+13193,13,193,13193,Macon,Macon County,"Macon County, GA",county,5.0,599.0,Georgia,GA,Georgia nonmetropolitan area,,27821.0,27727.0,27292.0,1037709939.0,13841916.0,32.3626859,-84.0512306,Complete data,13
+13195,13,195,,Madison,Madison County,,,,,,,,,,,,731214551.0,8448220.0,34.1274796,-83.2086525,Census only,13
+13197,13,197,,Marion,Marion County,,,,,,,,,,,,947213855.0,3785944.0,32.3593118,-84.5287354,Census only,13
+13199,13,199,13199,Meriwether,Meriwether County,"Meriwether County, GA",county,5.0,602.0,Georgia,GA,"Atlanta, GA",12060.0,27826.0,27727.0,27292.0,1297342088.0,10832501.0,33.0292666,-84.6670579,Complete data,13
+13201,13,201,13201,Miller,Miller County,"Miller County, GA",county,5.0,603.0,Georgia,GA,Georgia nonmetropolitan area,,27827.0,27727.0,27292.0,731471756.0,3211332.0,31.1629309,-84.7303983,Complete data,13
+13205,13,205,13205,Mitchell,Mitchell County,"Mitchell County, GA",county,5.0,604.0,Georgia,GA,Georgia nonmetropolitan area,,27828.0,27727.0,27292.0,1326483082.0,4314212.0,31.228997,-84.192038,Complete data,13
+13207,13,207,13207,Monroe,Monroe County,"Monroe County, GA",county,5.0,605.0,Georgia,GA,"Macon, GA",31420.0,27829.0,27727.0,27292.0,1025872454.0,5643846.0,33.0187844,-83.921837,Complete data,13
+13209,13,209,,Montgomery,Montgomery County,,,,,,,,,,,,624563059.0,9191488.0,32.1721081,-82.5333487,Census only,13
+13211,13,211,13211,Morgan,Morgan County,"Morgan County, GA",county,5.0,607.0,Georgia,GA,"Atlanta, GA",12060.0,27831.0,27727.0,27292.0,899791082.0,18672325.0,33.5986493,-83.4994157,Complete data,13
+13213,13,213,13213,Murray,Murray County,"Murray County, GA",county,5.0,608.0,Georgia,GA,"Dalton, GA",19140.0,27832.0,27727.0,27292.0,892235590.0,5719192.0,34.7970974,-84.7379899,Complete data,13
+13215,13,215,,Muscogee,Muscogee County,,,,,,,,,,,,560731677.0,11683932.0,32.5101909,-84.8749462,Census only,13
+13217,13,217,13217,Newton,Newton County,"Newton County, GA",county,5.0,610.0,Georgia,GA,"Atlanta, GA",12060.0,27834.0,27727.0,27292.0,709175872.0,13946237.0,33.5527507,-83.8513597,Complete data,13
+13219,13,219,,Oconee,Oconee County,,,,,,,,,,,,477461794.0,5246183.0,33.8341247,-83.4377284,Census only,13
+13221,13,221,,Oglethorpe,Oglethorpe County,,,,,,,,,,,,1137165329.0,7708032.0,33.8668062,-83.0740805,Census only,13
+13223,13,223,13223,Paulding,Paulding County,"Paulding County, GA",county,5.0,613.0,Georgia,GA,"Atlanta, GA",12060.0,27837.0,27727.0,27292.0,809073023.0,5212127.0,33.9210299,-84.8671693,Complete data,13
+13225,13,225,13225,Peach,Peach County,"Peach County, GA",county,5.0,614.0,Georgia,GA,"Warner Robins, GA",47580.0,27838.0,27727.0,27292.0,389233786.0,2678497.0,32.5713241,-83.8319779,Complete data,13
+13227,13,227,13227,Pickens,Pickens County,"Pickens County, GA",county,5.0,615.0,Georgia,GA,"Atlanta, GA",12060.0,27839.0,27727.0,27292.0,601019205.0,1690669.0,34.4567558,-84.4903656,Complete data,13
+13229,13,229,13229,Pierce,Pierce County,"Pierce County, GA",county,5.0,616.0,Georgia,GA,"Waycross, GA",48180.0,27840.0,27727.0,27292.0,881797573.0,7163580.0,31.353998,-82.2103703,Complete data,13
+13231,13,231,13231,Pike,Pike County,"Pike County, GA",county,5.0,617.0,Georgia,GA,"Atlanta, GA",12060.0,27841.0,27727.0,27292.0,559660486.0,8595984.0,33.0811487,-84.3894621,Complete data,13
+13233,13,233,13233,Polk,Polk County,"Polk County, GA",county,5.0,618.0,Georgia,GA,"Cedartown, GA",16340.0,27842.0,27727.0,27292.0,803776466.0,4663881.0,33.9960153,-85.1883384,Complete data,13
+13235,13,235,13235,Pulaski,Pulaski County,"Pulaski County, GA",county,5.0,619.0,Georgia,GA,Georgia nonmetropolitan area,,27843.0,27727.0,27292.0,645583958.0,5046606.0,32.2388026,-83.4818454,Complete data,13
+13237,13,237,13237,Putnam,Putnam County,"Putnam County, GA",county,5.0,620.0,Georgia,GA,Georgia nonmetropolitan area,,27844.0,27727.0,27292.0,892721735.0,41451860.0,33.3210605,-83.3717898,Complete data,13
+13239,13,239,,Quitman,Quitman County,,,,,,,,,,,,391703077.0,24158295.0,31.8629381,-85.0047978,Census only,13
+13241,13,241,13241,Rabun,Rabun County,"Rabun County, GA",county,5.0,622.0,Georgia,GA,Georgia nonmetropolitan area,,27846.0,27727.0,27292.0,958649647.0,17848176.0,34.8839345,-83.4048701,Complete data,13
+13243,13,243,,Randolph,Randolph County,,,,,,,,,,,,1109126228.0,6830041.0,31.762651,-84.7523108,Census only,13
+13245,13,245,13245,Richmond,Richmond County,"Richmond County, GA",county,5.0,624.0,Georgia,GA,"Augusta, GA",12260.0,27848.0,27727.0,27292.0,840036616.0,10995252.0,33.3614863,-82.0749982,Complete data,13
+13247,13,247,13247,Rockdale,Rockdale County,"Rockdale County, GA",county,5.0,625.0,Georgia,GA,"Atlanta, GA",12060.0,27849.0,27727.0,27292.0,336228524.0,5899671.0,33.6520811,-84.0263696,Complete data,13
+13249,13,249,,Schley,Schley County,,,,,,,,,,,,432291202.0,2369649.0,32.2634439,-84.3227083,Census only,13
+13251,13,251,13251,Screven,Screven County,"Screven County, GA",county,5.0,627.0,Georgia,GA,Georgia nonmetropolitan area,,27851.0,27727.0,27292.0,1672668619.0,26023811.0,32.7447512,-81.6175849,Complete data,13
+13253,13,253,13253,Seminole,Seminole County,"Seminole County, GA",county,5.0,628.0,Georgia,GA,Georgia nonmetropolitan area,,27852.0,27727.0,27292.0,615253333.0,49223633.0,30.9339599,-84.8676853,Complete data,13
+13255,13,255,13255,Spalding,Spalding County,"Spalding County, GA",county,5.0,629.0,Georgia,GA,"Atlanta, GA",12060.0,27853.0,27727.0,27292.0,507561204.0,9375991.0,33.2623481,-84.2849046,Complete data,13
+13257,13,257,13257,Stephens,Stephens County,"Stephens County, GA",county,5.0,630.0,Georgia,GA,"Toccoa, GA",45740.0,27854.0,27727.0,27292.0,463250301.0,13039270.0,34.5535825,-83.2905877,Complete data,13
+13259,13,259,,Stewart,Stewart County,,,,,,,,,,,,1188198306.0,12553229.0,32.073225,-84.8349117,Census only,13
+13261,13,261,13261,Sumter,Sumter County,"Sumter County, GA",county,5.0,632.0,Georgia,GA,"Americus, GA",11140.0,27856.0,27727.0,27292.0,1250646291.0,25211441.0,32.0422659,-84.2042935,Complete data,13
+13263,13,263,,Talbot,Talbot County,,,,,,,,,,,,1013662779.0,8766848.0,32.7046026,-84.5300288,Census only,13
+13265,13,265,13265,Taliaferro,Taliaferro County,"Taliaferro County, GA",county,5.0,634.0,Georgia,GA,Georgia nonmetropolitan area,,27858.0,27727.0,27292.0,504029144.0,1917633.0,33.559319,-82.8752721,Complete data,13
+13267,13,267,13267,Tattnall,Tattnall County,"Tattnall County, GA",county,5.0,635.0,Georgia,GA,Georgia nonmetropolitan area,,27859.0,27727.0,27292.0,1245369508.0,19447411.0,32.0437683,-82.0592081,Complete data,13
+13269,13,269,13269,Taylor,Taylor County,"Taylor County, GA",county,5.0,636.0,Georgia,GA,Georgia nonmetropolitan area,,27860.0,27727.0,27292.0,975613073.0,7801539.0,32.5546668,-84.2514261,Complete data,13
+13271,13,271,13271,Telfair,Telfair County,"Telfair County, GA",county,5.0,637.0,Georgia,GA,Georgia nonmetropolitan area,,27861.0,27727.0,27292.0,1132621092.0,17356399.0,31.9136406,-82.9310634,Complete data,13
+13273,13,273,13273,Terrell,Terrell County,"Terrell County, GA",county,5.0,638.0,Georgia,GA,"Albany, GA",10500.0,27862.0,27727.0,27292.0,869695790.0,4951325.0,31.7771909,-84.4394464,Complete data,13
+13275,13,275,13275,Thomas,Thomas County,"Thomas County, GA",county,5.0,639.0,Georgia,GA,"Thomasville, GA",45620.0,27863.0,27727.0,27292.0,1410592607.0,19645695.0,30.8646195,-83.9198155,Complete data,13
+13277,13,277,13277,Tift,Tift County,"Tift County, GA",county,5.0,640.0,Georgia,GA,"Tifton, GA",45700.0,27864.0,27727.0,27292.0,675702322.0,20458292.0,31.4570027,-83.5259307,Complete data,13
+13279,13,279,13279,Toombs,Toombs County,"Toombs County, GA",county,5.0,641.0,Georgia,GA,"Vidalia, GA",47080.0,27865.0,27727.0,27292.0,942794614.0,18070371.0,32.1177534,-82.3305967,Complete data,13
+13281,13,281,13281,Towns,Towns County,"Towns County, GA",county,5.0,642.0,Georgia,GA,Georgia nonmetropolitan area,,27866.0,27727.0,27292.0,431178090.0,13754198.0,34.9025294,-83.7322645,Complete data,13
+13283,13,283,13283,Treutlen,Treutlen County,"Treutlen County, GA",county,5.0,643.0,Georgia,GA,"Dublin, GA",20140.0,27867.0,27727.0,27292.0,516524094.0,7810908.0,32.4095857,-82.5708819,Complete data,13
+13285,13,285,13285,Troup,Troup County,"Troup County, GA",county,5.0,644.0,Georgia,GA,"LaGrange, GA",29300.0,27868.0,27727.0,27292.0,1072294219.0,82741748.0,33.034482,-85.02836,Complete data,13
+13287,13,287,13287,Turner,Turner County,"Turner County, GA",county,5.0,645.0,Georgia,GA,Georgia nonmetropolitan area,,27869.0,27727.0,27292.0,739227758.0,11818093.0,31.7248005,-83.6203195,Complete data,13
+13289,13,289,13289,Twiggs,Twiggs County,"Twiggs County, GA",county,5.0,646.0,Georgia,GA,"Macon, GA",31420.0,27870.0,27727.0,27292.0,930478094.0,8740237.0,32.6658469,-83.4258792,Complete data,13
+13291,13,291,13291,Union,Union County,"Union County, GA",county,5.0,647.0,Georgia,GA,Georgia nonmetropolitan area,,27871.0,27727.0,27292.0,834191643.0,18088424.0,34.833333,-83.9892568,Complete data,13
+13293,13,293,13293,Upson,Upson County,"Upson County, GA",county,5.0,648.0,Georgia,GA,"Thomaston, GA",45580.0,27872.0,27727.0,27292.0,837774877.0,10585407.0,32.8818367,-84.2922831,Complete data,13
+13295,13,295,,Walker,Walker County,,,,,,,,,,,,1155874770.0,1672676.0,34.735802,-85.3054565,Census only,13
+13297,13,297,13297,Walton,Walton County,"Walton County, GA",county,5.0,650.0,Georgia,GA,"Atlanta, GA",12060.0,27874.0,27727.0,27292.0,846460828.0,8234411.0,33.7838866,-83.731829,Complete data,13
+13299,13,299,13299,Ware,Ware County,"Ware County, GA",county,5.0,651.0,Georgia,GA,"Waycross, GA",48180.0,27875.0,27727.0,27292.0,2329024282.0,22651640.0,31.050881,-82.4215072,Complete data,13
+13301,13,301,13301,Warren,Warren County,"Warren County, GA",county,5.0,652.0,Georgia,GA,Georgia nonmetropolitan area,,27876.0,27727.0,27292.0,736510932.0,6007154.0,33.4083813,-82.675685,Complete data,13
+13303,13,303,13303,Washington,Washington County,"Washington County, GA",county,5.0,653.0,Georgia,GA,Georgia nonmetropolitan area,,27877.0,27727.0,27292.0,1757374002.0,15098975.0,32.9718435,-82.7981124,Complete data,13
+13305,13,305,13305,Wayne,Wayne County,"Wayne County, GA",county,5.0,654.0,Georgia,GA,"Jesup, GA",27700.0,27878.0,27727.0,27292.0,1662287074.0,17768149.0,31.5478449,-81.9123763,Complete data,13
+13307,13,307,,Webster,Webster County,,,,,,,,,,,,543010089.0,2338844.0,32.0466911,-84.5538279,Census only,13
+13309,13,309,,Wheeler,Wheeler County,,,,,,,,,,,,765314382.0,12377032.0,32.105258,-82.7338492,Census only,13
+13311,13,311,13311,White,White County,"White County, GA",county,5.0,657.0,Georgia,GA,Georgia nonmetropolitan area,,27881.0,27727.0,27292.0,623600283.0,3841608.0,34.6441817,-83.7430004,Complete data,13
+13313,13,313,13313,Whitfield,Whitfield County,"Whitfield County, GA",county,5.0,658.0,Georgia,GA,"Dalton, GA",19140.0,27882.0,27727.0,27292.0,752249530.0,1578157.0,34.8017261,-84.968541,Complete data,13
+13315,13,315,13315,Wilcox,Wilcox County,"Wilcox County, GA",county,5.0,659.0,Georgia,GA,Georgia nonmetropolitan area,,27883.0,27727.0,27292.0,978525380.0,11147628.0,31.9627199,-83.4382586,Complete data,13
+13317,13,317,13317,Wilkes,Wilkes County,"Wilkes County, GA",county,5.0,660.0,Georgia,GA,Georgia nonmetropolitan area,,27884.0,27727.0,27292.0,1216008875.0,11889477.0,33.7790312,-82.7479211,Complete data,13
+13319,13,319,13319,Wilkinson,Wilkinson County,"Wilkinson County, GA",county,5.0,661.0,Georgia,GA,Georgia nonmetropolitan area,,27885.0,27727.0,27292.0,1163481422.0,7063256.0,32.8042663,-83.1755122,Complete data,13
+13321,13,321,13321,Worth,Worth County,"Worth County, GA",county,5.0,662.0,Georgia,GA,"Albany, GA",10500.0,27886.0,27727.0,27292.0,1478084027.0,10525364.0,31.5517733,-83.8499598,Complete data,13
