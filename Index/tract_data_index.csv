@@ -1,0 +1,51 @@
+state_code,state_name,state_fips,total_tracts,tracts_with_geometry,tracts_with_redfin,csv_file,geojson_file
+AL,Alabama,01,3355,3355,2783,AL_tract_data.csv,AL_tract_geometry.geojson
+AK,Alaska,02,434,434,185,AK_tract_data.csv,AK_tract_geometry.geojson
+AZ,Arizona,04,2823,2823,2636,AZ_tract_data.csv,AZ_tract_geometry.geojson
+AR,Arkansas,05,2169,2169,1534,AR_tract_data.csv,AR_tract_geometry.geojson
+CA,California,06,14631,14631,14212,CA_tract_data.csv,CA_tract_geometry.geojson
+CO,Colorado,08,2712,2712,2324,CO_tract_data.csv,CO_tract_geometry.geojson
+DE,Delaware,10,472,472,325,DE_tract_data.csv,DE_tract_geometry.geojson
+DC,District of Columbia,11,322,322,288,DC_tract_data.csv,DC_tract_geometry.geojson
+FL,Florida,12,8000,8000,7701,FL_tract_data.csv,FL_tract_geometry.geojson
+GA,Georgia,13,5322,5322,4249,GA_tract_data.csv,GA_tract_geometry.geojson
+HI,Hawaii,15,550,550,531,HI_tract_data.csv,HI_tract_geometry.geojson
+ID,Idaho,16,986,986,808,ID_tract_data.csv,ID_tract_geometry.geojson
+IL,Illinois,17,7050,7050,6179,IL_tract_data.csv,IL_tract_geometry.geojson
+IN,Indiana,18,3924,3924,3444,IN_tract_data.csv,IN_tract_geometry.geojson
+IA,Iowa,19,3080,3080,1720,IA_tract_data.csv,IA_tract_geometry.geojson
+KS,Kansas,20,2301,2301,1528,KS_tract_data.csv,KS_tract_geometry.geojson
+KY,Kentucky,21,3074,3074,1992,KY_tract_data.csv,KY_tract_geometry.geojson
+LA,Louisiana,22,2578,2578,2254,LA_tract_data.csv,LA_tract_geometry.geojson
+ME,Maine,23,741,741,361,ME_tract_data.csv,ME_tract_geometry.geojson
+MD,Maryland,24,2688,2688,2483,MD_tract_data.csv,MD_tract_geometry.geojson
+MA,Massachusetts,25,2320,2320,2288,MA_tract_data.csv,MA_tract_geometry.geojson
+MI,Michigan,26,5757,5757,4811,MI_tract_data.csv,MI_tract_geometry.geojson
+MN,Minnesota,27,3676,3676,2450,MN_tract_data.csv,MN_tract_geometry.geojson
+MS,Mississippi,28,2069,2069,1280,MS_tract_data.csv,MS_tract_geometry.geojson
+MO,Missouri,29,4287,4287,3106,MO_tract_data.csv,MO_tract_geometry.geojson
+MT,Montana,30,946,946,389,MT_tract_data.csv,MT_tract_geometry.geojson
+NE,Nebraska,31,1745,1745,1004,NE_tract_data.csv,NE_tract_geometry.geojson
+NV,Nevada,32,1170,1170,1119,NV_tract_data.csv,NV_tract_geometry.geojson
+NH,New Hampshire,33,588,588,530,NH_tract_data.csv,NH_tract_geometry.geojson
+NJ,New Jersey,34,3172,3172,3157,NJ_tract_data.csv,NJ_tract_geometry.geojson
+NM,New Mexico,35,1302,1302,741,NM_tract_data.csv,NM_tract_geometry.geojson
+NY,New York,36,10239,10239,9491,NY_tract_data.csv,NY_tract_geometry.geojson
+NC,North Carolina,37,5446,5446,4837,NC_tract_data.csv,NC_tract_geometry.geojson
+ND,North Dakota,38,918,918,245,ND_tract_data.csv,ND_tract_geometry.geojson
+OH,Ohio,39,6837,6837,6270,OH_tract_data.csv,OH_tract_geometry.geojson
+OK,Oklahoma,40,2757,2757,1991,OK_tract_data.csv,OK_tract_geometry.geojson
+OR,Oregon,41,1992,1992,1846,OR_tract_data.csv,OR_tract_geometry.geojson
+PA,Pennsylvania,42,7841,7841,7196,PA_tract_data.csv,PA_tract_geometry.geojson
+RI,Rhode Island,44,390,390,384,RI_tract_data.csv,RI_tract_geometry.geojson
+SC,South Carolina,45,2615,2615,1911,SC_tract_data.csv,SC_tract_geometry.geojson
+SD,South Dakota,46,947,947,452,SD_tract_data.csv,SD_tract_geometry.geojson
+TN,Tennessee,47,3635,3635,2901,TN_tract_data.csv,TN_tract_geometry.geojson
+TX,Texas,48,12042,12042,10253,TX_tract_data.csv,TX_tract_geometry.geojson
+UT,Utah,49,1305,1305,1149,UT_tract_data.csv,UT_tract_geometry.geojson
+VT,Vermont,50,580,580,378,VT_tract_data.csv,VT_tract_geometry.geojson
+VA,Virginia,51,4405,4405,3500,VA_tract_data.csv,VA_tract_geometry.geojson
+WA,Washington,53,3330,3330,3097,WA_tract_data.csv,WA_tract_geometry.geojson
+WV,West Virginia,54,1919,1919,1193,WV_tract_data.csv,WV_tract_geometry.geojson
+WI,Wisconsin,55,3707,3707,2747,WI_tract_data.csv,WI_tract_geometry.geojson
+WY,Wyoming,56,422,422,242,WY_tract_data.csv,WY_tract_geometry.geojson
