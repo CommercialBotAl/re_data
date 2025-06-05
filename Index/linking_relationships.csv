@@ -1,0 +1,5 @@
+link_type,display_name,description,census_column,redfin_column,fred_column
+zip_code,ZIP Code,5-digit ZIP code for geographic linking,zip,table_id,
+county,County,County identifier and name,county,table_id,county_fips
+state,State,State identifier (FIPS code or abbreviation),state,state_code,state_fips
+tract,Census Tract,11-digit Census tract identifier,GEOID,,
