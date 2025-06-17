@@ -1,0 +1,18 @@
+GEOID,STATEFP,COUNTYFP,fred_county_fips,NAME,NAMELSAD,region,region_type,region_type_id,table_id,state,state_code,parent_metro_region,parent_metro_region_metro_code,fred_child_id,fred_region_id,fred_state_id,ALAND,AWATER,INTPTLAT,INTPTLON,data_source,state_fips
+32001,32,001,32001,Churchill,Churchill County,"Churchill County, NV",county,5.0,1864.0,Nevada,NV,"Fallon, NV",21980.0,29108.0,29106.0,27310.0,12820847800.0,190742991.0,39.5377097,-118.2641661,Complete data,32
+32003,32,003,32003,Clark,Clark County,"Clark County, NV",county,5.0,1865.0,Nevada,NV,"Las Vegas, NV",29820.0,29109.0,29106.0,27310.0,20439308560.0,438384090.0,36.2141295,-115.0143977,Complete data,32
+32005,32,005,32005,Douglas,Douglas County,"Douglas County, NV",county,5.0,1866.0,Nevada,NV,"Gardnerville Ranchos, NV",23820.0,29110.0,29106.0,27310.0,1840283025.0,72182210.0,38.9051292,-119.6090191,Complete data,32
+32007,32,007,32007,Elko,Elko County,"Elko County, NV",county,5.0,1867.0,Nevada,NV,"Elko, NV",21220.0,29111.0,29106.0,27310.0,44478647073.0,75156805.0,41.1411327,-115.3514239,Complete data,32
+32009,32,009,,Esmeralda,Esmeralda County,,,,,,,,,,,,9277050177.0,18552010.0,37.7789658,-117.6323824,Census only,32
+32011,32,011,32011,Eureka,Eureka County,"Eureka County, NV",county,5.0,1869.0,Nevada,NV,"Elko, NV",21220.0,29113.0,29106.0,27310.0,10814982420.0,11058701.0,39.9777878,-116.2722082,Complete data,32
+32013,32,013,32013,Humboldt,Humboldt County,"Humboldt County, NV",county,5.0,1870.0,Nevada,NV,"Winnemucca, NV",49080.0,29114.0,29106.0,27310.0,24969535383.0,44194899.0,41.4079136,-118.1275915,Complete data,32
+32015,32,015,32015,Lander,Lander County,"Lander County, NV",county,5.0,1871.0,Nevada,NV,Nevada nonmetropolitan area,,29115.0,29106.0,27310.0,14294783207.0,662270.0,39.9002105,-117.0472398,Complete data,32
+32017,32,017,32017,Lincoln,Lincoln County,"Lincoln County, NV",county,5.0,1872.0,Nevada,NV,Nevada nonmetropolitan area,,29116.0,29106.0,27310.0,27540342258.0,9802713.0,37.634605,-114.8630367,Complete data,32
+32019,32,019,32019,Lyon,Lyon County,"Lyon County, NV",county,5.0,1873.0,Nevada,NV,"Fernley, NV",22280.0,29117.0,29106.0,27310.0,5187884841.0,59489121.0,39.0222125,-119.1974246,Complete data,32
+32021,32,021,32021,Mineral,Mineral County,"Mineral County, NV",county,5.0,1874.0,Nevada,NV,Nevada nonmetropolitan area,,29118.0,29106.0,27310.0,9715777469.0,155864513.0,38.516647,-118.4162794,Complete data,32
+32023,32,023,32023,Nye,Nye County,"Nye County, NV",county,5.0,1875.0,Nevada,NV,"Pahrump, NV",37220.0,29119.0,29106.0,27310.0,47090939240.0,43207981.0,37.9658636,-116.4590107,Complete data,32
+32027,32,027,32027,Pershing,Pershing County,"Pershing County, NV",county,5.0,1876.0,Nevada,NV,Nevada nonmetropolitan area,,29120.0,29106.0,27310.0,15634691981.0,79934815.0,40.439639,-118.4094765,Complete data,32
+32029,32,029,32029,Storey,Storey County,"Storey County, NV",county,5.0,1877.0,Nevada,NV,"Reno, NV",39900.0,29121.0,29106.0,27310.0,683238145.0,1881143.0,39.4383853,-119.5246462,Complete data,32
+32031,32,031,32031,Washoe,Washoe County,"Washoe County, NV",county,5.0,1878.0,Nevada,NV,"Reno, NV",39900.0,29122.0,29106.0,27310.0,16358036307.0,582745905.0,40.7313196,-119.6632695,Complete data,32
+32033,32,033,32033,White Pine,White Pine County,"White Pine County, NV",county,5.0,1879.0,Nevada,NV,Nevada nonmetropolitan area,,29123.0,29106.0,27310.0,23016356487.0,23426584.0,39.4181759,-114.9005649,Complete data,32
+32510,32,510,32510,Carson City,Carson City,"Carson City, NV",county,5.0,1880.0,Nevada,NV,"Carson City, NV",16180.0,29107.0,29106.0,27310.0,374341370.0,32594082.0,39.1530598,-119.7473681,Complete data,32

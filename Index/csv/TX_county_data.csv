@@ -1,0 +1,255 @@
+GEOID,STATEFP,COUNTYFP,fred_county_fips,NAME,NAMELSAD,region,region_type,region_type_id,table_id,state,state_code,parent_metro_region,parent_metro_region_metro_code,fred_child_id,fred_region_id,fred_state_id,ALAND,AWATER,INTPTLAT,INTPTLON,data_source,state_fips
+48001,48,001,48001,Anderson,Anderson County,"Anderson County, TX",county,5.0,2640.0,Texas,TX,"Palestine, TX",37300.0,29899.0,29898.0,27326.0,2752164823.0,39845046.0,31.8412614,-95.6617267,Complete data,48
+48003,48,003,48003,Andrews,Andrews County,"Andrews County, TX",county,5.0,2641.0,Texas,TX,"Andrews, TX",11380.0,29900.0,29898.0,27326.0,3886758050.0,1049250.0,32.3122581,-102.6402058,Complete data,48
+48005,48,005,48005,Angelina,Angelina County,"Angelina County, TX",county,5.0,2642.0,Texas,TX,"Lufkin, TX",31260.0,29901.0,29898.0,27326.0,2066462047.0,173298854.0,31.2518963,-94.6111337,Complete data,48
+48007,48,007,48007,Aransas,Aransas County,"Aransas County, TX",county,5.0,2643.0,Texas,TX,"Rockport, TX",40530.0,29902.0,29898.0,27326.0,652854899.0,714540288.0,28.1226209,-96.9675012,Complete data,48
+48009,48,009,48009,Archer,Archer County,"Archer County, TX",county,5.0,2644.0,Texas,TX,"Wichita Falls, TX",48660.0,29903.0,29898.0,27326.0,2339508193.0,57767719.0,33.6163054,-98.6872669,Complete data,48
+48011,48,011,48011,Armstrong,Armstrong County,"Armstrong County, TX",county,5.0,2645.0,Texas,TX,"Amarillo, TX",11100.0,29904.0,29898.0,27326.0,2354617584.0,12183672.0,34.964179,-101.3566363,Complete data,48
+48013,48,013,48013,Atascosa,Atascosa County,"Atascosa County, TX",county,5.0,2646.0,Texas,TX,"San Antonio, TX",41700.0,29905.0,29898.0,27326.0,3158599705.0,4992623.0,28.8914775,-98.535381,Complete data,48
+48015,48,015,48015,Austin,Austin County,"Austin County, TX",county,5.0,2647.0,Texas,TX,"Houston, TX",26420.0,29906.0,29898.0,27326.0,1674415877.0,25596214.0,29.8919013,-96.2701696,Complete data,48
+48017,48,017,48017,Bailey,Bailey County,"Bailey County, TX",county,5.0,2648.0,Texas,TX,Texas nonmetropolitan area,,29907.0,29898.0,27326.0,2141847189.0,1775275.0,34.0675209,-102.8303446,Complete data,48
+48019,48,019,48019,Bandera,Bandera County,"Bandera County, TX",county,5.0,2649.0,Texas,TX,"San Antonio, TX",41700.0,29908.0,29898.0,27326.0,2048663908.0,17291422.0,29.756389,-99.2482849,Complete data,48
+48021,48,021,48021,Bastrop,Bastrop County,"Bastrop County, TX",county,5.0,2650.0,Texas,TX,"Austin, TX",12420.0,29909.0,29898.0,27326.0,2300500051.0,19009784.0,30.1007718,-97.3106392,Complete data,48
+48023,48,023,48023,Baylor,Baylor County,"Baylor County, TX",county,5.0,2651.0,Texas,TX,Texas nonmetropolitan area,,29910.0,29898.0,27326.0,2246764590.0,86991035.0,33.6188024,-99.2081888,Complete data,48
+48025,48,025,48025,Bee,Bee County,"Bee County, TX",county,5.0,2652.0,Texas,TX,"Beeville, TX",13300.0,29911.0,29898.0,27326.0,2279809489.0,246409.0,28.4160769,-97.7425858,Complete data,48
+48027,48,027,48027,Bell,Bell County,"Bell County, TX",county,5.0,2653.0,Texas,TX,"Killeen, TX",28660.0,29912.0,29898.0,27326.0,2729423360.0,94370432.0,31.0427336,-97.4812603,Complete data,48
+48029,48,029,48029,Bexar,Bexar County,"Bexar County, TX",county,5.0,2654.0,Texas,TX,"San Antonio, TX",41700.0,29913.0,29898.0,27326.0,3212517260.0,40698142.0,29.4486708,-98.5201465,Complete data,48
+48031,48,031,48031,Blanco,Blanco County,"Blanco County, TX",county,5.0,2655.0,Texas,TX,Texas nonmetropolitan area,,29914.0,29898.0,27326.0,1836953707.0,10813186.0,30.266203,-98.3993321,Complete data,48
+48033,48,033,,Borden,Borden County,,,,,,,,,,,,2324366072.0,22297606.0,32.7385899,-101.439199,Census only,48
+48035,48,035,48035,Bosque,Bosque County,"Bosque County, TX",county,5.0,2657.0,Texas,TX,Texas nonmetropolitan area,,29916.0,29898.0,27326.0,2545883877.0,50838528.0,31.9008189,-97.6376407,Complete data,48
+48037,48,037,48037,Bowie,Bowie County,"Bowie County, TX",county,5.0,2658.0,Texas,TX,"Texarkana, TX",45500.0,29917.0,29898.0,27326.0,2291982022.0,98385599.0,33.4460648,-94.422393,Complete data,48
+48039,48,039,48039,Brazoria,Brazoria County,"Brazoria County, TX",county,5.0,2659.0,Texas,TX,"Houston, TX",26420.0,29918.0,29898.0,27326.0,3530893148.0,635502987.0,29.1678175,-95.434647,Complete data,48
+48041,48,041,48041,Brazos,Brazos County,"Brazos County, TX",county,5.0,2660.0,Texas,TX,"College Station, TX",17780.0,29919.0,29898.0,27326.0,1518090937.0,13210254.0,30.6567132,-96.3023935,Complete data,48
+48043,48,043,48043,Brewster,Brewster County,"Brewster County, TX",county,5.0,2661.0,Texas,TX,Texas nonmetropolitan area,,29920.0,29898.0,27326.0,16015872747.0,22061017.0,29.8089965,-103.2524579,Complete data,48
+48045,48,045,48045,Briscoe,Briscoe County,"Briscoe County, TX",county,5.0,2662.0,Texas,TX,Texas nonmetropolitan area,,29921.0,29898.0,27326.0,2330991073.0,4068657.0,34.5251725,-101.205893,Complete data,48
+48047,48,047,,Brooks,Brooks County,,,,,,,,,,,,2443277014.0,741627.0,27.0349936,-98.2152756,Census only,48
+48049,48,049,48049,Brown,Brown County,"Brown County, TX",county,5.0,2664.0,Texas,TX,"Brownwood, TX",15220.0,29923.0,29898.0,27326.0,2446120254.0,32375524.0,31.7641372,-98.998456,Complete data,48
+48051,48,051,48051,Burleson,Burleson County,"Burleson County, TX",county,5.0,2665.0,Texas,TX,"College Station, TX",17780.0,29924.0,29898.0,27326.0,1707015415.0,46043534.0,30.4934867,-96.6220912,Complete data,48
+48053,48,053,48053,Burnet,Burnet County,"Burnet County, TX",county,5.0,2666.0,Texas,TX,Texas nonmetropolitan area,,29925.0,29898.0,27326.0,2576613155.0,69768878.0,30.7896305,-98.2011868,Complete data,48
+48055,48,055,48055,Caldwell,Caldwell County,"Caldwell County, TX",county,5.0,2667.0,Texas,TX,"Austin, TX",12420.0,29926.0,29898.0,27326.0,1410355148.0,4949869.0,29.8323986,-97.628141,Complete data,48
+48057,48,057,48057,Calhoun,Calhoun County,"Calhoun County, TX",county,5.0,2668.0,Texas,TX,"Port Lavaca, TX",38920.0,29927.0,29898.0,27326.0,1312947260.0,1361644522.0,28.4417191,-96.5795739,Complete data,48
+48059,48,059,48059,Callahan,Callahan County,"Callahan County, TX",county,5.0,2669.0,Texas,TX,"Abilene, TX",10180.0,29928.0,29898.0,27326.0,2329363243.0,4898783.0,32.2931499,-99.372249,Complete data,48
+48061,48,061,48061,Cameron,Cameron County,"Cameron County, TX",county,5.0,2670.0,Texas,TX,"Brownsville, TX",15180.0,29929.0,29898.0,27326.0,2309546780.0,1004825707.0,26.1029227,-97.4789584,Complete data,48
+48063,48,063,48063,Camp,Camp County,"Camp County, TX",county,5.0,2671.0,Texas,TX,"Mount Pleasant, TX",34420.0,29930.0,29898.0,27326.0,507242364.0,19129375.0,32.9745813,-94.979085,Complete data,48
+48065,48,065,48065,Carson,Carson County,"Carson County, TX",county,5.0,2672.0,Texas,TX,"Amarillo, TX",11100.0,29931.0,29898.0,27326.0,2383397226.0,10026604.0,35.4054961,-101.3553558,Complete data,48
+48067,48,067,48067,Cass,Cass County,"Cass County, TX",county,5.0,2673.0,Texas,TX,Texas nonmetropolitan area,,29932.0,29898.0,27326.0,2426682342.0,60495293.0,33.0836979,-94.3575786,Complete data,48
+48069,48,069,48069,Castro,Castro County,"Castro County, TX",county,5.0,2674.0,Texas,TX,Texas nonmetropolitan area,,29933.0,29898.0,27326.0,2316600394.0,12557414.0,34.5336207,-102.2587856,Complete data,48
+48071,48,071,48071,Chambers,Chambers County,"Chambers County, TX",county,5.0,2675.0,Texas,TX,"Houston, TX",26420.0,29934.0,29898.0,27326.0,1546772773.0,709489352.0,29.6963741,-94.6694454,Complete data,48
+48073,48,073,48073,Cherokee,Cherokee County,"Cherokee County, TX",county,5.0,2676.0,Texas,TX,"Jacksonville, TX",27380.0,29935.0,29898.0,27326.0,2727137884.0,23876781.0,31.8438807,-95.1563425,Complete data,48
+48075,48,075,,Childress,Childress County,,,,,,,,,,,,1803954628.0,44560655.0,34.5246235,-100.2081658,Census only,48
+48077,48,077,48077,Clay,Clay County,"Clay County, TX",county,5.0,2678.0,Texas,TX,"Wichita Falls, TX",48660.0,29937.0,29898.0,27326.0,2819873723.0,72504932.0,33.7859042,-98.2129174,Complete data,48
+48079,48,079,48079,Cochran,Cochran County,"Cochran County, TX",county,5.0,2679.0,Texas,TX,Texas nonmetropolitan area,,29938.0,29898.0,27326.0,2007453830.0,229068.0,33.6084401,-102.830449,Complete data,48
+48081,48,081,48081,Coke,Coke County,"Coke County, TX",county,5.0,2680.0,Texas,TX,Texas nonmetropolitan area,,29939.0,29898.0,27326.0,2361153198.0,42331832.0,31.8771104,-100.6352305,Complete data,48
+48083,48,083,48083,Coleman,Coleman County,"Coleman County, TX",county,5.0,2681.0,Texas,TX,Texas nonmetropolitan area,,29940.0,29898.0,27326.0,3270933230.0,47963343.0,31.9142052,-99.3466223,Complete data,48
+48085,48,085,48085,Collin,Collin County,"Collin County, TX",county,5.0,2682.0,Texas,TX,"Dallas, TX",19124.0,29941.0,29898.0,27326.0,2179124834.0,115254448.0,33.1944942,-96.579428,Complete data,48
+48087,48,087,,Collingsworth,Collingsworth County,,,,,,,,,,,,2378750407.0,2278703.0,34.9633577,-100.2721351,Census only,48
+48089,48,089,48089,Colorado,Colorado County,"Colorado County, TX",county,5.0,2684.0,Texas,TX,Texas nonmetropolitan area,,29943.0,29898.0,27326.0,2487142714.0,34691167.0,29.596296,-96.5089347,Complete data,48
+48091,48,091,48091,Comal,Comal County,"Comal County, TX",county,5.0,2685.0,Texas,TX,"San Antonio, TX",41700.0,29944.0,29898.0,27326.0,1449193858.0,39744161.0,29.8123773,-98.2581288,Complete data,48
+48093,48,093,48093,Comanche,Comanche County,"Comanche County, TX",county,5.0,2686.0,Texas,TX,Texas nonmetropolitan area,,29945.0,29898.0,27326.0,2428768926.0,25719485.0,31.9516447,-98.5496169,Complete data,48
+48095,48,095,48095,Concho,Concho County,"Concho County, TX",county,5.0,2687.0,Texas,TX,Texas nonmetropolitan area,,29946.0,29898.0,27326.0,2547914005.0,25740025.0,31.3188831,-99.8636485,Complete data,48
+48097,48,097,48097,Cooke,Cooke County,"Cooke County, TX",county,5.0,2688.0,Texas,TX,"Gainesville, TX",23620.0,29947.0,29898.0,27326.0,2265789888.0,61319327.0,33.6391964,-97.2103433,Complete data,48
+48099,48,099,48099,Coryell,Coryell County,"Coryell County, TX",county,5.0,2689.0,Texas,TX,"Killeen, TX",28660.0,29948.0,29898.0,27326.0,2725307440.0,11833644.0,31.3911774,-97.7980223,Complete data,48
+48101,48,101,,Cottle,Cottle County,,,,,,,,,,,,2332448732.0,2723997.0,34.0919063,-100.2764416,Census only,48
+48103,48,103,48103,Crane,Crane County,"Crane County, TX",county,5.0,2691.0,Texas,TX,Texas nonmetropolitan area,,29950.0,29898.0,27326.0,2033319685.0,1695980.0,31.4227965,-102.4877739,Complete data,48
+48105,48,105,,Crockett,Crockett County,,,,,,,,,,,,7270935061.0,53329.0,30.7175316,-101.4042113,Census only,48
+48107,48,107,48107,Crosby,Crosby County,"Crosby County, TX",county,5.0,2693.0,Texas,TX,"Lubbock, TX",31180.0,29952.0,29898.0,27326.0,2331503444.0,3873557.0,33.609144,-101.2987099,Complete data,48
+48109,48,109,48109,Culberson,Culberson County,"Culberson County, TX",county,5.0,2694.0,Texas,TX,Texas nonmetropolitan area,,29953.0,29898.0,27326.0,9873439555.0,556134.0,31.4459085,-104.5269447,Complete data,48
+48111,48,111,48111,Dallam,Dallam County,"Dallam County, TX",county,5.0,2695.0,Texas,TX,Texas nonmetropolitan area,,29954.0,29898.0,27326.0,3893666619.0,4609040.0,36.2863696,-102.5940204,Complete data,48
+48113,48,113,48113,Dallas,Dallas County,"Dallas County, TX",county,5.0,2696.0,Texas,TX,"Dallas, TX",19124.0,29955.0,29898.0,27326.0,2261472801.0,91902249.0,32.7669866,-96.7784238,Complete data,48
+48115,48,115,48115,Dawson,Dawson County,"Dawson County, TX",county,5.0,2697.0,Texas,TX,"Lamesa, TX",29500.0,29956.0,29898.0,27326.0,2331781562.0,4720730.0,32.742528,-101.9487714,Complete data,48
+48117,48,117,48117,Deaf Smith,Deaf Smith County,"Deaf Smith County, TX",county,5.0,2698.0,Texas,TX,"Hereford, TX",25820.0,29957.0,29898.0,27326.0,3876750569.0,3926557.0,34.9407663,-102.6075637,Complete data,48
+48119,48,119,48119,Delta,Delta County,"Delta County, TX",county,5.0,2699.0,Texas,TX,Texas nonmetropolitan area,,29958.0,29898.0,27326.0,665192724.0,54647564.0,33.3859329,-95.6733504,Complete data,48
+48121,48,121,48121,Denton,Denton County,"Denton County, TX",county,5.0,2700.0,Texas,TX,"Dallas, TX",19124.0,29959.0,29898.0,27326.0,2275952556.0,188838351.0,33.205132,-97.1211403,Complete data,48
+48123,48,123,48123,DeWitt,DeWitt County,"DeWitt County, TX",county,5.0,2701.0,Texas,TX,Texas nonmetropolitan area,,29960.0,29898.0,27326.0,2354237964.0,3919919.0,29.0823457,-97.3616543,Complete data,48
+48125,48,125,48125,Dickens,Dickens County,"Dickens County, TX",county,5.0,2702.0,Texas,TX,Texas nonmetropolitan area,,29961.0,29898.0,27326.0,2335454676.0,9057848.0,33.6153628,-100.7876173,Complete data,48
+48127,48,127,,Dimmit,Dimmit County,,,,,,,,,,,,3441795902.0,14575999.0,28.4235871,-99.7658713,Census only,48
+48129,48,129,48129,Donley,Donley County,"Donley County, TX",county,5.0,2704.0,Texas,TX,Texas nonmetropolitan area,,29963.0,29898.0,27326.0,2401014207.0,15563758.0,34.9550364,-100.8158457,Complete data,48
+48131,48,131,48131,Duval,Duval County,"Duval County, TX",county,5.0,2705.0,Texas,TX,"Alice, TX",10860.0,29964.0,29898.0,27326.0,4645084669.0,5478267.0,27.6811232,-98.4973933,Complete data,48
+48133,48,133,48133,Eastland,Eastland County,"Eastland County, TX",county,5.0,2706.0,Texas,TX,Texas nonmetropolitan area,,29965.0,29898.0,27326.0,2399644791.0,14002299.0,32.3246454,-98.8365596,Complete data,48
+48135,48,135,48135,Ector,Ector County,"Ector County, TX",county,5.0,2707.0,Texas,TX,"Odessa, TX",36220.0,29966.0,29898.0,27326.0,2325508554.0,10188915.0,31.8653008,-102.5425068,Complete data,48
+48137,48,137,,Edwards,Edwards County,,,,,,,,,,,,5485263220.0,5196312.0,29.9859327,-100.3073997,Census only,48
+48139,48,139,48139,Ellis,Ellis County,"Ellis County, TX",county,5.0,2709.0,Texas,TX,"Dallas, TX",19124.0,29968.0,29898.0,27326.0,2423644484.0,41912177.0,32.3468783,-96.7969403,Complete data,48
+48141,48,141,48141,El Paso,El Paso County,"El Paso County, TX",county,5.0,2710.0,Texas,TX,"El Paso, TX",21340.0,29969.0,29898.0,27326.0,2625018848.0,4548525.0,31.7664559,-106.2415203,Complete data,48
+48143,48,143,48143,Erath,Erath County,"Erath County, TX",county,5.0,2711.0,Texas,TX,"Stephenville, TX",44500.0,29970.0,29898.0,27326.0,2805419712.0,17166727.0,32.2366689,-98.2205446,Complete data,48
+48145,48,145,48145,Falls,Falls County,"Falls County, TX",county,5.0,2712.0,Texas,TX,"Waco, TX",47380.0,29971.0,29898.0,27326.0,1982623104.0,21693054.0,31.2519298,-96.9341275,Complete data,48
+48147,48,147,48147,Fannin,Fannin County,"Fannin County, TX",county,5.0,2713.0,Texas,TX,"Bonham, TX",14300.0,29972.0,29898.0,27326.0,2273850338.0,54247784.0,33.5911611,-96.1049882,Complete data,48
+48149,48,149,48149,Fayette,Fayette County,"Fayette County, TX",county,5.0,2714.0,Texas,TX,Texas nonmetropolitan area,,29973.0,29898.0,27326.0,2460316915.0,25574662.0,29.8778861,-96.9212309,Complete data,48
+48151,48,151,48151,Fisher,Fisher County,"Fisher County, TX",county,5.0,2715.0,Texas,TX,Texas nonmetropolitan area,,29974.0,29898.0,27326.0,2328272083.0,7258480.0,32.7404728,-100.4031198,Complete data,48
+48153,48,153,48153,Floyd,Floyd County,"Floyd County, TX",county,5.0,2716.0,Texas,TX,Texas nonmetropolitan area,,29975.0,29898.0,27326.0,2569637282.0,983737.0,34.0737305,-101.3032742,Complete data,48
+48155,48,155,48155,Foard,Foard County,"Foard County, TX",county,5.0,2717.0,Texas,TX,Texas nonmetropolitan area,,29976.0,29898.0,27326.0,1824378631.0,8514741.0,33.9633063,-99.8168285,Complete data,48
+48157,48,157,48157,Fort Bend,Fort Bend County,"Fort Bend County, TX",county,5.0,2718.0,Texas,TX,"Houston, TX",26420.0,29977.0,29898.0,27326.0,2232012416.0,60775073.0,29.5266017,-95.7710149,Complete data,48
+48159,48,159,48159,Franklin,Franklin County,"Franklin County, TX",county,5.0,2719.0,Texas,TX,Texas nonmetropolitan area,,29978.0,29898.0,27326.0,736569934.0,26875120.0,33.1758457,-95.2190662,Complete data,48
+48161,48,161,48161,Freestone,Freestone County,"Freestone County, TX",county,5.0,2720.0,Texas,TX,Texas nonmetropolitan area,,29979.0,29898.0,27326.0,2273311865.0,36936963.0,31.7017487,-96.1449568,Complete data,48
+48163,48,163,48163,Frio,Frio County,"Frio County, TX",county,5.0,2721.0,Texas,TX,"Pearsall, TX",37770.0,29980.0,29898.0,27326.0,2935753502.0,2193621.0,28.8693828,-99.109005,Complete data,48
+48165,48,165,48165,Gaines,Gaines County,"Gaines County, TX",county,5.0,2722.0,Texas,TX,Texas nonmetropolitan area,,29981.0,29898.0,27326.0,3891102466.0,1262946.0,32.7439423,-102.6315614,Complete data,48
+48167,48,167,48167,Galveston,Galveston County,"Galveston County, TX",county,5.0,2723.0,Texas,TX,"Houston, TX",26420.0,29982.0,29898.0,27326.0,982674728.0,1280831813.0,29.2339273,-94.8881969,Complete data,48
+48169,48,169,48169,Garza,Garza County,"Garza County, TX",county,5.0,2724.0,Texas,TX,Texas nonmetropolitan area,,29983.0,29898.0,27326.0,2313937122.0,7209242.0,33.183792,-101.3011341,Complete data,48
+48171,48,171,48171,Gillespie,Gillespie County,"Gillespie County, TX",county,5.0,2725.0,Texas,TX,"Fredericksburg, TX",23240.0,29984.0,29898.0,27326.0,2740733391.0,8998524.0,30.3250929,-98.9418498,Complete data,48
+48173,48,173,,Glasscock,Glasscock County,,,,,,,,,,,,2331552974.0,2245302.0,31.8680062,-101.5214944,Census only,48
+48175,48,175,48175,Goliad,Goliad County,"Goliad County, TX",county,5.0,2727.0,Texas,TX,"Victoria, TX",47020.0,29986.0,29898.0,27326.0,2206698612.0,19050015.0,28.6607,-97.4304145,Complete data,48
+48177,48,177,48177,Gonzales,Gonzales County,"Gonzales County, TX",county,5.0,2728.0,Texas,TX,Texas nonmetropolitan area,,29987.0,29898.0,27326.0,2762704899.0,8204086.0,29.4619121,-97.4919205,Complete data,48
+48179,48,179,48179,Gray,Gray County,"Gray County, TX",county,5.0,2729.0,Texas,TX,"Pampa, TX",37420.0,29988.0,29898.0,27326.0,2398261679.0,8700790.0,35.4025424,-100.8123736,Complete data,48
+48181,48,181,48181,Grayson,Grayson County,"Grayson County, TX",county,5.0,2730.0,Texas,TX,"Sherman, TX",43300.0,29989.0,29898.0,27326.0,2416024355.0,120093895.0,33.6245482,-96.6757774,Complete data,48
+48183,48,183,48183,Gregg,Gregg County,"Gregg County, TX",county,5.0,2731.0,Texas,TX,"Longview, TX",30980.0,29990.0,29898.0,27326.0,708052134.0,6206460.0,32.4864014,-94.8162768,Complete data,48
+48185,48,185,48185,Grimes,Grimes County,"Grimes County, TX",county,5.0,2732.0,Texas,TX,Texas nonmetropolitan area,,29991.0,29898.0,27326.0,2039529876.0,36607972.0,30.5432314,-95.988082,Complete data,48
+48187,48,187,48187,Guadalupe,Guadalupe County,"Guadalupe County, TX",county,5.0,2733.0,Texas,TX,"San Antonio, TX",41700.0,29992.0,29898.0,27326.0,1842133774.0,9159633.0,29.5826714,-97.9489953,Complete data,48
+48189,48,189,48189,Hale,Hale County,"Hale County, TX",county,5.0,2734.0,Texas,TX,"Plainview, TX",38380.0,29993.0,29898.0,27326.0,2602109424.0,246678.0,34.0684364,-101.8228879,Complete data,48
+48191,48,191,48191,Hall,Hall County,"Hall County, TX",county,5.0,2735.0,Texas,TX,Texas nonmetropolitan area,,29994.0,29898.0,27326.0,2288233614.0,53366403.0,34.4531894,-100.5763434,Complete data,48
+48193,48,193,48193,Hamilton,Hamilton County,"Hamilton County, TX",county,5.0,2736.0,Texas,TX,Texas nonmetropolitan area,,29995.0,29898.0,27326.0,2165008743.0,1238628.0,31.7073424,-98.1117562,Complete data,48
+48195,48,195,48195,Hansford,Hansford County,"Hansford County, TX",county,5.0,2737.0,Texas,TX,Texas nonmetropolitan area,,29996.0,29898.0,27326.0,2382296646.0,1548341.0,36.2728469,-101.3569304,Complete data,48
+48197,48,197,,Hardeman,Hardeman County,,,,,,,,,,,,1800337386.0,4548860.0,34.2899036,-99.7456973,Census only,48
+48199,48,199,48199,Hardin,Hardin County,"Hardin County, TX",county,5.0,2739.0,Texas,TX,"Beaumont, TX",13140.0,29998.0,29898.0,27326.0,2306583500.0,17999226.0,30.3296483,-94.3931782,Complete data,48
+48201,48,201,48201,Harris,Harris County,"Harris County, TX",county,5.0,2740.0,Texas,TX,"Houston, TX",26420.0,29999.0,29898.0,27326.0,4421854725.0,181483397.0,29.857273,-95.3930371,Complete data,48
+48203,48,203,48203,Harrison,Harrison County,"Harrison County, TX",county,5.0,2741.0,Texas,TX,"Longview, TX",30980.0,30000.0,29898.0,27326.0,2331141024.0,40649337.0,32.5479914,-94.3744344,Complete data,48
+48205,48,205,48205,Hartley,Hartley County,"Hartley County, TX",county,5.0,2742.0,Texas,TX,Texas nonmetropolitan area,,30001.0,29898.0,27326.0,3786445016.0,3013675.0,35.8402444,-102.6100473,Complete data,48
+48207,48,207,48207,Haskell,Haskell County,"Haskell County, TX",county,5.0,2743.0,Texas,TX,Texas nonmetropolitan area,,30002.0,29898.0,27326.0,2339103808.0,18465208.0,33.1759638,-99.730774,Complete data,48
+48209,48,209,48209,Hays,Hays County,"Hays County, TX",county,5.0,2744.0,Texas,TX,"Austin, TX",12420.0,30003.0,29898.0,27326.0,1753038663.0,5043723.0,30.0612247,-98.0292673,Complete data,48
+48211,48,211,,Hemphill,Hemphill County,,,,,,,,,,,,2347270015.0,15205586.0,35.8159564,-100.2792102,Census only,48
+48213,48,213,48213,Henderson,Henderson County,"Henderson County, TX",county,5.0,2746.0,Texas,TX,"Athens, TX",11980.0,30005.0,29898.0,27326.0,2263061904.0,193353703.0,32.2116334,-95.8534183,Complete data,48
+48215,48,215,48215,Hidalgo,Hidalgo County,"Hidalgo County, TX",county,5.0,2747.0,Texas,TX,"McAllen, TX",32580.0,30006.0,29898.0,27326.0,4069467430.0,30046707.0,26.3963839,-98.18099,Complete data,48
+48217,48,217,48217,Hill,Hill County,"Hill County, TX",county,5.0,2748.0,Texas,TX,Texas nonmetropolitan area,,30007.0,29898.0,27326.0,2483430537.0,69544386.0,31.9826412,-97.1306323,Complete data,48
+48219,48,219,48219,Hockley,Hockley County,"Hockley County, TX",county,5.0,2749.0,Texas,TX,"Levelland, TX",30220.0,30008.0,29898.0,27326.0,2352723974.0,446119.0,33.605932,-102.3433978,Complete data,48
+48221,48,221,48221,Hood,Hood County,"Hood County, TX",county,5.0,2750.0,Texas,TX,"Granbury, TX",24180.0,30009.0,29898.0,27326.0,1089711889.0,41748777.0,32.430149,-97.8316766,Complete data,48
+48223,48,223,48223,Hopkins,Hopkins County,"Hopkins County, TX",county,5.0,2751.0,Texas,TX,"Sulphur Springs, TX",44860.0,30010.0,29898.0,27326.0,1987637219.0,65631763.0,33.1489673,-95.5654337,Complete data,48
+48225,48,225,48225,Houston,Houston County,"Houston County, TX",county,5.0,2752.0,Texas,TX,Texas nonmetropolitan area,,30011.0,29898.0,27326.0,3188268195.0,14446047.0,31.3230362,-95.4215995,Complete data,48
+48227,48,227,,Howard,Howard County,,,,,,,,,,,,2333034781.0,8846149.0,32.3034298,-101.4387208,Census only,48
+48229,48,229,,Hudspeth,Hudspeth County,,,,,,,,,,,,11837584064.0,2114586.0,31.4508678,-105.3775489,Census only,48
+48231,48,231,48231,Hunt,Hunt County,"Hunt County, TX",county,5.0,2755.0,Texas,TX,"Dallas, TX",19124.0,30014.0,29898.0,27326.0,2176683250.0,107758299.0,33.1233077,-96.0842298,Complete data,48
+48233,48,233,48233,Hutchinson,Hutchinson County,"Hutchinson County, TX",county,5.0,2756.0,Texas,TX,"Borger, TX",14420.0,30015.0,29898.0,27326.0,2298418616.0,19497034.0,35.837047,-101.3627461,Complete data,48
+48235,48,235,,Irion,Irion County,,,,,,,,,,,,2723485993.0,176317.0,31.3034241,-100.9813037,Census only,48
+48237,48,237,48237,Jack,Jack County,"Jack County, TX",county,5.0,2758.0,Texas,TX,Texas nonmetropolitan area,,30017.0,29898.0,27326.0,2359405672.0,23704614.0,33.2321604,-98.1711775,Complete data,48
+48239,48,239,48239,Jackson,Jackson County,"Jackson County, TX",county,5.0,2759.0,Texas,TX,Texas nonmetropolitan area,,30018.0,29898.0,27326.0,2148246693.0,71039573.0,28.9598019,-96.58908,Complete data,48
+48241,48,241,48241,Jasper,Jasper County,"Jasper County, TX",county,5.0,2760.0,Texas,TX,Texas nonmetropolitan area,,30019.0,29898.0,27326.0,2431105362.0,80399907.0,30.7529323,-94.0222943,Complete data,48
+48243,48,243,48243,Jeff Davis,Jeff Davis County,"Jeff Davis County, TX",county,5.0,2761.0,Texas,TX,Texas nonmetropolitan area,,30020.0,29898.0,27326.0,5865172239.0,206206.0,30.6253574,-104.191873,Complete data,48
+48245,48,245,48245,Jefferson,Jefferson County,"Jefferson County, TX",county,5.0,2762.0,Texas,TX,"Beaumont, TX",13140.0,30021.0,29898.0,27326.0,2270733846.0,611203762.0,29.8539997,-94.1493306,Complete data,48
+48247,48,247,48247,Jim Hogg,Jim Hogg County,"Jim Hogg County, TX",county,5.0,2763.0,Texas,TX,Texas nonmetropolitan area,,30022.0,29898.0,27326.0,2942674728.0,92565.0,27.0532315,-98.7475716,Complete data,48
+48249,48,249,48249,Jim Wells,Jim Wells County,"Jim Wells County, TX",county,5.0,2764.0,Texas,TX,"Alice, TX",10860.0,30023.0,29898.0,27326.0,2240795374.0,8723372.0,27.7335157,-98.0908141,Complete data,48
+48251,48,251,48251,Johnson,Johnson County,"Johnson County, TX",county,5.0,2765.0,Texas,TX,"Fort Worth, TX",23104.0,30024.0,29898.0,27326.0,1877895037.0,23786930.0,32.379654,-97.3649061,Complete data,48
+48253,48,253,48253,Jones,Jones County,"Jones County, TX",county,5.0,2766.0,Texas,TX,"Abilene, TX",10180.0,30025.0,29898.0,27326.0,2405078243.0,22095884.0,32.7437089,-99.8744297,Complete data,48
+48255,48,255,48255,Karnes,Karnes County,"Karnes County, TX",county,5.0,2767.0,Texas,TX,Texas nonmetropolitan area,,30026.0,29898.0,27326.0,1936669680.0,15010315.0,28.9089957,-97.8522048,Complete data,48
+48257,48,257,48257,Kaufman,Kaufman County,"Kaufman County, TX",county,5.0,2768.0,Texas,TX,"Dallas, TX",19124.0,30027.0,29898.0,27326.0,2022025387.0,69426826.0,32.5989442,-96.2883773,Complete data,48
+48259,48,259,48259,Kendall,Kendall County,"Kendall County, TX",county,5.0,2769.0,Texas,TX,"San Antonio, TX",41700.0,30028.0,29898.0,27326.0,1715747611.0,1496797.0,29.9435246,-98.7092693,Complete data,48
+48261,48,261,,Kenedy,Kenedy County,,,,,,,,,,,,3777657843.0,1261927310.0,26.8902129,-97.5911434,Census only,48
+48263,48,263,,Kent,Kent County,,,,,,,,,,,,2337482031.0,1065195.0,33.1847797,-100.7697199,Census only,48
+48265,48,265,48265,Kerr,Kerr County,"Kerr County, TX",county,5.0,2772.0,Texas,TX,"Kerrville, TX",28500.0,30031.0,29898.0,27326.0,2857619178.0,10230198.0,30.059953,-99.3533388,Complete data,48
+48267,48,267,48267,Kimble,Kimble County,"Kimble County, TX",county,5.0,2773.0,Texas,TX,Texas nonmetropolitan area,,30032.0,29898.0,27326.0,3240024038.0,505509.0,30.479472,-99.7463959,Complete data,48
+48269,48,269,,King,King County,,,,,,,,,,,,2359150569.0,6396290.0,33.6142675,-100.2453455,Census only,48
+48271,48,271,48271,Kinney,Kinney County,"Kinney County, TX",county,5.0,2775.0,Texas,TX,Texas nonmetropolitan area,,30034.0,29898.0,27326.0,3523765248.0,11885327.0,29.3470865,-100.4177003,Complete data,48
+48273,48,273,48273,Kleberg,Kleberg County,"Kleberg County, TX",county,5.0,2776.0,Texas,TX,"Kingsville, TX",28780.0,30035.0,29898.0,27326.0,2282572445.0,541041659.0,27.4387348,-97.6606203,Complete data,48
+48275,48,275,48275,Knox,Knox County,"Knox County, TX",county,5.0,2777.0,Texas,TX,Texas nonmetropolitan area,,30036.0,29898.0,27326.0,2203098613.0,12587673.0,33.6118897,-99.7303563,Complete data,48
+48277,48,277,48277,Lamar,Lamar County,"Lamar County, TX",county,5.0,2778.0,Texas,TX,"Paris, TX",37580.0,30037.0,29898.0,27326.0,2349977855.0,66747501.0,33.6672628,-95.5703477,Complete data,48
+48279,48,279,48279,Lamb,Lamb County,"Lamb County, TX",county,5.0,2779.0,Texas,TX,Texas nonmetropolitan area,,30038.0,29898.0,27326.0,2631897586.0,3973764.0,34.0688615,-102.3480182,Complete data,48
+48281,48,281,48281,Lampasas,Lampasas County,"Lampasas County, TX",county,5.0,2780.0,Texas,TX,"Killeen, TX",28660.0,30039.0,29898.0,27326.0,1845440046.0,2749903.0,31.1967308,-98.2408885,Complete data,48
+48283,48,283,48283,La Salle,La Salle County,"La Salle County, TX",county,5.0,2781.0,Texas,TX,Texas nonmetropolitan area,,30040.0,29898.0,27326.0,3850545746.0,19503739.0,28.3510976,-99.0967743,Complete data,48
+48285,48,285,48285,Lavaca,Lavaca County,"Lavaca County, TX",county,5.0,2782.0,Texas,TX,Texas nonmetropolitan area,,30041.0,29898.0,27326.0,2511535215.0,1882216.0,29.3825778,-96.9236334,Complete data,48
+48287,48,287,48287,Lee,Lee County,"Lee County, TX",county,5.0,2783.0,Texas,TX,Texas nonmetropolitan area,,30042.0,29898.0,27326.0,1629204739.0,13122562.0,30.3214983,-96.9768226,Complete data,48
+48289,48,289,48289,Leon,Leon County,"Leon County, TX",county,5.0,2784.0,Texas,TX,Texas nonmetropolitan area,,30043.0,29898.0,27326.0,2779462027.0,19328383.0,31.3004926,-95.9956219,Complete data,48
+48291,48,291,48291,Liberty,Liberty County,"Liberty County, TX",county,5.0,2785.0,Texas,TX,"Houston, TX",26420.0,30044.0,29898.0,27326.0,3000401682.0,46340279.0,30.1585081,-94.8440607,Complete data,48
+48293,48,293,48293,Limestone,Limestone County,"Limestone County, TX",county,5.0,2786.0,Texas,TX,Texas nonmetropolitan area,,30045.0,29898.0,27326.0,2345053181.0,71830221.0,31.5475427,-96.593623,Complete data,48
+48295,48,295,48295,Lipscomb,Lipscomb County,"Lipscomb County, TX",county,5.0,2787.0,Texas,TX,Texas nonmetropolitan area,,30046.0,29898.0,27326.0,2414422645.0,298741.0,36.2801998,-100.2726827,Complete data,48
+48297,48,297,48297,Live Oak,Live Oak County,"Live Oak County, TX",county,5.0,2788.0,Texas,TX,Texas nonmetropolitan area,,30047.0,29898.0,27326.0,2692796908.0,101483818.0,28.3515349,-98.1269608,Complete data,48
+48299,48,299,48299,Llano,Llano County,"Llano County, TX",county,5.0,2789.0,Texas,TX,Texas nonmetropolitan area,,30048.0,29898.0,27326.0,2419218258.0,82338318.0,30.7075845,-98.6846901,Complete data,48
+48301,48,301,,Loving,Loving County,,,,,,,,,,,,1732230053.0,19981167.0,31.8449361,-103.5612293,Census only,48
+48303,48,303,48303,Lubbock,Lubbock County,"Lubbock County, TX",county,5.0,2791.0,Texas,TX,"Lubbock, TX",31180.0,30050.0,29898.0,27326.0,2319604088.0,13204477.0,33.6114688,-101.8199438,Complete data,48
+48305,48,305,48305,Lynn,Lynn County,"Lynn County, TX",county,5.0,2792.0,Texas,TX,"Lubbock, TX",31180.0,30051.0,29898.0,27326.0,2309924808.0,4169718.0,33.1784124,-101.8184933,Complete data,48
+48307,48,307,48307,McCulloch,McCulloch County,"McCulloch County, TX",county,5.0,2793.0,Texas,TX,Texas nonmetropolitan area,,30058.0,29898.0,27326.0,2759893532.0,20286193.0,31.2054766,-99.3598557,Complete data,48
+48309,48,309,48309,McLennan,McLennan County,"McLennan County, TX",county,5.0,2794.0,Texas,TX,"Waco, TX",47380.0,30059.0,29898.0,27326.0,2685015343.0,61002370.0,31.5495958,-97.2015108,Complete data,48
+48311,48,311,,McMullen,McMullen County,,,,,,,,,,,,2952066567.0,43985124.0,28.384922,-98.5788529,Census only,48
+48313,48,313,48313,Madison,Madison County,"Madison County, TX",county,5.0,2796.0,Texas,TX,Texas nonmetropolitan area,,30052.0,29898.0,27326.0,1207103458.0,16493254.0,30.9668782,-95.9303719,Complete data,48
+48315,48,315,48315,Marion,Marion County,"Marion County, TX",county,5.0,2797.0,Texas,TX,Texas nonmetropolitan area,,30053.0,29898.0,27326.0,986530317.0,102099491.0,32.7981821,-94.3568533,Complete data,48
+48317,48,317,,Martin,Martin County,,,,,,,,,,,,2369724588.0,1931832.0,32.3098298,-101.9618363,Census only,48
+48319,48,319,48319,Mason,Mason County,"Mason County, TX",county,5.0,2799.0,Texas,TX,Texas nonmetropolitan area,,30055.0,29898.0,27326.0,2405674102.0,8755301.0,30.7039159,-99.2373018,Complete data,48
+48321,48,321,48321,Matagorda,Matagorda County,"Matagorda County, TX",county,5.0,2800.0,Texas,TX,"Bay City, TX",13060.0,30056.0,29898.0,27326.0,2831173989.0,1345214023.0,28.7747601,-96.0015316,Complete data,48
+48323,48,323,48323,Maverick,Maverick County,"Maverick County, TX",county,5.0,2801.0,Texas,TX,"Eagle Pass, TX",20580.0,30057.0,29898.0,27326.0,3313828190.0,31862966.0,28.7297873,-100.316678,Complete data,48
+48325,48,325,48325,Medina,Medina County,"Medina County, TX",county,5.0,2802.0,Texas,TX,"San Antonio, TX",41700.0,30061.0,29898.0,27326.0,3432669702.0,23756267.0,29.3536614,-99.1110845,Complete data,48
+48327,48,327,,Menard,Menard County,,,,,,,,,,,,2336237980.0,613559.0,30.8852677,-99.8588613,Census only,48
+48329,48,329,48329,Midland,Midland County,"Midland County, TX",county,5.0,2804.0,Texas,TX,"Midland, TX",33260.0,30063.0,29898.0,27326.0,2331915322.0,4252951.0,31.8142693,-102.0024538,Complete data,48
+48331,48,331,48331,Milam,Milam County,"Milam County, TX",county,5.0,2805.0,Texas,TX,Texas nonmetropolitan area,,30064.0,29898.0,27326.0,2632349434.0,11831398.0,30.791242,-96.9843946,Complete data,48
+48333,48,333,48333,Mills,Mills County,"Mills County, TX",county,5.0,2806.0,Texas,TX,Texas nonmetropolitan area,,30065.0,29898.0,27326.0,1937892797.0,4023558.0,31.4948885,-98.5946231,Complete data,48
+48335,48,335,48335,Mitchell,Mitchell County,"Mitchell County, TX",county,5.0,2807.0,Texas,TX,Texas nonmetropolitan area,,30066.0,29898.0,27326.0,2359720445.0,12480258.0,32.3041168,-100.9243924,Complete data,48
+48337,48,337,48337,Montague,Montague County,"Montague County, TX",county,5.0,2808.0,Texas,TX,Texas nonmetropolitan area,,30067.0,29898.0,27326.0,2411034611.0,19087359.0,33.6783558,-97.7250138,Complete data,48
+48339,48,339,48339,Montgomery,Montgomery County,"Montgomery County, TX",county,5.0,2809.0,Texas,TX,"Houston, TX",26420.0,30068.0,29898.0,27326.0,2699229907.0,89887067.0,30.2988009,-95.50295,Complete data,48
+48341,48,341,48341,Moore,Moore County,"Moore County, TX",county,5.0,2810.0,Texas,TX,"Dumas, TX",20300.0,30069.0,29898.0,27326.0,2330207190.0,25699789.0,35.8356759,-101.8905018,Complete data,48
+48343,48,343,48343,Morris,Morris County,"Morris County, TX",county,5.0,2811.0,Texas,TX,Texas nonmetropolitan area,,30070.0,29898.0,27326.0,652649023.0,17382447.0,33.116466,-94.7312653,Complete data,48
+48345,48,345,,Motley,Motley County,,,,,,,,,,,,2562963900.0,644140.0,34.0578993,-100.7931519,Census only,48
+48347,48,347,48347,Nacogdoches,Nacogdoches County,"Nacogdoches County, TX",county,5.0,2813.0,Texas,TX,"Nacogdoches, TX",34860.0,30072.0,29898.0,27326.0,2450966944.0,89731149.0,31.6205598,-94.6202497,Complete data,48
+48349,48,349,48349,Navarro,Navarro County,"Navarro County, TX",county,5.0,2814.0,Texas,TX,"Corsicana, TX",18620.0,30073.0,29898.0,27326.0,2615116308.0,197615409.0,32.048448,-96.4769087,Complete data,48
+48351,48,351,48351,Newton,Newton County,"Newton County, TX",county,5.0,2815.0,Texas,TX,Texas nonmetropolitan area,,30074.0,29898.0,27326.0,2418212546.0,15672146.0,30.7867182,-93.73925,Complete data,48
+48353,48,353,48353,Nolan,Nolan County,"Nolan County, TX",county,5.0,2816.0,Texas,TX,"Sweetwater, TX",45020.0,30075.0,29898.0,27326.0,2362061769.0,5052159.0,32.3123379,-100.4181078,Complete data,48
+48355,48,355,,Nueces,Nueces County,,,,,,,,,,,,2173743300.0,845084545.0,27.7400315,-97.5162143,Census only,48
+48357,48,357,48357,Ochiltree,Ochiltree County,"Ochiltree County, TX",county,5.0,2818.0,Texas,TX,Texas nonmetropolitan area,,30077.0,29898.0,27326.0,2376792063.0,1331778.0,36.2787442,-100.8158636,Complete data,48
+48359,48,359,48359,Oldham,Oldham County,"Oldham County, TX",county,5.0,2819.0,Texas,TX,"Amarillo, TX",11100.0,30078.0,29898.0,27326.0,3886337114.0,2339716.0,35.4019206,-102.5976203,Complete data,48
+48361,48,361,48361,Orange,Orange County,"Orange County, TX",county,5.0,2820.0,Texas,TX,"Beaumont, TX",13140.0,30079.0,29898.0,27326.0,864524878.0,118336455.0,30.1223229,-93.8940999,Complete data,48
+48363,48,363,48363,Palo Pinto,Palo Pinto County,"Palo Pinto County, TX",county,5.0,2821.0,Texas,TX,"Mineral Wells, TX",33420.0,30080.0,29898.0,27326.0,2467090695.0,85364147.0,32.7522042,-98.3179673,Complete data,48
+48365,48,365,48365,Panola,Panola County,"Panola County, TX",county,5.0,2822.0,Texas,TX,Texas nonmetropolitan area,,30081.0,29898.0,27326.0,2101400902.0,25810623.0,32.1639784,-94.3051563,Complete data,48
+48367,48,367,48367,Parker,Parker County,"Parker County, TX",county,5.0,2823.0,Texas,TX,"Fort Worth, TX",23104.0,30082.0,29898.0,27326.0,2340620307.0,16513787.0,32.7770964,-97.8059049,Complete data,48
+48369,48,369,,Parmer,Parmer County,,,,,,,,,,,,2281317977.0,11355762.0,34.5321628,-102.7848533,Census only,48
+48371,48,371,48371,Pecos,Pecos County,"Pecos County, TX",county,5.0,2825.0,Texas,TX,Texas nonmetropolitan area,,30084.0,29898.0,27326.0,12338274936.0,2532275.0,30.773298,-102.7181533,Complete data,48
+48373,48,373,48373,Polk,Polk County,"Polk County, TX",county,5.0,2826.0,Texas,TX,Texas nonmetropolitan area,,30085.0,29898.0,27326.0,2737754336.0,136250537.0,30.7845525,-94.8373376,Complete data,48
+48375,48,375,48375,Potter,Potter County,"Potter County, TX",county,5.0,2827.0,Texas,TX,"Amarillo, TX",11100.0,30086.0,29898.0,27326.0,2352725840.0,35182976.0,35.3986751,-101.893804,Complete data,48
+48377,48,377,48377,Presidio,Presidio County,"Presidio County, TX",county,5.0,2828.0,Texas,TX,Texas nonmetropolitan area,,30087.0,29898.0,27326.0,9985057447.0,1773188.0,30.0058912,-104.2616192,Complete data,48
+48379,48,379,48379,Rains,Rains County,"Rains County, TX",county,5.0,2829.0,Texas,TX,Texas nonmetropolitan area,,30088.0,29898.0,27326.0,594376473.0,75984089.0,32.8704571,-95.795613,Complete data,48
+48381,48,381,48381,Randall,Randall County,"Randall County, TX",county,5.0,2830.0,Texas,TX,"Amarillo, TX",11100.0,30089.0,29898.0,27326.0,2363910008.0,25202440.0,34.962529,-101.8955472,Complete data,48
+48383,48,383,,Reagan,Reagan County,,,,,,,,,,,,3044049119.0,1792716.0,31.3751911,-101.5143954,Census only,48
+48385,48,385,48385,Real,Real County,"Real County, TX",county,5.0,2832.0,Texas,TX,Texas nonmetropolitan area,,30091.0,29898.0,27326.0,1810814896.0,2344242.0,29.8300967,-99.812549,Complete data,48
+48387,48,387,48387,Red River,Red River County,"Red River County, TX",county,5.0,2833.0,Texas,TX,Texas nonmetropolitan area,,30092.0,29898.0,27326.0,2703677244.0,33255080.0,33.6196255,-95.0484293,Complete data,48
+48389,48,389,48389,Reeves,Reeves County,"Reeves County, TX",county,5.0,2834.0,Texas,TX,"Pecos, TX",37780.0,30093.0,29898.0,27326.0,6825534317.0,17396672.0,31.308366,-103.712706,Complete data,48
+48391,48,391,48391,Refugio,Refugio County,"Refugio County, TX",county,5.0,2835.0,Texas,TX,Texas nonmetropolitan area,,30094.0,29898.0,27326.0,1995545557.0,123688759.0,28.3221157,-97.1624723,Complete data,48
+48393,48,393,,Roberts,Roberts County,,,,,,,,,,,,2393298442.0,346846.0,35.838596,-100.8366824,Census only,48
+48395,48,395,48395,Robertson,Robertson County,"Robertson County, TX",county,5.0,2837.0,Texas,TX,"College Station, TX",17780.0,30096.0,29898.0,27326.0,2214840334.0,27332985.0,31.025481,-96.5149408,Complete data,48
+48397,48,397,48397,Rockwall,Rockwall County,"Rockwall County, TX",county,5.0,2838.0,Texas,TX,"Dallas, TX",19124.0,30097.0,29898.0,27326.0,329472424.0,56261334.0,32.8998859,-96.4120504,Complete data,48
+48399,48,399,48399,Runnels,Runnels County,"Runnels County, TX",county,5.0,2839.0,Texas,TX,Texas nonmetropolitan area,,30098.0,29898.0,27326.0,2722259321.0,15604788.0,31.8451193,-99.9827145,Complete data,48
+48401,48,401,48401,Rusk,Rusk County,"Rusk County, TX",county,5.0,2840.0,Texas,TX,"Longview, TX",30980.0,30099.0,29898.0,27326.0,2393663216.0,37217198.0,32.1094232,-94.7563823,Complete data,48
+48403,48,403,48403,Sabine,Sabine County,"Sabine County, TX",county,5.0,2841.0,Texas,TX,Texas nonmetropolitan area,,30100.0,29898.0,27326.0,1273523419.0,219936062.0,31.3432997,-93.8519129,Complete data,48
+48405,48,405,48405,San Augustine,San Augustine County,"San Augustine County, TX",county,5.0,2842.0,Texas,TX,Texas nonmetropolitan area,,30101.0,29898.0,27326.0,1374400363.0,159644688.0,31.3824492,-94.1631796,Complete data,48
+48407,48,407,48407,San Jacinto,San Jacinto County,"San Jacinto County, TX",county,5.0,2843.0,Texas,TX,Texas nonmetropolitan area,,30102.0,29898.0,27326.0,1474332596.0,151948900.0,30.5743884,-95.1631363,Complete data,48
+48409,48,409,,San Patricio,San Patricio County,,,,,,,,,,,,1795693498.0,37532483.0,28.0117944,-97.5171566,Census only,48
+48411,48,411,,San Saba,San Saba County,,,,,,,,,,,,2940447162.0,8300211.0,31.1551375,-98.8192922,Census only,48
+48413,48,413,,Schleicher,Schleicher County,,,,,,,,,,,,3394546068.0,87401.0,30.8962331,-100.5272161,Census only,48
+48415,48,415,48415,Scurry,Scurry County,"Scurry County, TX",county,5.0,2847.0,Texas,TX,"Snyder, TX",43660.0,30106.0,29898.0,27326.0,2345090475.0,5436957.0,32.7443531,-100.9133465,Complete data,48
+48417,48,417,48417,Shackelford,Shackelford County,"Shackelford County, TX",county,5.0,2848.0,Texas,TX,Texas nonmetropolitan area,,30107.0,29898.0,27326.0,2367989254.0,3268209.0,32.7438198,-99.3470045,Complete data,48
+48419,48,419,48419,Shelby,Shelby County,"Shelby County, TX",county,5.0,2849.0,Texas,TX,Texas nonmetropolitan area,,30108.0,29898.0,27326.0,2060566467.0,101081677.0,31.7901394,-94.1425794,Complete data,48
+48421,48,421,48421,Sherman,Sherman County,"Sherman County, TX",county,5.0,2850.0,Texas,TX,Texas nonmetropolitan area,,30109.0,29898.0,27326.0,2390195607.0,425429.0,36.2785929,-101.8992648,Complete data,48
+48423,48,423,48423,Smith,Smith County,"Smith County, TX",county,5.0,2851.0,Texas,TX,"Tyler, TX",46340.0,30110.0,29898.0,27326.0,2386635985.0,73132026.0,32.3751053,-95.2689389,Complete data,48
+48425,48,425,48425,Somervell,Somervell County,"Somervell County, TX",county,5.0,2852.0,Texas,TX,Texas nonmetropolitan area,,30111.0,29898.0,27326.0,482274684.0,14205924.0,32.2180714,-97.769217,Complete data,48
+48427,48,427,48427,Starr,Starr County,"Starr County, TX",county,5.0,2853.0,Texas,TX,"Rio Grande City, TX",40100.0,30112.0,29898.0,27326.0,3168019235.0,15386849.0,26.5309027,-98.7402346,Complete data,48
+48429,48,429,48429,Stephens,Stephens County,"Stephens County, TX",county,5.0,2854.0,Texas,TX,Texas nonmetropolitan area,,30113.0,29898.0,27326.0,2322497234.0,64147705.0,32.7380521,-98.8393443,Complete data,48
+48431,48,431,,Sterling,Sterling County,,,,,,,,,,,,2391722770.0,167451.0,31.8357735,-101.0549114,Census only,48
+48433,48,433,,Stonewall,Stonewall County,,,,,,,,,,,,2373238700.0,10177387.0,33.1795797,-100.2538069,Census only,48
+48435,48,435,48435,Sutton,Sutton County,"Sutton County, TX",county,5.0,2857.0,Texas,TX,Texas nonmetropolitan area,,30116.0,29898.0,27326.0,3765674775.0,1277066.0,30.5221852,-100.5133594,Complete data,48
+48437,48,437,48437,Swisher,Swisher County,"Swisher County, TX",county,5.0,2858.0,Texas,TX,Texas nonmetropolitan area,,30117.0,29898.0,27326.0,2305502703.0,27277988.0,34.5263193,-101.7438647,Complete data,48
+48439,48,439,48439,Tarrant,Tarrant County,"Tarrant County, TX",county,5.0,2859.0,Texas,TX,"Fort Worth, TX",23104.0,30118.0,29898.0,27326.0,2241282649.0,99486023.0,32.7721191,-97.2912241,Complete data,48
+48441,48,441,48441,Taylor,Taylor County,"Taylor County, TX",county,5.0,2860.0,Texas,TX,"Abilene, TX",10180.0,30119.0,29898.0,27326.0,2371228265.0,9760311.0,32.2971255,-99.8904299,Complete data,48
+48443,48,443,48443,Terrell,Terrell County,"Terrell County, TX",county,5.0,2861.0,Texas,TX,Texas nonmetropolitan area,,30120.0,29898.0,27326.0,6107081791.0,259482.0,30.2323427,-102.0725126,Complete data,48
+48445,48,445,48445,Terry,Terry County,"Terry County, TX",county,5.0,2862.0,Texas,TX,Texas nonmetropolitan area,,30121.0,29898.0,27326.0,2302113089.0,5414060.0,33.171229,-102.339284,Complete data,48
+48447,48,447,,Throckmorton,Throckmorton County,,,,,,,,,,,,2363499444.0,7586186.0,33.1706954,-99.205796,Census only,48
+48449,48,449,48449,Titus,Titus County,"Titus County, TX",county,5.0,2864.0,Texas,TX,"Mount Pleasant, TX",34420.0,30123.0,29898.0,27326.0,1052317505.0,50093936.0,33.214599,-94.9667825,Complete data,48
+48451,48,451,48451,Tom Green,Tom Green County,"Tom Green County, TX",county,5.0,2865.0,Texas,TX,"San Angelo, TX",41660.0,30124.0,29898.0,27326.0,3942790948.0,47251782.0,31.3982946,-100.4638499,Complete data,48
+48453,48,453,48453,Travis,Travis County,"Travis County, TX",county,5.0,2866.0,Texas,TX,"Austin, TX",12420.0,30125.0,29898.0,27326.0,2575258249.0,79548268.0,30.2395128,-97.6912697,Complete data,48
+48455,48,455,48455,Trinity,Trinity County,"Trinity County, TX",county,5.0,2867.0,Texas,TX,Texas nonmetropolitan area,,30126.0,29898.0,27326.0,1796920725.0,52260792.0,31.096675,-95.1516869,Complete data,48
+48457,48,457,48457,Tyler,Tyler County,"Tyler County, TX",county,5.0,2868.0,Texas,TX,Texas nonmetropolitan area,,30127.0,29898.0,27326.0,2394158672.0,29093514.0,30.7692953,-94.3756561,Complete data,48
+48459,48,459,48459,Upshur,Upshur County,"Upshur County, TX",county,5.0,2869.0,Texas,TX,"Longview, TX",30980.0,30128.0,29898.0,27326.0,1509910857.0,24878112.0,32.7353495,-94.9411837,Complete data,48
+48461,48,461,48461,Upton,Upton County,"Upton County, TX",county,5.0,2870.0,Texas,TX,Texas nonmetropolitan area,,30129.0,29898.0,27326.0,3215010600.0,464309.0,31.3538163,-102.0415461,Complete data,48
+48463,48,463,48463,Uvalde,Uvalde County,"Uvalde County, TX",county,5.0,2871.0,Texas,TX,"Uvalde, TX",46620.0,30130.0,29898.0,27326.0,4019458732.0,17382915.0,29.3503081,-99.768427,Complete data,48
+48465,48,465,48465,Val Verde,Val Verde County,"Val Verde County, TX",county,5.0,2872.0,Texas,TX,"Del Rio, TX",19620.0,30131.0,29898.0,27326.0,8144863963.0,227711025.0,29.8752853,-101.1433237,Complete data,48
+48467,48,467,48467,Van Zandt,Van Zandt County,"Van Zandt County, TX",county,5.0,2873.0,Texas,TX,Texas nonmetropolitan area,,30132.0,29898.0,27326.0,2182251753.0,44148322.0,32.5587866,-95.8369057,Complete data,48
+48469,48,469,48469,Victoria,Victoria County,"Victoria County, TX",county,5.0,2874.0,Texas,TX,"Victoria, TX",47020.0,30133.0,29898.0,27326.0,2284593984.0,17476842.0,28.7963699,-96.9711977,Complete data,48
+48471,48,471,48471,Walker,Walker County,"Walker County, TX",county,5.0,2875.0,Texas,TX,"Huntsville, TX",26660.0,30134.0,29898.0,27326.0,2031130616.0,44741470.0,30.7431631,-95.5698246,Complete data,48
+48473,48,473,48473,Waller,Waller County,"Waller County, TX",county,5.0,2876.0,Texas,TX,"Houston, TX",26420.0,30135.0,29898.0,27326.0,1329431907.0,11827973.0,30.0135901,-95.9821493,Complete data,48
+48475,48,475,48475,Ward,Ward County,"Ward County, TX",county,5.0,2877.0,Texas,TX,Texas nonmetropolitan area,,30136.0,29898.0,27326.0,2164201058.0,624206.0,31.5130687,-103.1051127,Complete data,48
+48477,48,477,48477,Washington,Washington County,"Washington County, TX",county,5.0,2878.0,Texas,TX,"Brenham, TX",14780.0,30137.0,29898.0,27326.0,1564856214.0,45470591.0,30.2150752,-96.4102717,Complete data,48
+48479,48,479,48479,Webb,Webb County,"Webb County, TX",county,5.0,2879.0,Texas,TX,"Laredo, TX",29700.0,30138.0,29898.0,27326.0,8706239656.0,36502178.0,27.7607987,-99.3407518,Complete data,48
+48481,48,481,48481,Wharton,Wharton County,"Wharton County, TX",county,5.0,2880.0,Texas,TX,"El Campo, TX",20900.0,30139.0,29898.0,27326.0,2813098994.0,21306092.0,29.2784805,-96.2296745,Complete data,48
+48483,48,483,48483,Wheeler,Wheeler County,"Wheeler County, TX",county,5.0,2881.0,Texas,TX,Texas nonmetropolitan area,,30140.0,29898.0,27326.0,2368629233.0,2455912.0,35.3925973,-100.2531046,Complete data,48
+48485,48,485,48485,Wichita,Wichita County,"Wichita County, TX",county,5.0,2882.0,Texas,TX,"Wichita Falls, TX",48660.0,30141.0,29898.0,27326.0,1625458205.0,13645957.0,33.9882125,-98.7080098,Complete data,48
+48487,48,487,48487,Wilbarger,Wilbarger County,"Wilbarger County, TX",county,5.0,2883.0,Texas,TX,"Vernon, TX",46900.0,30142.0,29898.0,27326.0,2514738103.0,18202665.0,34.0849199,-99.2424397,Complete data,48
+48489,48,489,48489,Willacy,Willacy County,"Willacy County, TX",county,5.0,2884.0,Texas,TX,"Raymondville, TX",39700.0,30143.0,29898.0,27326.0,1529680708.0,502856285.0,26.4818607,-97.5947313,Complete data,48
+48491,48,491,48491,Williamson,Williamson County,"Williamson County, TX",county,5.0,2885.0,Texas,TX,"Austin, TX",12420.0,30144.0,29898.0,27326.0,2890030110.0,41534607.0,30.6490817,-97.6050646,Complete data,48
+48493,48,493,48493,Wilson,Wilson County,"Wilson County, TX",county,5.0,2886.0,Texas,TX,"San Antonio, TX",41700.0,30145.0,29898.0,27326.0,2081664353.0,12109804.0,29.173883,-98.0867336,Complete data,48
+48495,48,495,48495,Winkler,Winkler County,"Winkler County, TX",county,5.0,2887.0,Texas,TX,Texas nonmetropolitan area,,30146.0,29898.0,27326.0,2178876165.0,19838.0,31.8328615,-103.0549246,Complete data,48
+48497,48,497,48497,Wise,Wise County,"Wise County, TX",county,5.0,2888.0,Texas,TX,"Fort Worth, TX",23104.0,30147.0,29898.0,27326.0,2342525134.0,46883066.0,33.2193461,-97.6529857,Complete data,48
+48499,48,499,48499,Wood,Wood County,"Wood County, TX",county,5.0,2889.0,Texas,TX,Texas nonmetropolitan area,,30148.0,29898.0,27326.0,1671173034.0,130730326.0,32.7835881,-95.3821664,Complete data,48
+48501,48,501,48501,Yoakum,Yoakum County,"Yoakum County, TX",county,5.0,2890.0,Texas,TX,Texas nonmetropolitan area,,30149.0,29898.0,27326.0,2071252477.0,34329.0,33.1623386,-102.8322409,Complete data,48
+48503,48,503,48503,Young,Young County,"Young County, TX",county,5.0,2891.0,Texas,TX,Texas nonmetropolitan area,,30150.0,29898.0,27326.0,2368539758.0,42371869.0,33.1587778,-98.6783895,Complete data,48
+48505,48,505,48505,Zapata,Zapata County,"Zapata County, TX",county,5.0,2892.0,Texas,TX,"Zapata, TX",49820.0,30151.0,29898.0,27326.0,2585876042.0,154371160.0,26.9969806,-99.1826027,Complete data,48
+48507,48,507,,Zavala,Zavala County,,,,,,,,,,,,3360268878.0,11208707.0,28.8646523,-99.7598304,Census only,48
