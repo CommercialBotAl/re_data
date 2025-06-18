@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "created": "2024-01-01",
+    "description": "Column mapping for census and real estate data sources",
+    "last_updated": "2024-01-01"
+  },
+  "mappings": {
+    "demographics": {
+      "population_total": ["population_total", "total_population", "pop_total", "TOTAL_POP"],
+      "population_male": ["population_male", "male_population", "pop_male", "MALE_POP"],
+      "population_female": ["population_female", "female_population", "pop_female", "FEMALE_POP"],
+      "median_age": ["median_age", "age_median", "AGE_MEDIAN"],
+      "households_total": ["households_total", "total_households", "hh_total", "HOUSEHOLDS"],
+      "household_size_avg": ["household_size_avg", "avg_household_size", "HH_SIZE_AVG"]
+    },
+    "housing": {
+      "housing_units_total": ["housing_units_total", "total_housing_units", "hu_total", "HOUSING_UNITS"],
+      "housing_occupied": ["housing_occupied", "occupied_units", "occ_units", "OCCUPIED"],
+      "housing_vacant": ["housing_vacant", "vacant_units", "vac_units", "VACANT"],
+      "housing_owner_occupied": ["housing_owner_occupied", "owner_occupied", "owner_occ", "OWNER_OCC"],
+      "housing_renter_occupied": ["housing_renter_occupied", "renter_occupied", "renter_occ", "RENTER_OCC"],
+      "housing_median_value": ["housing_median_value", "median_home_value", "home_value_median", "MED_HOME_VAL"],
+      "housing_ownership_rate": ["housing_ownership_rate", "ownership_rate", "owner_rate", "OWN_RATE"],
+      "median_rent": ["median_rent", "rent_median", "MEDIAN_RENT"],
+      "median_rooms": ["median_rooms", "rooms_median", "ROOMS_MED"]
+    },
+    "economics": {
+      "income_median": ["income_median", "median_income", "med_income", "MEDIAN_INC"],
+      "income_per_capita": ["income_per_capita", "per_capita_income", "pc_income", "PER_CAP_INC"],
+      "poverty_rate": ["poverty_rate", "pct_poverty", "poverty_pct", "POVERTY_RATE"],
+      "employment_total": ["employment_total", "total_employed", "employed", "EMPLOYED"],
+      "employment_unemployment_rate": ["employment_unemployment_rate", "unemployment_rate", "unemp_rate", "UNEMP_RATE"],
+      "labor_force": ["labor_force", "workforce", "LABOR_FORCE"]
+    },
+    "education": {
+      "education_high_school": ["education_high_school", "hs_grad", "high_school_grad", "HS_GRAD"],
+      "education_bachelors": ["education_bachelors", "bachelors_deg", "college_grad", "BACHELORS"],
+      "education_graduate": ["education_graduate", "grad_deg", "graduate_degree", "GRADUATE"]
+    },
+    "geography": {
+      "zip_code": ["zip", "zipcode", "zip_code", "postal_code", "ZIP", "ZIPCODE"],
+      "state_code": ["state", "state_code", "st", "STATE", "ST_CODE"],
+      "state_name": ["state_name", "state_full", "STATE_NAME"],
+      "county": ["county", "county_name", "COUNTY", "COUNTY_NAME"],
+      "city": ["city", "city_name", "preferred_city", "CITY", "CITY_NAME"],
+      "geoid": ["geoid", "geo_id", "fips", "GEOID", "FIPS"],
+      "latitude": ["lat", "latitude", "INTPTLAT", "LAT"],
+      "longitude": ["lon", "lng", "longitude", "INTPTLON", "LON", "LNG"]
+    },
+    "investment": {
+      "investment_cap_rate": ["investment_cap_rate", "cap_rate", "capitalization_rate", "CAP_RATE"],
+      "investment_cash_flow": ["investment_cash_flow", "cash_flow", "net_cash_flow", "CASH_FLOW"],
+      "investment_roi": ["investment_roi", "roi", "return_on_investment", "ROI"],
+      "investment_appreciation": ["investment_appreciation", "appreciation_rate", "price_appreciation", "APPRECIATION"],
+      "rental_yield": ["rental_yield", "gross_yield", "RENTAL_YIELD"],
+      "price_to_rent_ratio": ["price_to_rent_ratio", "ptr_ratio", "PRICE_RENT_RATIO"]
+    }
+  },
+  "data_sources": {
+    "census_acs": {
+      "name": "American Community Survey",
+      "prefix": "acs_",
+      "common_columns": ["geoid", "state", "county", "zip"]
+    },
+    "redfin": {
+      "name": "Redfin Market Data",
+      "prefix": "rf_",
+      "common_columns": ["zip", "state_code", "city", "county"]
+    },
+    "custom": {
+      "name": "Custom Data Sources",
+      "prefix": "custom_",
+      "common_columns": ["zip", "state", "region"]
+    }
+  },
+  "transformations": {
+    "percentage_fields": [
+      "housing_ownership_rate",
+      "employment_unemployment_rate",
+      "poverty_rate",
+      "education_high_school",
+      "education_bachelors",
+      "education_graduate"
+    ],
+    "currency_fields": [
+      "housing_median_value",
+      "income_median",
+      "income_per_capita",
+      "median_rent",
+      "investment_cash_flow"
+    ],
+    "rate_fields": ["investment_cap_rate", "investment_roi", "rental_yield", "investment_appreciation"]
+  }
+}
