@@ -1,0 +1,31 @@
+GEOID,STATEFP,COUNTYFP,fred_county_fips,NAME,NAMELSAD,region,region_type,region_type_id,table_id,state,state_code,parent_metro_region,parent_metro_region_metro_code,fred_child_id,fred_region_id,fred_state_id,ALAND,AWATER,INTPTLAT,INTPTLON,data_source,state_fips
+02013,02,013,,Aleutians East,Aleutians East Borough,,,,,,,,,,,,18094314940.0,20797423739.0,55.2450437,-161.9974772,Census only,02
+02016,02,016,02016,Aleutians West,Aleutians West Census Area,"Aleutians West Census Area, AK",county,5.0,187.0,Alaska,AK,Alaska nonmetropolitan area,,27405.0,27403.0,27283.0,11377949308.0,25183571468.0,51.948964,179.6211882,Complete data,02
+02020,02,020,02020,Anchorage,Anchorage Municipality,"Anchorage Borough, AK",county,5.0,188.0,Alaska,AK,"Anchorage, AK",11260.0,27406.0,27403.0,27283.0,4421287267.0,614965903.0,61.1742503,-149.2843294,Complete data,02
+02050,02,050,02050,Bethel,Bethel Census Area,"Bethel Census Area, AK",county,5.0,189.0,Alaska,AK,Alaska nonmetropolitan area,,27407.0,27403.0,27283.0,105310429084.0,12678050559.0,60.9291413,-160.1526246,Complete data,02
+02060,02,060,02060,Bristol Bay,Bristol Bay Borough,"Bristol Bay Borough, AK",county,5.0,190.0,Alaska,AK,Alaska nonmetropolitan area,,27408.0,27403.0,27283.0,1246773236.0,952589575.0,58.7305457,-156.994473,Complete data,02
+02063,02,063,02063,Chugach,Chugach Census Area,"Valdez-Cordova Census Area, AK",county,5.0,208.0,Alaska,AK,,,27425.0,27403.0,27283.0,24800146118.0,14536309310.0,60.4884737,-146.2030924,Complete data,02
+02066,02,066,,Copper River,Copper River Census Area,,,,,,,,,,,,63834809642.0,1218949180.0,62.034479,-143.9221674,Census only,02
+02068,02,068,,Denali,Denali Borough,,,,,,,,,,,,32740165568.0,66105677.0,63.6820386,-150.0270164,Census only,02
+02070,02,070,,Dillingham,Dillingham Census Area,,,,,,,,,,,,47489490852.0,5936909013.0,59.5433255,-158.2671226,Census only,02
+02090,02,090,02090,Fairbanks North Star,Fairbanks North Star Borough,"Fairbanks North Star Borough, AK",county,5.0,193.0,Alaska,AK,"Fairbanks, AK",21820.0,27410.0,27403.0,27283.0,18997105007.0,259306487.0,64.6704543,-146.4960611,Complete data,02
+02100,02,100,02100,Haines,Haines Borough,"Haines Borough, AK",county,5.0,194.0,Alaska,AK,Alaska nonmetropolitan area,,27411.0,27403.0,27283.0,6047446741.0,1028215523.0,59.0984037,-135.5757906,Complete data,02
+02105,02,105,02105,Hoonah-Angoon,Hoonah-Angoon Census Area,"Hoonah-Angoon Census Area, AK",county,5.0,3351.0,Alaska,AK,Alaska nonmetropolitan area,,33517.0,27403.0,27283.0,16991147480.0,7796385706.0,58.403336,-135.884909,Complete data,02
+02110,02,110,,Juneau,Juneau City and Borough,,,,,,,,,,,,7000540329.0,1437614880.0,58.3729099,-134.1784454,Census only,02
+02122,02,122,02122,Kenai Peninsula,Kenai Peninsula Borough,"Kenai Peninsula Borough, AK",county,5.0,196.0,Alaska,AK,Alaska nonmetropolitan area,,27413.0,27403.0,27283.0,41485343703.0,22542172700.0,60.3666677,-152.3222833,Complete data,02
+02130,02,130,02130,Ketchikan Gateway,Ketchikan Gateway Borough,"Ketchikan Gateway Borough, AK",county,5.0,197.0,Alaska,AK,"Ketchikan, AK",28540.0,27414.0,27403.0,27283.0,12579808104.0,4714991291.0,55.4499378,-131.1066847,Complete data,02
+02150,02,150,02150,Kodiak Island,Kodiak Island Borough,"Kodiak Island Borough, AK",county,5.0,198.0,Alaska,AK,Alaska nonmetropolitan area,,27415.0,27403.0,27283.0,17325688372.0,14147958947.0,57.7044003,-153.9183721,Complete data,02
+02158,02,158,,Kusilvak,Kusilvak Census Area,,,,,,,,,,,,44231723377.0,6683852320.0,62.2835878,-163.1901714,Census only,02
+02164,02,164,,Lake and Peninsula,Lake and Peninsula Borough,,,,,,,,,,,,61722052573.0,25846144301.0,58.1085067,-156.4134134,Census only,02
+02170,02,170,02170,Matanuska-Susitna,Matanuska-Susitna Borough,"Matanuska-Susitna Borough, AK",county,5.0,200.0,Alaska,AK,"Anchorage, AK",11260.0,27417.0,27403.0,27283.0,63991698182.0,1451234885.0,62.2656263,-149.5039935,Complete data,02
+02180,02,180,02180,Nome,Nome Census Area,"Nome Census Area, AK",county,5.0,201.0,Alaska,AK,Alaska nonmetropolitan area,,27418.0,27403.0,27283.0,59491231652.0,13780160833.0,64.7836858,-164.1889119,Complete data,02
+02185,02,185,,North Slope,North Slope Borough,,,,,,,,,,,,229972282345.0,15630901229.0,69.4493427,-153.4728302,Census only,02
+02188,02,188,,Northwest Arctic,Northwest Arctic Borough,,,,,,,,,,,,92389266898.0,12815474516.0,67.0050655,-160.0210864,Census only,02
+02195,02,195,02195,Petersburg,Petersburg Borough,"Petersburg Borough, AK",county,5.0,3352.0,Alaska,AK,Alaska nonmetropolitan area,,33519.0,27403.0,27283.0,7513266725.0,2399809206.0,57.1124581,-133.0085979,Complete data,02
+02198,02,198,02198,Prince of Wales-Hyder,Prince of Wales-Hyder Census Area,"Prince of Wales-Hyder Census Area, AK",county,5.0,204.0,Alaska,AK,Alaska nonmetropolitan area,,33520.0,27403.0,27283.0,13643114551.0,14563567048.0,55.6827733,-133.1623885,Complete data,02
+02220,02,220,02220,Sitka,Sitka City and Borough,"Sitka Borough, AK",county,5.0,205.0,Alaska,AK,Alaska nonmetropolitan area,,27422.0,27403.0,27283.0,7433526050.0,5037637272.0,57.1932044,-135.3673965,Complete data,02
+02230,02,230,,Skagway,Skagway Municipality,,,,,,,,,,,,1147178436.0,27779583.0,59.5603794,-135.3382787,Census only,02
+02240,02,240,02240,Southeast Fairbanks,Southeast Fairbanks Census Area,"Southeast Fairbanks Census Area, AK",county,5.0,207.0,Alaska,AK,Alaska nonmetropolitan area,,27424.0,27403.0,27283.0,64315282485.0,749292918.0,63.8649972,-143.2186282,Complete data,02
+02275,02,275,,Wrangell,Wrangell City and Borough,,,,,,,,,,,,6620261743.0,2369935195.0,56.1807793,-132.0267878,Census only,02
+02282,02,282,,Yakutat,Yakutat City and Borough,,,,,,,,,,,,19755357578.0,3980862722.0,60.0175079,-140.4168465,Census only,02
+02290,02,290,,Yukon-Koyukuk,Yukon-Koyukuk Census Area,,,,,,,,,,,,377540283397.0,5462354664.0,65.3756565,-151.5781764,Census only,02

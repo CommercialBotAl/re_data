@@ -1,0 +1,1008 @@
+{
+  "total_states": 57,
+  "states": [
+    "AK",
+    "AL",
+    "AR",
+    "AS",
+    "AZ",
+    "CA",
+    "CO",
+    "CT",
+    "DC",
+    "DE",
+    "FL",
+    "GA",
+    "GU",
+    "HI",
+    "IA",
+    "ID",
+    "IL",
+    "IN",
+    "KS",
+    "KY",
+    "LA",
+    "MA",
+    "MD",
+    "ME",
+    "MI",
+    "MN",
+    "MO",
+    "MP",
+    "MS",
+    "MT",
+    "NC",
+    "ND",
+    "NE",
+    "NH",
+    "NJ",
+    "NM",
+    "NV",
+    "NY",
+    "OH",
+    "OK",
+    "OR",
+    "PA",
+    "PR",
+    "RI",
+    "SC",
+    "SD",
+    "TN",
+    "TX",
+    "UN",
+    "UT",
+    "VA",
+    "VI",
+    "VT",
+    "WA",
+    "WI",
+    "WV",
+    "WY"
+  ],
+  "total_files_processed": 324,
+  "failed_files": 0,
+  "data_by_state": {
+    "AK": {
+      "csv_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "geojson_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "complete_pairs": [
+        "zip",
+        "tract",
+        "county"
+      ]
+    },
+    "AL": {
+      "csv_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "geojson_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "complete_pairs": [
+        "zip",
+        "tract",
+        "county"
+      ]
+    },
+    "AR": {
+      "csv_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "geojson_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "complete_pairs": [
+        "zip",
+        "tract",
+        "county"
+      ]
+    },
+    "AS": {
+      "csv_levels": [
+        "county"
+      ],
+      "geojson_levels": [
+        "county"
+      ],
+      "complete_pairs": [
+        "county"
+      ]
+    },
+    "AZ": {
+      "csv_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "geojson_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "complete_pairs": [
+        "zip",
+        "tract",
+        "county"
+      ]
+    },
+    "CA": {
+      "csv_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "geojson_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "complete_pairs": [
+        "zip",
+        "tract",
+        "county"
+      ]
+    },
+    "CO": {
+      "csv_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "geojson_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "complete_pairs": [
+        "zip",
+        "tract",
+        "county"
+      ]
+    },
+    "CT": {
+      "csv_levels": [
+        "county",
+        "zip"
+      ],
+      "geojson_levels": [
+        "county",
+        "zip"
+      ],
+      "complete_pairs": [
+        "zip",
+        "county"
+      ]
+    },
+    "DC": {
+      "csv_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "geojson_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "complete_pairs": [
+        "zip",
+        "tract",
+        "county"
+      ]
+    },
+    "DE": {
+      "csv_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "geojson_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "complete_pairs": [
+        "zip",
+        "tract",
+        "county"
+      ]
+    },
+    "FL": {
+      "csv_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "geojson_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "complete_pairs": [
+        "zip",
+        "tract",
+        "county"
+      ]
+    },
+    "GA": {
+      "csv_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "geojson_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "complete_pairs": [
+        "zip",
+        "tract",
+        "county"
+      ]
+    },
+    "GU": {
+      "csv_levels": [
+        "county",
+        "zip"
+      ],
+      "geojson_levels": [
+        "county",
+        "zip"
+      ],
+      "complete_pairs": [
+        "zip",
+        "county"
+      ]
+    },
+    "HI": {
+      "csv_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "geojson_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "complete_pairs": [
+        "zip",
+        "tract",
+        "county"
+      ]
+    },
+    "IA": {
+      "csv_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "geojson_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "complete_pairs": [
+        "zip",
+        "tract",
+        "county"
+      ]
+    },
+    "ID": {
+      "csv_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "geojson_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "complete_pairs": [
+        "zip",
+        "tract",
+        "county"
+      ]
+    },
+    "IL": {
+      "csv_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "geojson_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "complete_pairs": [
+        "zip",
+        "tract",
+        "county"
+      ]
+    },
+    "IN": {
+      "csv_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "geojson_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "complete_pairs": [
+        "zip",
+        "tract",
+        "county"
+      ]
+    },
+    "KS": {
+      "csv_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "geojson_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "complete_pairs": [
+        "zip",
+        "tract",
+        "county"
+      ]
+    },
+    "KY": {
+      "csv_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "geojson_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "complete_pairs": [
+        "zip",
+        "tract",
+        "county"
+      ]
+    },
+    "LA": {
+      "csv_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "geojson_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "complete_pairs": [
+        "zip",
+        "tract",
+        "county"
+      ]
+    },
+    "MA": {
+      "csv_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "geojson_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "complete_pairs": [
+        "zip",
+        "tract",
+        "county"
+      ]
+    },
+    "MD": {
+      "csv_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "geojson_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "complete_pairs": [
+        "zip",
+        "tract",
+        "county"
+      ]
+    },
+    "ME": {
+      "csv_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "geojson_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "complete_pairs": [
+        "zip",
+        "tract",
+        "county"
+      ]
+    },
+    "MI": {
+      "csv_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "geojson_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "complete_pairs": [
+        "zip",
+        "tract",
+        "county"
+      ]
+    },
+    "MN": {
+      "csv_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "geojson_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "complete_pairs": [
+        "zip",
+        "tract",
+        "county"
+      ]
+    },
+    "MO": {
+      "csv_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "geojson_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "complete_pairs": [
+        "zip",
+        "tract",
+        "county"
+      ]
+    },
+    "MP": {
+      "csv_levels": [
+        "county",
+        "zip"
+      ],
+      "geojson_levels": [
+        "county",
+        "zip"
+      ],
+      "complete_pairs": [
+        "zip",
+        "county"
+      ]
+    },
+    "MS": {
+      "csv_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "geojson_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "complete_pairs": [
+        "zip",
+        "tract",
+        "county"
+      ]
+    },
+    "MT": {
+      "csv_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "geojson_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "complete_pairs": [
+        "zip",
+        "tract",
+        "county"
+      ]
+    },
+    "NC": {
+      "csv_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "geojson_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "complete_pairs": [
+        "zip",
+        "tract",
+        "county"
+      ]
+    },
+    "ND": {
+      "csv_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "geojson_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "complete_pairs": [
+        "zip",
+        "tract",
+        "county"
+      ]
+    },
+    "NE": {
+      "csv_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "geojson_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "complete_pairs": [
+        "zip",
+        "tract",
+        "county"
+      ]
+    },
+    "NH": {
+      "csv_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "geojson_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "complete_pairs": [
+        "zip",
+        "tract",
+        "county"
+      ]
+    },
+    "NJ": {
+      "csv_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "geojson_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "complete_pairs": [
+        "zip",
+        "tract",
+        "county"
+      ]
+    },
+    "NM": {
+      "csv_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "geojson_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "complete_pairs": [
+        "zip",
+        "tract",
+        "county"
+      ]
+    },
+    "NV": {
+      "csv_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "geojson_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "complete_pairs": [
+        "zip",
+        "tract",
+        "county"
+      ]
+    },
+    "NY": {
+      "csv_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "geojson_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "complete_pairs": [
+        "zip",
+        "tract",
+        "county"
+      ]
+    },
+    "OH": {
+      "csv_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "geojson_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "complete_pairs": [
+        "zip",
+        "tract",
+        "county"
+      ]
+    },
+    "OK": {
+      "csv_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "geojson_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "complete_pairs": [
+        "zip",
+        "tract",
+        "county"
+      ]
+    },
+    "OR": {
+      "csv_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "geojson_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "complete_pairs": [
+        "zip",
+        "tract",
+        "county"
+      ]
+    },
+    "PA": {
+      "csv_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "geojson_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "complete_pairs": [
+        "zip",
+        "tract",
+        "county"
+      ]
+    },
+    "PR": {
+      "csv_levels": [
+        "county",
+        "zip"
+      ],
+      "geojson_levels": [
+        "county",
+        "zip"
+      ],
+      "complete_pairs": [
+        "zip",
+        "county"
+      ]
+    },
+    "RI": {
+      "csv_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "geojson_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "complete_pairs": [
+        "zip",
+        "tract",
+        "county"
+      ]
+    },
+    "SC": {
+      "csv_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "geojson_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "complete_pairs": [
+        "zip",
+        "tract",
+        "county"
+      ]
+    },
+    "SD": {
+      "csv_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "geojson_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "complete_pairs": [
+        "zip",
+        "tract",
+        "county"
+      ]
+    },
+    "TN": {
+      "csv_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "geojson_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "complete_pairs": [
+        "zip",
+        "tract",
+        "county"
+      ]
+    },
+    "TX": {
+      "csv_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "geojson_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "complete_pairs": [
+        "zip",
+        "tract",
+        "county"
+      ]
+    },
+    "UN": {
+      "csv_levels": [
+        "county"
+      ],
+      "geojson_levels": [
+        "county"
+      ],
+      "complete_pairs": [
+        "county"
+      ]
+    },
+    "UT": {
+      "csv_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "geojson_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "complete_pairs": [
+        "zip",
+        "tract",
+        "county"
+      ]
+    },
+    "VA": {
+      "csv_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "geojson_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "complete_pairs": [
+        "zip",
+        "tract",
+        "county"
+      ]
+    },
+    "VI": {
+      "csv_levels": [
+        "county",
+        "zip"
+      ],
+      "geojson_levels": [
+        "county",
+        "zip"
+      ],
+      "complete_pairs": [
+        "zip",
+        "county"
+      ]
+    },
+    "VT": {
+      "csv_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "geojson_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "complete_pairs": [
+        "zip",
+        "tract",
+        "county"
+      ]
+    },
+    "WA": {
+      "csv_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "geojson_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "complete_pairs": [
+        "zip",
+        "tract",
+        "county"
+      ]
+    },
+    "WI": {
+      "csv_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "geojson_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "complete_pairs": [
+        "zip",
+        "tract",
+        "county"
+      ]
+    },
+    "WV": {
+      "csv_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "geojson_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "complete_pairs": [
+        "zip",
+        "tract",
+        "county"
+      ]
+    },
+    "WY": {
+      "csv_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "geojson_levels": [
+        "county",
+        "tract",
+        "zip"
+      ],
+      "complete_pairs": [
+        "zip",
+        "tract",
+        "county"
+      ]
+    }
+  }
+}
