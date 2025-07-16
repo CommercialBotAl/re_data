@@ -1,0 +1,2452 @@
+{
+  "Cen_Indiana_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 930,
+    "output_path": "census_summaries/Cen_Indiana_zip_2023_consolidated_summary.json"
+  },
+  "Cen_Kansas_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 739,
+    "output_path": "census_summaries/Cen_Kansas_zip_2023_consolidated_summary.json"
+  },
+  "Cen_Maryland_tract_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1456,
+    "output_path": "census_summaries/Cen_Maryland_tract_county_2023_consolidated_summary.json"
+  },
+  "Cen_Louisiana_tract_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1366,
+    "output_path": "census_summaries/Cen_Louisiana_tract_county_2022_consolidated_summary.json"
+  },
+  "Cen_Florida_tract_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 5071,
+    "output_path": "census_summaries/Cen_Florida_tract_county_2022_consolidated_summary.json"
+  },
+  "Cen_California_tract_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 15929,
+    "output_path": "census_summaries/Cen_California_tract_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Washington_state_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Washington_state_2023_consolidated_summary.json"
+  },
+  "Cen_District of Columbia_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 218,
+    "output_path": "census_summaries/Cen_District of Columbia_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Vermont_state_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Vermont_state_2022_consolidated_summary.json"
+  },
+  "Cen_Kentucky_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 905,
+    "output_path": "census_summaries/Cen_Kentucky_zip_2023_consolidated_summary.json"
+  },
+  "Cen_Wyoming_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 23,
+    "output_path": "census_summaries/Cen_Wyoming_county_2022_consolidated_summary.json"
+  },
+  "Cen_Wyoming_state_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Wyoming_state_2023_consolidated_summary.json"
+  },
+  "Cen_Washington_tract_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 3671,
+    "output_path": "census_summaries/Cen_Washington_tract_zip_2023_consolidated_summary.json"
+  },
+  "Cen_Colorado_tract_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 3040,
+    "output_path": "census_summaries/Cen_Colorado_tract_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Arizona_tract_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1735,
+    "output_path": "census_summaries/Cen_Arizona_tract_county_2022_consolidated_summary.json"
+  },
+  "Cen_Kentucky_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 120,
+    "output_path": "census_summaries/Cen_Kentucky_county_2022_consolidated_summary.json"
+  },
+  "Cen_Maryland_state_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Maryland_state_2022_consolidated_summary.json"
+  },
+  "Cen_New York_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 62,
+    "output_path": "census_summaries/Cen_New York_county_2023_consolidated_summary.json"
+  },
+  "Cen_Mississippi_tract_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 872,
+    "output_path": "census_summaries/Cen_Mississippi_tract_county_2023_consolidated_summary.json"
+  },
+  "Cen_Illinois_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 102,
+    "output_path": "census_summaries/Cen_Illinois_county_2023_consolidated_summary.json"
+  },
+  "Cen_North Dakota_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 53,
+    "output_path": "census_summaries/Cen_North Dakota_county_2023_consolidated_summary.json"
+  },
+  "Cen_New Mexico_tract_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 602,
+    "output_path": "census_summaries/Cen_New Mexico_tract_county_2023_consolidated_summary.json"
+  },
+  "Cen_New Jersey_tract_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 2167,
+    "output_path": "census_summaries/Cen_New Jersey_tract_county_2022_consolidated_summary.json"
+  },
+  "Cen_Connecticut_tract_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 873,
+    "output_path": "census_summaries/Cen_Connecticut_tract_county_2023_consolidated_summary.json"
+  },
+  "Cen_Pennsylvania_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 67,
+    "output_path": "census_summaries/Cen_Pennsylvania_county_2022_consolidated_summary.json"
+  },
+  "Cen_Massachusetts_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 14,
+    "output_path": "census_summaries/Cen_Massachusetts_county_2023_consolidated_summary.json"
+  },
+  "Cen_Oregon_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 36,
+    "output_path": "census_summaries/Cen_Oregon_county_2023_consolidated_summary.json"
+  },
+  "Cen_Rhode Island_state_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Rhode Island_state_2023_consolidated_summary.json"
+  },
+  "Cen_West Virginia_tract_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 546,
+    "output_path": "census_summaries/Cen_West Virginia_tract_county_2023_consolidated_summary.json"
+  },
+  "Cen_District of Columbia_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_District of Columbia_county_2023_consolidated_summary.json"
+  },
+  "Cen_Montana_tract_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 939,
+    "output_path": "census_summaries/Cen_Montana_tract_zip_2023_consolidated_summary.json"
+  },
+  "Cen_New Mexico_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 33,
+    "output_path": "census_summaries/Cen_New Mexico_county_2023_consolidated_summary.json"
+  },
+  "Cen_Rhode Island_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 90,
+    "output_path": "census_summaries/Cen_Rhode Island_zip_2023_consolidated_summary.json"
+  },
+  "Cen_New Mexico_state_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_New Mexico_state_2022_consolidated_summary.json"
+  },
+  "Cen_Oregon_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 36,
+    "output_path": "census_summaries/Cen_Oregon_county_2022_consolidated_summary.json"
+  },
+  "Cen_Arizona_tract_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1736,
+    "output_path": "census_summaries/Cen_Arizona_tract_county_2023_consolidated_summary.json"
+  },
+  "Cen_Louisiana_tract_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1366,
+    "output_path": "census_summaries/Cen_Louisiana_tract_county_2023_consolidated_summary.json"
+  },
+  "Cen_Louisiana_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 665,
+    "output_path": "census_summaries/Cen_Louisiana_zip_2023_consolidated_summary.json"
+  },
+  "Cen_Mississippi_state_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Mississippi_state_2022_consolidated_summary.json"
+  },
+  "Cen_West Virginia_tract_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 2159,
+    "output_path": "census_summaries/Cen_West Virginia_tract_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Washington_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 39,
+    "output_path": "census_summaries/Cen_Washington_county_2022_consolidated_summary.json"
+  },
+  "Cen_Oregon_state_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Oregon_state_2022_consolidated_summary.json"
+  },
+  "Cen_New Hampshire_state_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_New Hampshire_state_2022_consolidated_summary.json"
+  },
+  "Cen_New Jersey_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 691,
+    "output_path": "census_summaries/Cen_New Jersey_zip_2022_consolidated_summary.json"
+  },
+  "Cen_California_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 58,
+    "output_path": "census_summaries/Cen_California_county_2023_consolidated_summary.json"
+  },
+  "Cen_District of Columbia_tract_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 553,
+    "output_path": "census_summaries/Cen_District of Columbia_tract_zip_2023_consolidated_summary.json"
+  },
+  "Cen_Wyoming_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 23,
+    "output_path": "census_summaries/Cen_Wyoming_county_2023_consolidated_summary.json"
+  },
+  "Cen_District of Columbia_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_District of Columbia_county_2022_consolidated_summary.json"
+  },
+  "Cen_West Virginia_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 55,
+    "output_path": "census_summaries/Cen_West Virginia_county_2022_consolidated_summary.json"
+  },
+  "Cen_New Jersey_tract_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 4155,
+    "output_path": "census_summaries/Cen_New Jersey_tract_zip_2023_consolidated_summary.json"
+  },
+  "Cen_Idaho_tract_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 456,
+    "output_path": "census_summaries/Cen_Idaho_tract_county_2023_consolidated_summary.json"
+  },
+  "Cen_Michigan_tract_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 6250,
+    "output_path": "census_summaries/Cen_Michigan_tract_zip_2023_consolidated_summary.json"
+  },
+  "Cen_New Hampshire_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 276,
+    "output_path": "census_summaries/Cen_New Hampshire_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Nevada_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 232,
+    "output_path": "census_summaries/Cen_Nevada_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Delaware_tract_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 516,
+    "output_path": "census_summaries/Cen_Delaware_tract_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Utah_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 29,
+    "output_path": "census_summaries/Cen_Utah_county_2022_consolidated_summary.json"
+  },
+  "Cen_New Jersey_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 21,
+    "output_path": "census_summaries/Cen_New Jersey_county_2022_consolidated_summary.json"
+  },
+  "Cen_District of Columbia_state_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_District of Columbia_state_2023_consolidated_summary.json"
+  },
+  "Cen_Mississippi_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 82,
+    "output_path": "census_summaries/Cen_Mississippi_county_2022_consolidated_summary.json"
+  },
+  "Cen_Arizona_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 506,
+    "output_path": "census_summaries/Cen_Arizona_zip_2022_consolidated_summary.json"
+  },
+  "Cen_New Jersey_state_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_New Jersey_state_2022_consolidated_summary.json"
+  },
+  "Cen_New Jersey_tract_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 4155,
+    "output_path": "census_summaries/Cen_New Jersey_tract_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Minnesota_tract_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 4022,
+    "output_path": "census_summaries/Cen_Minnesota_tract_zip_2023_consolidated_summary.json"
+  },
+  "Cen_California_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 58,
+    "output_path": "census_summaries/Cen_California_county_2022_consolidated_summary.json"
+  },
+  "Cen_Virginia_state_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Virginia_state_2022_consolidated_summary.json"
+  },
+  "Cen_South Dakota_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 66,
+    "output_path": "census_summaries/Cen_South Dakota_county_2022_consolidated_summary.json"
+  },
+  "Cen_West Virginia_state_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_West Virginia_state_2022_consolidated_summary.json"
+  },
+  "Cen_Ohio_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 88,
+    "output_path": "census_summaries/Cen_Ohio_county_2023_consolidated_summary.json"
+  },
+  "Cen_Maryland_tract_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1456,
+    "output_path": "census_summaries/Cen_Maryland_tract_county_2022_consolidated_summary.json"
+  },
+  "Cen_New Mexico_state_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_New Mexico_state_2023_consolidated_summary.json"
+  },
+  "Cen_Michigan_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1097,
+    "output_path": "census_summaries/Cen_Michigan_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Delaware_tract_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 256,
+    "output_path": "census_summaries/Cen_Delaware_tract_county_2022_consolidated_summary.json"
+  },
+  "Cen_Nebraska_tract_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 551,
+    "output_path": "census_summaries/Cen_Nebraska_tract_county_2022_consolidated_summary.json"
+  },
+  "Cen_Arkansas_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 687,
+    "output_path": "census_summaries/Cen_Arkansas_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Oklahoma_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 737,
+    "output_path": "census_summaries/Cen_Oklahoma_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Montana_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 56,
+    "output_path": "census_summaries/Cen_Montana_county_2022_consolidated_summary.json"
+  },
+  "Cen_South Carolina_tract_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1305,
+    "output_path": "census_summaries/Cen_South Carolina_tract_county_2023_consolidated_summary.json"
+  },
+  "Cen_Indiana_tract_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 4410,
+    "output_path": "census_summaries/Cen_Indiana_tract_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Delaware_state_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Delaware_state_2022_consolidated_summary.json"
+  },
+  "Cen_Pennsylvania_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 67,
+    "output_path": "census_summaries/Cen_Pennsylvania_county_2023_consolidated_summary.json"
+  },
+  "Cen_Mississippi_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 508,
+    "output_path": "census_summaries/Cen_Mississippi_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Colorado_tract_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 3040,
+    "output_path": "census_summaries/Cen_Colorado_tract_zip_2023_consolidated_summary.json"
+  },
+  "Cen_Missouri_tract_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1649,
+    "output_path": "census_summaries/Cen_Missouri_tract_county_2022_consolidated_summary.json"
+  },
+  "Cen_Maryland_tract_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 3016,
+    "output_path": "census_summaries/Cen_Maryland_tract_zip_2023_consolidated_summary.json"
+  },
+  "Cen_Maryland_state_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Maryland_state_2023_consolidated_summary.json"
+  },
+  "Cen_North Carolina_state_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_North Carolina_state_2022_consolidated_summary.json"
+  },
+  "Cen_Idaho_state_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Idaho_state_2022_consolidated_summary.json"
+  },
+  "Cen_Nevada_tract_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1303,
+    "output_path": "census_summaries/Cen_Nevada_tract_zip_2023_consolidated_summary.json"
+  },
+  "Cen_Nevada_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 17,
+    "output_path": "census_summaries/Cen_Nevada_county_2022_consolidated_summary.json"
+  },
+  "Cen_New Jersey_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 691,
+    "output_path": "census_summaries/Cen_New Jersey_zip_2023_consolidated_summary.json"
+  },
+  "Cen_Illinois_tract_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 3257,
+    "output_path": "census_summaries/Cen_Illinois_tract_county_2022_consolidated_summary.json"
+  },
+  "Cen_New Hampshire_tract_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 842,
+    "output_path": "census_summaries/Cen_New Hampshire_tract_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Maine_tract_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1015,
+    "output_path": "census_summaries/Cen_Maine_tract_zip_2023_consolidated_summary.json"
+  },
+  "Cen_Utah_tract_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1434,
+    "output_path": "census_summaries/Cen_Utah_tract_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Louisiana_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 64,
+    "output_path": "census_summaries/Cen_Louisiana_county_2022_consolidated_summary.json"
+  },
+  "Cen_Illinois_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1541,
+    "output_path": "census_summaries/Cen_Illinois_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Minnesota_tract_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1498,
+    "output_path": "census_summaries/Cen_Minnesota_tract_county_2023_consolidated_summary.json"
+  },
+  "Cen_Tennessee_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 95,
+    "output_path": "census_summaries/Cen_Tennessee_county_2023_consolidated_summary.json"
+  },
+  "Cen_New York_tract_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 5271,
+    "output_path": "census_summaries/Cen_New York_tract_county_2022_consolidated_summary.json"
+  },
+  "Cen_South Dakota_state_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_South Dakota_state_2022_consolidated_summary.json"
+  },
+  "Cen_Alabama_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 67,
+    "output_path": "census_summaries/Cen_Alabama_county_2022_consolidated_summary.json"
+  },
+  "Cen_Georgia_tract_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 5947,
+    "output_path": "census_summaries/Cen_Georgia_tract_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Vermont_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 305,
+    "output_path": "census_summaries/Cen_Vermont_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Oregon_tract_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 992,
+    "output_path": "census_summaries/Cen_Oregon_tract_county_2023_consolidated_summary.json"
+  },
+  "Cen_Washington_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 700,
+    "output_path": "census_summaries/Cen_Washington_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Maine_state_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Maine_state_2023_consolidated_summary.json"
+  },
+  "Cen_Michigan_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1098,
+    "output_path": "census_summaries/Cen_Michigan_zip_2023_consolidated_summary.json"
+  },
+  "Cen_Arkansas_tract_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 822,
+    "output_path": "census_summaries/Cen_Arkansas_tract_county_2022_consolidated_summary.json"
+  },
+  "Cen_Montana_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 396,
+    "output_path": "census_summaries/Cen_Montana_zip_2023_consolidated_summary.json"
+  },
+  "Cen_Louisiana_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 665,
+    "output_path": "census_summaries/Cen_Louisiana_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Massachusetts_tract_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 3124,
+    "output_path": "census_summaries/Cen_Massachusetts_tract_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Rhode Island_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 5,
+    "output_path": "census_summaries/Cen_Rhode Island_county_2022_consolidated_summary.json"
+  },
+  "Cen_Kansas_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 105,
+    "output_path": "census_summaries/Cen_Kansas_county_2022_consolidated_summary.json"
+  },
+  "Cen_Nebraska_tract_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1926,
+    "output_path": "census_summaries/Cen_Nebraska_tract_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Kentucky_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 905,
+    "output_path": "census_summaries/Cen_Kentucky_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Kansas_tract_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 2499,
+    "output_path": "census_summaries/Cen_Kansas_tract_zip_2022_consolidated_summary.json"
+  },
+  "Cen_North Carolina_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 100,
+    "output_path": "census_summaries/Cen_North Carolina_county_2023_consolidated_summary.json"
+  },
+  "Cen_Utah_state_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Utah_state_2022_consolidated_summary.json"
+  },
+  "Cen_Alabama_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 766,
+    "output_path": "census_summaries/Cen_Alabama_zip_2023_consolidated_summary.json"
+  },
+  "Cen_Pennsylvania_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 2048,
+    "output_path": "census_summaries/Cen_Pennsylvania_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Nebraska_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 609,
+    "output_path": "census_summaries/Cen_Nebraska_zip_2023_consolidated_summary.json"
+  },
+  "Cen_New York_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 2048,
+    "output_path": "census_summaries/Cen_New York_zip_2023_consolidated_summary.json"
+  },
+  "Cen_Alabama_tract_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1429,
+    "output_path": "census_summaries/Cen_Alabama_tract_county_2023_consolidated_summary.json"
+  },
+  "Cen_Nevada_tract_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 772,
+    "output_path": "census_summaries/Cen_Nevada_tract_county_2023_consolidated_summary.json"
+  },
+  "Cen_Nebraska_state_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Nebraska_state_2022_consolidated_summary.json"
+  },
+  "Cen_Wyoming_tract_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 159,
+    "output_path": "census_summaries/Cen_Wyoming_tract_county_2022_consolidated_summary.json"
+  },
+  "Cen_North Carolina_tract_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 6009,
+    "output_path": "census_summaries/Cen_North Carolina_tract_zip_2022_consolidated_summary.json"
+  },
+  "Cen_South Dakota_tract_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 242,
+    "output_path": "census_summaries/Cen_South Dakota_tract_county_2023_consolidated_summary.json"
+  },
+  "Cen_New York_state_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_New York_state_2023_consolidated_summary.json"
+  },
+  "Cen_Oklahoma_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 77,
+    "output_path": "census_summaries/Cen_Oklahoma_county_2023_consolidated_summary.json"
+  },
+  "Cen_South Carolina_tract_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1306,
+    "output_path": "census_summaries/Cen_South Carolina_tract_county_2022_consolidated_summary.json"
+  },
+  "Cen_Arkansas_tract_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 2344,
+    "output_path": "census_summaries/Cen_Arkansas_tract_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Georgia_state_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Georgia_state_2022_consolidated_summary.json"
+  },
+  "Cen_Indiana_state_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Indiana_state_2022_consolidated_summary.json"
+  },
+  "Cen_Minnesota_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 913,
+    "output_path": "census_summaries/Cen_Minnesota_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Wisconsin_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 72,
+    "output_path": "census_summaries/Cen_Wisconsin_county_2023_consolidated_summary.json"
+  },
+  "Cen_Vermont_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 14,
+    "output_path": "census_summaries/Cen_Vermont_county_2023_consolidated_summary.json"
+  },
+  "Cen_New Mexico_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 418,
+    "output_path": "census_summaries/Cen_New Mexico_zip_2023_consolidated_summary.json"
+  },
+  "Cen_Pennsylvania_tract_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 8844,
+    "output_path": "census_summaries/Cen_Pennsylvania_tract_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Tennessee_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 758,
+    "output_path": "census_summaries/Cen_Tennessee_zip_2023_consolidated_summary.json"
+  },
+  "Cen_Wisconsin_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 72,
+    "output_path": "census_summaries/Cen_Wisconsin_county_2022_consolidated_summary.json"
+  },
+  "Cen_Maryland_tract_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 3016,
+    "output_path": "census_summaries/Cen_Maryland_tract_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Oregon_tract_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 2130,
+    "output_path": "census_summaries/Cen_Oregon_tract_zip_2022_consolidated_summary.json"
+  },
+  "Cen_California_tract_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 15938,
+    "output_path": "census_summaries/Cen_California_tract_zip_2023_consolidated_summary.json"
+  },
+  "Cen_New Hampshire_tract_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 347,
+    "output_path": "census_summaries/Cen_New Hampshire_tract_county_2023_consolidated_summary.json"
+  },
+  "Cen_Ohio_tract_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 3151,
+    "output_path": "census_summaries/Cen_Ohio_tract_county_2022_consolidated_summary.json"
+  },
+  "Cen_Montana_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 56,
+    "output_path": "census_summaries/Cen_Montana_county_2023_consolidated_summary.json"
+  },
+  "Cen_Oklahoma_tract_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 3025,
+    "output_path": "census_summaries/Cen_Oklahoma_tract_zip_2023_consolidated_summary.json"
+  },
+  "Cen_Washington_state_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Washington_state_2022_consolidated_summary.json"
+  },
+  "Cen_Delaware_state_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Delaware_state_2023_consolidated_summary.json"
+  },
+  "Cen_Georgia_state_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Georgia_state_2023_consolidated_summary.json"
+  },
+  "Cen_Nebraska_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 93,
+    "output_path": "census_summaries/Cen_Nebraska_county_2023_consolidated_summary.json"
+  },
+  "Cen_Texas_state_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Texas_state_2023_consolidated_summary.json"
+  },
+  "Cen_Connecticut_tract_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 873,
+    "output_path": "census_summaries/Cen_Connecticut_tract_county_2022_consolidated_summary.json"
+  },
+  "Cen_Oklahoma_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 77,
+    "output_path": "census_summaries/Cen_Oklahoma_county_2022_consolidated_summary.json"
+  },
+  "Cen_Wyoming_state_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Wyoming_state_2022_consolidated_summary.json"
+  },
+  "Cen_Idaho_tract_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1053,
+    "output_path": "census_summaries/Cen_Idaho_tract_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Louisiana_tract_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 2826,
+    "output_path": "census_summaries/Cen_Louisiana_tract_zip_2022_consolidated_summary.json"
+  },
+  "Cen_New Hampshire_state_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_New Hampshire_state_2023_consolidated_summary.json"
+  },
+  "Cen_Ohio_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1354,
+    "output_path": "census_summaries/Cen_Ohio_zip_2023_consolidated_summary.json"
+  },
+  "Cen_Tennessee_state_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Tennessee_state_2022_consolidated_summary.json"
+  },
+  "Cen_Illinois_state_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Illinois_state_2023_consolidated_summary.json"
+  },
+  "Cen_Colorado_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 64,
+    "output_path": "census_summaries/Cen_Colorado_county_2023_consolidated_summary.json"
+  },
+  "Cen_Nebraska_state_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Nebraska_state_2023_consolidated_summary.json"
+  },
+  "Cen_Washington_tract_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 3671,
+    "output_path": "census_summaries/Cen_Washington_tract_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Mississippi_tract_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 2278,
+    "output_path": "census_summaries/Cen_Mississippi_tract_zip_2023_consolidated_summary.json"
+  },
+  "Cen_North Dakota_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 406,
+    "output_path": "census_summaries/Cen_North Dakota_zip_2023_consolidated_summary.json"
+  },
+  "Cen_South Carolina_tract_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 2854,
+    "output_path": "census_summaries/Cen_South Carolina_tract_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Texas_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 2427,
+    "output_path": "census_summaries/Cen_Texas_zip_2023_consolidated_summary.json"
+  },
+  "Cen_Colorado_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 631,
+    "output_path": "census_summaries/Cen_Colorado_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Rhode Island_tract_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 476,
+    "output_path": "census_summaries/Cen_Rhode Island_tract_zip_2023_consolidated_summary.json"
+  },
+  "Cen_West Virginia_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 55,
+    "output_path": "census_summaries/Cen_West Virginia_county_2023_consolidated_summary.json"
+  },
+  "Cen_North Carolina_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 100,
+    "output_path": "census_summaries/Cen_North Carolina_county_2022_consolidated_summary.json"
+  },
+  "Cen_Maine_tract_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1015,
+    "output_path": "census_summaries/Cen_Maine_tract_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Massachusetts_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 648,
+    "output_path": "census_summaries/Cen_Massachusetts_zip_2023_consolidated_summary.json"
+  },
+  "Cen_Arizona_tract_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 3055,
+    "output_path": "census_summaries/Cen_Arizona_tract_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Rhode Island_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 90,
+    "output_path": "census_summaries/Cen_Rhode Island_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Nevada_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 17,
+    "output_path": "census_summaries/Cen_Nevada_county_2023_consolidated_summary.json"
+  },
+  "Cen_Maryland_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 24,
+    "output_path": "census_summaries/Cen_Maryland_county_2022_consolidated_summary.json"
+  },
+  "Cen_Michigan_state_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Michigan_state_2023_consolidated_summary.json"
+  },
+  "Cen_Michigan_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 83,
+    "output_path": "census_summaries/Cen_Michigan_county_2022_consolidated_summary.json"
+  },
+  "Cen_West Virginia_state_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_West Virginia_state_2023_consolidated_summary.json"
+  },
+  "Cen_Missouri_tract_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1650,
+    "output_path": "census_summaries/Cen_Missouri_tract_county_2023_consolidated_summary.json"
+  },
+  "Cen_Maine_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 482,
+    "output_path": "census_summaries/Cen_Maine_zip_2023_consolidated_summary.json"
+  },
+  "Cen_Wisconsin_tract_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1524,
+    "output_path": "census_summaries/Cen_Wisconsin_tract_county_2023_consolidated_summary.json"
+  },
+  "Cen_New York_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 2048,
+    "output_path": "census_summaries/Cen_New York_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Pennsylvania_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 2048,
+    "output_path": "census_summaries/Cen_Pennsylvania_zip_2023_consolidated_summary.json"
+  },
+  "Cen_Washington_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 700,
+    "output_path": "census_summaries/Cen_Washington_zip_2023_consolidated_summary.json"
+  },
+  "Cen_Tennessee_tract_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 3995,
+    "output_path": "census_summaries/Cen_Tennessee_tract_zip_2022_consolidated_summary.json"
+  },
+  "Cen_New York_tract_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 5258,
+    "output_path": "census_summaries/Cen_New York_tract_county_2023_consolidated_summary.json"
+  },
+  "Cen_Illinois_tract_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 7857,
+    "output_path": "census_summaries/Cen_Illinois_tract_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Iowa_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 99,
+    "output_path": "census_summaries/Cen_Iowa_county_2022_consolidated_summary.json"
+  },
+  "Cen_Indiana_tract_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1684,
+    "output_path": "census_summaries/Cen_Indiana_tract_county_2022_consolidated_summary.json"
+  },
+  "Cen_New Mexico_tract_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1327,
+    "output_path": "census_summaries/Cen_New Mexico_tract_zip_2023_consolidated_summary.json"
+  },
+  "Cen_Wyoming_tract_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 428,
+    "output_path": "census_summaries/Cen_Wyoming_tract_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Tennessee_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 95,
+    "output_path": "census_summaries/Cen_Tennessee_county_2022_consolidated_summary.json"
+  },
+  "Cen_North Dakota_tract_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 968,
+    "output_path": "census_summaries/Cen_North Dakota_tract_zip_2023_consolidated_summary.json"
+  },
+  "Cen_Kansas_tract_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 817,
+    "output_path": "census_summaries/Cen_Kansas_tract_county_2023_consolidated_summary.json"
+  },
+  "Cen_Ohio_tract_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 3151,
+    "output_path": "census_summaries/Cen_Ohio_tract_county_2023_consolidated_summary.json"
+  },
+  "Cen_Michigan_tract_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 2896,
+    "output_path": "census_summaries/Cen_Michigan_tract_county_2022_consolidated_summary.json"
+  },
+  "Cen_Vermont_state_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Vermont_state_2023_consolidated_summary.json"
+  },
+  "Cen_Oklahoma_tract_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 3025,
+    "output_path": "census_summaries/Cen_Oklahoma_tract_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Utah_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 335,
+    "output_path": "census_summaries/Cen_Utah_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Florida_tract_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 5074,
+    "output_path": "census_summaries/Cen_Florida_tract_county_2023_consolidated_summary.json"
+  },
+  "Cen_Texas_tract_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 13744,
+    "output_path": "census_summaries/Cen_Texas_tract_zip_2023_consolidated_summary.json"
+  },
+  "Cen_Mississippi_state_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Mississippi_state_2023_consolidated_summary.json"
+  },
+  "Cen_Texas_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 254,
+    "output_path": "census_summaries/Cen_Texas_county_2023_consolidated_summary.json"
+  },
+  "Cen_Rhode Island_tract_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 246,
+    "output_path": "census_summaries/Cen_Rhode Island_tract_county_2023_consolidated_summary.json"
+  },
+  "Cen_Idaho_tract_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 456,
+    "output_path": "census_summaries/Cen_Idaho_tract_county_2022_consolidated_summary.json"
+  },
+  "Cen_New Jersey_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 21,
+    "output_path": "census_summaries/Cen_New Jersey_county_2023_consolidated_summary.json"
+  },
+  "Cen_Arkansas_state_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Arkansas_state_2022_consolidated_summary.json"
+  },
+  "Cen_Minnesota_state_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Minnesota_state_2022_consolidated_summary.json"
+  },
+  "Cen_Wisconsin_tract_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 4047,
+    "output_path": "census_summaries/Cen_Wisconsin_tract_zip_2023_consolidated_summary.json"
+  },
+  "Cen_Nevada_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 232,
+    "output_path": "census_summaries/Cen_Nevada_zip_2023_consolidated_summary.json"
+  },
+  "Cen_Montana_state_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Montana_state_2022_consolidated_summary.json"
+  },
+  "Cen_Connecticut_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 394,
+    "output_path": "census_summaries/Cen_Connecticut_zip_2023_consolidated_summary.json"
+  },
+  "Cen_Tennessee_tract_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 3993,
+    "output_path": "census_summaries/Cen_Tennessee_tract_zip_2023_consolidated_summary.json"
+  },
+  "Cen_Colorado_state_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Colorado_state_2023_consolidated_summary.json"
+  },
+  "Cen_Connecticut_tract_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1738,
+    "output_path": "census_summaries/Cen_Connecticut_tract_zip_2023_consolidated_summary.json"
+  },
+  "Cen_Maine_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 16,
+    "output_path": "census_summaries/Cen_Maine_county_2023_consolidated_summary.json"
+  },
+  "Cen_Oklahoma_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 737,
+    "output_path": "census_summaries/Cen_Oklahoma_zip_2023_consolidated_summary.json"
+  },
+  "Cen_Missouri_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1123,
+    "output_path": "census_summaries/Cen_Missouri_zip_2023_consolidated_summary.json"
+  },
+  "Cen_Missouri_state_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Missouri_state_2023_consolidated_summary.json"
+  },
+  "Cen_Illinois_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1541,
+    "output_path": "census_summaries/Cen_Illinois_zip_2023_consolidated_summary.json"
+  },
+  "Cen_New Mexico_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 33,
+    "output_path": "census_summaries/Cen_New Mexico_county_2022_consolidated_summary.json"
+  },
+  "Cen_Idaho_tract_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1053,
+    "output_path": "census_summaries/Cen_Idaho_tract_zip_2023_consolidated_summary.json"
+  },
+  "Cen_Ohio_state_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Ohio_state_2022_consolidated_summary.json"
+  },
+  "Cen_Louisiana_state_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Louisiana_state_2023_consolidated_summary.json"
+  },
+  "Cen_Oregon_tract_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 992,
+    "output_path": "census_summaries/Cen_Oregon_tract_county_2022_consolidated_summary.json"
+  },
+  "Cen_Missouri_tract_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 4688,
+    "output_path": "census_summaries/Cen_Missouri_tract_zip_2023_consolidated_summary.json"
+  },
+  "Cen_Kansas_state_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Kansas_state_2022_consolidated_summary.json"
+  },
+  "Cen_Virginia_tract_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 5002,
+    "output_path": "census_summaries/Cen_Virginia_tract_zip_2023_consolidated_summary.json"
+  },
+  "Cen_Ohio_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1354,
+    "output_path": "census_summaries/Cen_Ohio_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Massachusetts_state_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Massachusetts_state_2022_consolidated_summary.json"
+  },
+  "Cen_Pennsylvania_state_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Pennsylvania_state_2023_consolidated_summary.json"
+  },
+  "Cen_North Dakota_tract_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 228,
+    "output_path": "census_summaries/Cen_North Dakota_tract_county_2022_consolidated_summary.json"
+  },
+  "Cen_Montana_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 396,
+    "output_path": "census_summaries/Cen_Montana_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Vermont_tract_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 192,
+    "output_path": "census_summaries/Cen_Vermont_tract_county_2023_consolidated_summary.json"
+  },
+  "Cen_Kentucky_tract_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1298,
+    "output_path": "census_summaries/Cen_Kentucky_tract_county_2022_consolidated_summary.json"
+  },
+  "Cen_Nevada_tract_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1303,
+    "output_path": "census_summaries/Cen_Nevada_tract_zip_2022_consolidated_summary.json"
+  },
+  "Cen_North Dakota_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 53,
+    "output_path": "census_summaries/Cen_North Dakota_county_2022_consolidated_summary.json"
+  },
+  "Cen_Iowa_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1010,
+    "output_path": "census_summaries/Cen_Iowa_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Virginia_tract_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 2164,
+    "output_path": "census_summaries/Cen_Virginia_tract_county_2022_consolidated_summary.json"
+  },
+  "Cen_Alabama_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 67,
+    "output_path": "census_summaries/Cen_Alabama_county_2023_consolidated_summary.json"
+  },
+  "Cen_North Dakota_tract_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 968,
+    "output_path": "census_summaries/Cen_North Dakota_tract_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Vermont_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 14,
+    "output_path": "census_summaries/Cen_Vermont_county_2022_consolidated_summary.json"
+  },
+  "Cen_Illinois_state_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Illinois_state_2022_consolidated_summary.json"
+  },
+  "Cen_Florida_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1388,
+    "output_path": "census_summaries/Cen_Florida_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Connecticut_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 9,
+    "output_path": "census_summaries/Cen_Connecticut_county_2022_consolidated_summary.json"
+  },
+  "Cen_Iowa_tract_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 3368,
+    "output_path": "census_summaries/Cen_Iowa_tract_zip_2023_consolidated_summary.json"
+  },
+  "Cen_Utah_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 29,
+    "output_path": "census_summaries/Cen_Utah_county_2023_consolidated_summary.json"
+  },
+  "Cen_New Hampshire_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 276,
+    "output_path": "census_summaries/Cen_New Hampshire_zip_2023_consolidated_summary.json"
+  },
+  "Cen_District of Columbia_tract_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 204,
+    "output_path": "census_summaries/Cen_District of Columbia_tract_county_2022_consolidated_summary.json"
+  },
+  "Cen_Maine_tract_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 400,
+    "output_path": "census_summaries/Cen_Maine_tract_county_2023_consolidated_summary.json"
+  },
+  "Cen_Kentucky_state_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Kentucky_state_2022_consolidated_summary.json"
+  },
+  "Cen_Minnesota_state_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Minnesota_state_2023_consolidated_summary.json"
+  },
+  "Cen_Arizona_state_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Arizona_state_2023_consolidated_summary.json"
+  },
+  "Cen_Florida_tract_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 9086,
+    "output_path": "census_summaries/Cen_Florida_tract_zip_2023_consolidated_summary.json"
+  },
+  "Cen_Alabama_tract_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 3758,
+    "output_path": "census_summaries/Cen_Alabama_tract_zip_2023_consolidated_summary.json"
+  },
+  "Cen_Minnesota_tract_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1498,
+    "output_path": "census_summaries/Cen_Minnesota_tract_county_2022_consolidated_summary.json"
+  },
+  "Cen_Georgia_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 159,
+    "output_path": "census_summaries/Cen_Georgia_county_2023_consolidated_summary.json"
+  },
+  "Cen_New York_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 62,
+    "output_path": "census_summaries/Cen_New York_county_2022_consolidated_summary.json"
+  },
+  "Cen_New York_tract_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 11115,
+    "output_path": "census_summaries/Cen_New York_tract_zip_2023_consolidated_summary.json"
+  },
+  "Cen_Missouri_state_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Missouri_state_2022_consolidated_summary.json"
+  },
+  "Cen_Colorado_state_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Colorado_state_2022_consolidated_summary.json"
+  },
+  "Cen_Wisconsin_tract_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 4047,
+    "output_path": "census_summaries/Cen_Wisconsin_tract_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Mississippi_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 82,
+    "output_path": "census_summaries/Cen_Mississippi_county_2023_consolidated_summary.json"
+  },
+  "Cen_Delaware_tract_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 256,
+    "output_path": "census_summaries/Cen_Delaware_tract_county_2023_consolidated_summary.json"
+  },
+  "Cen_Massachusetts_tract_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1594,
+    "output_path": "census_summaries/Cen_Massachusetts_tract_county_2022_consolidated_summary.json"
+  },
+  "Cen_Virginia_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1150,
+    "output_path": "census_summaries/Cen_Virginia_zip_2023_consolidated_summary.json"
+  },
+  "Cen_North Carolina_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1032,
+    "output_path": "census_summaries/Cen_North Carolina_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Arkansas_tract_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 2344,
+    "output_path": "census_summaries/Cen_Arkansas_tract_zip_2023_consolidated_summary.json"
+  },
+  "Cen_Missouri_tract_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 4686,
+    "output_path": "census_summaries/Cen_Missouri_tract_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Alabama_tract_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1429,
+    "output_path": "census_summaries/Cen_Alabama_tract_county_2022_consolidated_summary.json"
+  },
+  "Cen_Louisiana_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 64,
+    "output_path": "census_summaries/Cen_Louisiana_county_2023_consolidated_summary.json"
+  },
+  "Cen_Virginia_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1150,
+    "output_path": "census_summaries/Cen_Virginia_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Oklahoma_tract_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1195,
+    "output_path": "census_summaries/Cen_Oklahoma_tract_county_2023_consolidated_summary.json"
+  },
+  "Cen_West Virginia_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 829,
+    "output_path": "census_summaries/Cen_West Virginia_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Utah_state_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Utah_state_2023_consolidated_summary.json"
+  },
+  "Cen_New Jersey_state_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_New Jersey_state_2023_consolidated_summary.json"
+  },
+  "Cen_Virginia_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 133,
+    "output_path": "census_summaries/Cen_Virginia_county_2022_consolidated_summary.json"
+  },
+  "Cen_Michigan_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 83,
+    "output_path": "census_summaries/Cen_Michigan_county_2023_consolidated_summary.json"
+  },
+  "Cen_Rhode Island_tract_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 476,
+    "output_path": "census_summaries/Cen_Rhode Island_tract_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Delaware_tract_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 516,
+    "output_path": "census_summaries/Cen_Delaware_tract_zip_2023_consolidated_summary.json"
+  },
+  "Cen_Montana_state_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Montana_state_2023_consolidated_summary.json"
+  },
+  "Cen_Maryland_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 24,
+    "output_path": "census_summaries/Cen_Maryland_county_2023_consolidated_summary.json"
+  },
+  "Cen_Utah_tract_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 709,
+    "output_path": "census_summaries/Cen_Utah_tract_county_2023_consolidated_summary.json"
+  },
+  "Cen_Mississippi_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 508,
+    "output_path": "census_summaries/Cen_Mississippi_zip_2023_consolidated_summary.json"
+  },
+  "Cen_Oklahoma_tract_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1195,
+    "output_path": "census_summaries/Cen_Oklahoma_tract_county_2022_consolidated_summary.json"
+  },
+  "Cen_Delaware_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 83,
+    "output_path": "census_summaries/Cen_Delaware_zip_2023_consolidated_summary.json"
+  },
+  "Cen_Idaho_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 310,
+    "output_path": "census_summaries/Cen_Idaho_zip_2023_consolidated_summary.json"
+  },
+  "Cen_Maine_tract_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 400,
+    "output_path": "census_summaries/Cen_Maine_tract_county_2022_consolidated_summary.json"
+  },
+  "Cen_Iowa_tract_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 3368,
+    "output_path": "census_summaries/Cen_Iowa_tract_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Colorado_tract_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1431,
+    "output_path": "census_summaries/Cen_Colorado_tract_county_2023_consolidated_summary.json"
+  },
+  "Cen_Montana_tract_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 939,
+    "output_path": "census_summaries/Cen_Montana_tract_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Ohio_tract_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 7461,
+    "output_path": "census_summaries/Cen_Ohio_tract_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Indiana_state_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Indiana_state_2023_consolidated_summary.json"
+  },
+  "Cen_Virginia_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 133,
+    "output_path": "census_summaries/Cen_Virginia_county_2023_consolidated_summary.json"
+  },
+  "Cen_Maryland_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 586,
+    "output_path": "census_summaries/Cen_Maryland_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Missouri_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 115,
+    "output_path": "census_summaries/Cen_Missouri_county_2022_consolidated_summary.json"
+  },
+  "Cen_Oklahoma_state_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Oklahoma_state_2022_consolidated_summary.json"
+  },
+  "Cen_Arizona_state_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Arizona_state_2022_consolidated_summary.json"
+  },
+  "Cen_New Hampshire_tract_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 842,
+    "output_path": "census_summaries/Cen_New Hampshire_tract_zip_2023_consolidated_summary.json"
+  },
+  "Cen_West Virginia_tract_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 546,
+    "output_path": "census_summaries/Cen_West Virginia_tract_county_2022_consolidated_summary.json"
+  },
+  "Cen_South Dakota_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 383,
+    "output_path": "census_summaries/Cen_South Dakota_zip_2023_consolidated_summary.json"
+  },
+  "Cen_California_tract_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 9044,
+    "output_path": "census_summaries/Cen_California_tract_county_2022_consolidated_summary.json"
+  },
+  "Cen_Wyoming_tract_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 428,
+    "output_path": "census_summaries/Cen_Wyoming_tract_zip_2023_consolidated_summary.json"
+  },
+  "Cen_Minnesota_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 87,
+    "output_path": "census_summaries/Cen_Minnesota_county_2022_consolidated_summary.json"
+  },
+  "Cen_Colorado_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 631,
+    "output_path": "census_summaries/Cen_Colorado_zip_2023_consolidated_summary.json"
+  },
+  "Cen_Maine_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 482,
+    "output_path": "census_summaries/Cen_Maine_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Massachusetts_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 648,
+    "output_path": "census_summaries/Cen_Massachusetts_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Arkansas_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 75,
+    "output_path": "census_summaries/Cen_Arkansas_county_2022_consolidated_summary.json"
+  },
+  "Cen_Utah_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 335,
+    "output_path": "census_summaries/Cen_Utah_zip_2023_consolidated_summary.json"
+  },
+  "Cen_Idaho_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 44,
+    "output_path": "census_summaries/Cen_Idaho_county_2022_consolidated_summary.json"
+  },
+  "Cen_Tennessee_tract_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1678,
+    "output_path": "census_summaries/Cen_Tennessee_tract_county_2023_consolidated_summary.json"
+  },
+  "Cen_South Carolina_tract_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 2851,
+    "output_path": "census_summaries/Cen_South Carolina_tract_zip_2023_consolidated_summary.json"
+  },
+  "Cen_New Hampshire_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 10,
+    "output_path": "census_summaries/Cen_New Hampshire_county_2023_consolidated_summary.json"
+  },
+  "Cen_Arkansas_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 687,
+    "output_path": "census_summaries/Cen_Arkansas_zip_2023_consolidated_summary.json"
+  },
+  "Cen_Oregon_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 473,
+    "output_path": "census_summaries/Cen_Oregon_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Georgia_tract_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 5947,
+    "output_path": "census_summaries/Cen_Georgia_tract_zip_2023_consolidated_summary.json"
+  },
+  "Cen_North Carolina_tract_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 2643,
+    "output_path": "census_summaries/Cen_North Carolina_tract_county_2023_consolidated_summary.json"
+  },
+  "Cen_Nevada_state_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Nevada_state_2022_consolidated_summary.json"
+  },
+  "Cen_Michigan_state_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Michigan_state_2022_consolidated_summary.json"
+  },
+  "Cen_South Dakota_tract_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 242,
+    "output_path": "census_summaries/Cen_South Dakota_tract_county_2022_consolidated_summary.json"
+  },
+  "Cen_New Hampshire_tract_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 347,
+    "output_path": "census_summaries/Cen_New Hampshire_tract_county_2022_consolidated_summary.json"
+  },
+  "Cen_Arkansas_state_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Arkansas_state_2023_consolidated_summary.json"
+  },
+  "Cen_California_state_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_California_state_2023_consolidated_summary.json"
+  },
+  "Cen_Wisconsin_state_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Wisconsin_state_2023_consolidated_summary.json"
+  },
+  "Cen_Wisconsin_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 862,
+    "output_path": "census_summaries/Cen_Wisconsin_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Texas_tract_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 6835,
+    "output_path": "census_summaries/Cen_Texas_tract_county_2023_consolidated_summary.json"
+  },
+  "Cen_Massachusetts_state_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Massachusetts_state_2023_consolidated_summary.json"
+  },
+  "Cen_District of Columbia_state_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_District of Columbia_state_2022_consolidated_summary.json"
+  },
+  "Cen_Nebraska_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 93,
+    "output_path": "census_summaries/Cen_Nebraska_county_2022_consolidated_summary.json"
+  },
+  "Cen_Florida_state_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Florida_state_2022_consolidated_summary.json"
+  },
+  "Cen_Nebraska_tract_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1926,
+    "output_path": "census_summaries/Cen_Nebraska_tract_zip_2023_consolidated_summary.json"
+  },
+  "Cen_Idaho_state_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Idaho_state_2023_consolidated_summary.json"
+  },
+  "Cen_Kansas_tract_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 2499,
+    "output_path": "census_summaries/Cen_Kansas_tract_zip_2023_consolidated_summary.json"
+  },
+  "Cen_Texas_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 254,
+    "output_path": "census_summaries/Cen_Texas_county_2022_consolidated_summary.json"
+  },
+  "Cen_Iowa_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1010,
+    "output_path": "census_summaries/Cen_Iowa_zip_2023_consolidated_summary.json"
+  },
+  "Cen_Georgia_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 916,
+    "output_path": "census_summaries/Cen_Georgia_zip_2023_consolidated_summary.json"
+  },
+  "Cen_District of Columbia_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 218,
+    "output_path": "census_summaries/Cen_District of Columbia_zip_2023_consolidated_summary.json"
+  },
+  "Cen_Kentucky_state_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Kentucky_state_2023_consolidated_summary.json"
+  },
+  "Cen_Maryland_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 586,
+    "output_path": "census_summaries/Cen_Maryland_zip_2023_consolidated_summary.json"
+  },
+  "Cen_Washington_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 39,
+    "output_path": "census_summaries/Cen_Washington_county_2023_consolidated_summary.json"
+  },
+  "Cen_Tennessee_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 759,
+    "output_path": "census_summaries/Cen_Tennessee_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Kentucky_tract_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1298,
+    "output_path": "census_summaries/Cen_Kentucky_tract_county_2023_consolidated_summary.json"
+  },
+  "Cen_Kentucky_tract_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 3476,
+    "output_path": "census_summaries/Cen_Kentucky_tract_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Wyoming_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 188,
+    "output_path": "census_summaries/Cen_Wyoming_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Nebraska_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 609,
+    "output_path": "census_summaries/Cen_Nebraska_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Montana_tract_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 317,
+    "output_path": "census_summaries/Cen_Montana_tract_county_2023_consolidated_summary.json"
+  },
+  "Cen_Connecticut_tract_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1738,
+    "output_path": "census_summaries/Cen_Connecticut_tract_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Kansas_tract_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 817,
+    "output_path": "census_summaries/Cen_Kansas_tract_county_2022_consolidated_summary.json"
+  },
+  "Cen_Washington_tract_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1770,
+    "output_path": "census_summaries/Cen_Washington_tract_county_2022_consolidated_summary.json"
+  },
+  "Cen_Utah_tract_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1434,
+    "output_path": "census_summaries/Cen_Utah_tract_zip_2023_consolidated_summary.json"
+  },
+  "Cen_Arkansas_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 75,
+    "output_path": "census_summaries/Cen_Arkansas_county_2023_consolidated_summary.json"
+  },
+  "Cen_California_state_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_California_state_2022_consolidated_summary.json"
+  },
+  "Cen_Alabama_state_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Alabama_state_2022_consolidated_summary.json"
+  },
+  "Cen_Oregon_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 473,
+    "output_path": "census_summaries/Cen_Oregon_zip_2023_consolidated_summary.json"
+  },
+  "Cen_New Mexico_tract_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 602,
+    "output_path": "census_summaries/Cen_New Mexico_tract_county_2022_consolidated_summary.json"
+  },
+  "Cen_Oklahoma_state_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Oklahoma_state_2023_consolidated_summary.json"
+  },
+  "Cen_Connecticut_state_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Connecticut_state_2022_consolidated_summary.json"
+  },
+  "Cen_New Mexico_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 418,
+    "output_path": "census_summaries/Cen_New Mexico_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Connecticut_state_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Connecticut_state_2023_consolidated_summary.json"
+  },
+  "Cen_Connecticut_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 394,
+    "output_path": "census_summaries/Cen_Connecticut_zip_2022_consolidated_summary.json"
+  },
+  "Cen_South Dakota_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 66,
+    "output_path": "census_summaries/Cen_South Dakota_county_2023_consolidated_summary.json"
+  },
+  "Cen_Tennessee_state_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Tennessee_state_2023_consolidated_summary.json"
+  },
+  "Cen_Illinois_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 102,
+    "output_path": "census_summaries/Cen_Illinois_county_2022_consolidated_summary.json"
+  },
+  "Cen_Montana_tract_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 317,
+    "output_path": "census_summaries/Cen_Montana_tract_county_2022_consolidated_summary.json"
+  },
+  "Cen_South Carolina_state_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_South Carolina_state_2023_consolidated_summary.json"
+  },
+  "Cen_Vermont_tract_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 759,
+    "output_path": "census_summaries/Cen_Vermont_tract_zip_2023_consolidated_summary.json"
+  },
+  "Cen_Kentucky_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 120,
+    "output_path": "census_summaries/Cen_Kentucky_county_2023_consolidated_summary.json"
+  },
+  "Cen_Wisconsin_state_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Wisconsin_state_2022_consolidated_summary.json"
+  },
+  "Cen_Florida_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 67,
+    "output_path": "census_summaries/Cen_Florida_county_2023_consolidated_summary.json"
+  },
+  "Cen_North Dakota_state_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_North Dakota_state_2023_consolidated_summary.json"
+  },
+  "Cen_Arizona_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 506,
+    "output_path": "census_summaries/Cen_Arizona_zip_2023_consolidated_summary.json"
+  },
+  "Cen_South Dakota_tract_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 958,
+    "output_path": "census_summaries/Cen_South Dakota_tract_zip_2023_consolidated_summary.json"
+  },
+  "Cen_California_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 2422,
+    "output_path": "census_summaries/Cen_California_zip_2023_consolidated_summary.json"
+  },
+  "Cen_New Mexico_tract_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1327,
+    "output_path": "census_summaries/Cen_New Mexico_tract_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Iowa_state_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Iowa_state_2022_consolidated_summary.json"
+  },
+  "Cen_Maine_state_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Maine_state_2022_consolidated_summary.json"
+  },
+  "Cen_Indiana_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 92,
+    "output_path": "census_summaries/Cen_Indiana_county_2023_consolidated_summary.json"
+  },
+  "Cen_Arizona_tract_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 3056,
+    "output_path": "census_summaries/Cen_Arizona_tract_zip_2023_consolidated_summary.json"
+  },
+  "Cen_Michigan_tract_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 2900,
+    "output_path": "census_summaries/Cen_Michigan_tract_county_2023_consolidated_summary.json"
+  },
+  "Cen_Kansas_state_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Kansas_state_2023_consolidated_summary.json"
+  },
+  "Cen_Indiana_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 92,
+    "output_path": "census_summaries/Cen_Indiana_county_2022_consolidated_summary.json"
+  },
+  "Cen_West Virginia_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 829,
+    "output_path": "census_summaries/Cen_West Virginia_zip_2023_consolidated_summary.json"
+  },
+  "Cen_Illinois_tract_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 3257,
+    "output_path": "census_summaries/Cen_Illinois_tract_county_2023_consolidated_summary.json"
+  },
+  "Cen_Wyoming_tract_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 159,
+    "output_path": "census_summaries/Cen_Wyoming_tract_county_2023_consolidated_summary.json"
+  },
+  "Cen_District of Columbia_tract_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 204,
+    "output_path": "census_summaries/Cen_District of Columbia_tract_county_2023_consolidated_summary.json"
+  },
+  "Cen_Virginia_state_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Virginia_state_2023_consolidated_summary.json"
+  },
+  "Cen_Utah_tract_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 709,
+    "output_path": "census_summaries/Cen_Utah_tract_county_2022_consolidated_summary.json"
+  },
+  "Cen_Massachusetts_tract_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1594,
+    "output_path": "census_summaries/Cen_Massachusetts_tract_county_2023_consolidated_summary.json"
+  },
+  "Cen_Kansas_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 105,
+    "output_path": "census_summaries/Cen_Kansas_county_2023_consolidated_summary.json"
+  },
+  "Cen_Colorado_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 64,
+    "output_path": "census_summaries/Cen_Colorado_county_2022_consolidated_summary.json"
+  },
+  "Cen_Pennsylvania_tract_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 3402,
+    "output_path": "census_summaries/Cen_Pennsylvania_tract_county_2022_consolidated_summary.json"
+  },
+  "Cen_South Carolina_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 46,
+    "output_path": "census_summaries/Cen_South Carolina_county_2022_consolidated_summary.json"
+  },
+  "Cen_Arizona_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 15,
+    "output_path": "census_summaries/Cen_Arizona_county_2022_consolidated_summary.json"
+  },
+  "Cen_Georgia_tract_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 2781,
+    "output_path": "census_summaries/Cen_Georgia_tract_county_2022_consolidated_summary.json"
+  },
+  "Cen_Maine_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 16,
+    "output_path": "census_summaries/Cen_Maine_county_2022_consolidated_summary.json"
+  },
+  "Cen_New Jersey_tract_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 2167,
+    "output_path": "census_summaries/Cen_New Jersey_tract_county_2023_consolidated_summary.json"
+  },
+  "Cen_Texas_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 2427,
+    "output_path": "census_summaries/Cen_Texas_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Idaho_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 310,
+    "output_path": "census_summaries/Cen_Idaho_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Iowa_state_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Iowa_state_2023_consolidated_summary.json"
+  },
+  "Cen_Wisconsin_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 862,
+    "output_path": "census_summaries/Cen_Wisconsin_zip_2023_consolidated_summary.json"
+  },
+  "Cen_Oregon_tract_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 2130,
+    "output_path": "census_summaries/Cen_Oregon_tract_zip_2023_consolidated_summary.json"
+  },
+  "Cen_Minnesota_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 913,
+    "output_path": "census_summaries/Cen_Minnesota_zip_2023_consolidated_summary.json"
+  },
+  "Cen_Florida_tract_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 9075,
+    "output_path": "census_summaries/Cen_Florida_tract_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Rhode Island_state_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Rhode Island_state_2022_consolidated_summary.json"
+  },
+  "Cen_Indiana_tract_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 4410,
+    "output_path": "census_summaries/Cen_Indiana_tract_zip_2023_consolidated_summary.json"
+  },
+  "Cen_Kentucky_tract_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 3476,
+    "output_path": "census_summaries/Cen_Kentucky_tract_zip_2023_consolidated_summary.json"
+  },
+  "Cen_Texas_tract_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 13738,
+    "output_path": "census_summaries/Cen_Texas_tract_zip_2022_consolidated_summary.json"
+  },
+  "Cen_North Dakota_state_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_North Dakota_state_2022_consolidated_summary.json"
+  },
+  "Cen_Iowa_tract_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 892,
+    "output_path": "census_summaries/Cen_Iowa_tract_county_2022_consolidated_summary.json"
+  },
+  "Cen_South Dakota_state_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_South Dakota_state_2023_consolidated_summary.json"
+  },
+  "Cen_South Carolina_state_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_South Carolina_state_2022_consolidated_summary.json"
+  },
+  "Cen_Delaware_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 3,
+    "output_path": "census_summaries/Cen_Delaware_county_2022_consolidated_summary.json"
+  },
+  "Cen_Georgia_tract_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 2781,
+    "output_path": "census_summaries/Cen_Georgia_tract_county_2023_consolidated_summary.json"
+  },
+  "Cen_Iowa_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 99,
+    "output_path": "census_summaries/Cen_Iowa_county_2023_consolidated_summary.json"
+  },
+  "Cen_Florida_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 67,
+    "output_path": "census_summaries/Cen_Florida_county_2022_consolidated_summary.json"
+  },
+  "Cen_Kansas_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 739,
+    "output_path": "census_summaries/Cen_Kansas_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Mississippi_tract_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 2278,
+    "output_path": "census_summaries/Cen_Mississippi_tract_zip_2022_consolidated_summary.json"
+  },
+  "Cen_South Carolina_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 519,
+    "output_path": "census_summaries/Cen_South Carolina_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Virginia_tract_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 2163,
+    "output_path": "census_summaries/Cen_Virginia_tract_county_2023_consolidated_summary.json"
+  },
+  "Cen_Oregon_state_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Oregon_state_2023_consolidated_summary.json"
+  },
+  "Cen_Wisconsin_tract_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1524,
+    "output_path": "census_summaries/Cen_Wisconsin_tract_county_2022_consolidated_summary.json"
+  },
+  "Cen_Mississippi_tract_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 872,
+    "output_path": "census_summaries/Cen_Mississippi_tract_county_2022_consolidated_summary.json"
+  },
+  "Cen_Alabama_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 766,
+    "output_path": "census_summaries/Cen_Alabama_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Vermont_tract_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 759,
+    "output_path": "census_summaries/Cen_Vermont_tract_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Indiana_tract_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1684,
+    "output_path": "census_summaries/Cen_Indiana_tract_county_2023_consolidated_summary.json"
+  },
+  "Cen_Vermont_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 305,
+    "output_path": "census_summaries/Cen_Vermont_zip_2023_consolidated_summary.json"
+  },
+  "Cen_North Carolina_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1032,
+    "output_path": "census_summaries/Cen_North Carolina_zip_2023_consolidated_summary.json"
+  },
+  "Cen_North Dakota_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 406,
+    "output_path": "census_summaries/Cen_North Dakota_zip_2022_consolidated_summary.json"
+  },
+  "Cen_California_tract_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 9048,
+    "output_path": "census_summaries/Cen_California_tract_county_2023_consolidated_summary.json"
+  },
+  "Cen_Missouri_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 115,
+    "output_path": "census_summaries/Cen_Missouri_county_2023_consolidated_summary.json"
+  },
+  "Cen_North Carolina_tract_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 6009,
+    "output_path": "census_summaries/Cen_North Carolina_tract_zip_2023_consolidated_summary.json"
+  },
+  "Cen_Nebraska_tract_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 551,
+    "output_path": "census_summaries/Cen_Nebraska_tract_county_2023_consolidated_summary.json"
+  },
+  "Cen_Illinois_tract_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 7857,
+    "output_path": "census_summaries/Cen_Illinois_tract_zip_2023_consolidated_summary.json"
+  },
+  "Cen_Ohio_state_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Ohio_state_2023_consolidated_summary.json"
+  },
+  "Cen_Georgia_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 916,
+    "output_path": "census_summaries/Cen_Georgia_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Alabama_state_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Alabama_state_2023_consolidated_summary.json"
+  },
+  "Cen_North Carolina_tract_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 2643,
+    "output_path": "census_summaries/Cen_North Carolina_tract_county_2022_consolidated_summary.json"
+  },
+  "Cen_Florida_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1391,
+    "output_path": "census_summaries/Cen_Florida_zip_2023_consolidated_summary.json"
+  },
+  "Cen_Louisiana_state_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Louisiana_state_2022_consolidated_summary.json"
+  },
+  "Cen_South Dakota_tract_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 958,
+    "output_path": "census_summaries/Cen_South Dakota_tract_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Louisiana_tract_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 2826,
+    "output_path": "census_summaries/Cen_Louisiana_tract_zip_2023_consolidated_summary.json"
+  },
+  "Cen_North Carolina_state_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_North Carolina_state_2023_consolidated_summary.json"
+  },
+  "Cen_Iowa_tract_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 892,
+    "output_path": "census_summaries/Cen_Iowa_tract_county_2023_consolidated_summary.json"
+  },
+  "Cen_Arizona_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 15,
+    "output_path": "census_summaries/Cen_Arizona_county_2023_consolidated_summary.json"
+  },
+  "Cen_District of Columbia_tract_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 553,
+    "output_path": "census_summaries/Cen_District of Columbia_tract_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Ohio_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 88,
+    "output_path": "census_summaries/Cen_Ohio_county_2022_consolidated_summary.json"
+  },
+  "Cen_West Virginia_tract_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 2159,
+    "output_path": "census_summaries/Cen_West Virginia_tract_zip_2023_consolidated_summary.json"
+  },
+  "Cen_Pennsylvania_tract_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 8847,
+    "output_path": "census_summaries/Cen_Pennsylvania_tract_zip_2023_consolidated_summary.json"
+  },
+  "Cen_Virginia_tract_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 5004,
+    "output_path": "census_summaries/Cen_Virginia_tract_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Ohio_tract_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 7461,
+    "output_path": "census_summaries/Cen_Ohio_tract_zip_2023_consolidated_summary.json"
+  },
+  "Cen_Nevada_state_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Nevada_state_2023_consolidated_summary.json"
+  },
+  "Cen_Connecticut_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 9,
+    "output_path": "census_summaries/Cen_Connecticut_county_2023_consolidated_summary.json"
+  },
+  "Cen_Florida_state_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Florida_state_2023_consolidated_summary.json"
+  },
+  "Cen_Texas_state_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Texas_state_2022_consolidated_summary.json"
+  },
+  "Cen_Wyoming_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 188,
+    "output_path": "census_summaries/Cen_Wyoming_zip_2023_consolidated_summary.json"
+  },
+  "Cen_Rhode Island_tract_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 246,
+    "output_path": "census_summaries/Cen_Rhode Island_tract_county_2022_consolidated_summary.json"
+  },
+  "Cen_Washington_tract_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 1770,
+    "output_path": "census_summaries/Cen_Washington_tract_county_2023_consolidated_summary.json"
+  },
+  "Cen_Minnesota_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 87,
+    "output_path": "census_summaries/Cen_Minnesota_county_2023_consolidated_summary.json"
+  },
+  "Cen_Arkansas_tract_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 822,
+    "output_path": "census_summaries/Cen_Arkansas_tract_county_2023_consolidated_summary.json"
+  },
+  "Cen_Delaware_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 3,
+    "output_path": "census_summaries/Cen_Delaware_county_2023_consolidated_summary.json"
+  },
+  "Cen_Pennsylvania_tract_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 3403,
+    "output_path": "census_summaries/Cen_Pennsylvania_tract_county_2023_consolidated_summary.json"
+  },
+  "Cen_Delaware_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 83,
+    "output_path": "census_summaries/Cen_Delaware_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Nevada_tract_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 772,
+    "output_path": "census_summaries/Cen_Nevada_tract_county_2022_consolidated_summary.json"
+  },
+  "Cen_Colorado_tract_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1431,
+    "output_path": "census_summaries/Cen_Colorado_tract_county_2022_consolidated_summary.json"
+  },
+  "Cen_Texas_tract_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 6832,
+    "output_path": "census_summaries/Cen_Texas_tract_county_2022_consolidated_summary.json"
+  },
+  "Cen_Alabama_tract_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 3758,
+    "output_path": "census_summaries/Cen_Alabama_tract_zip_2022_consolidated_summary.json"
+  },
+  "Cen_New York_tract_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 11140,
+    "output_path": "census_summaries/Cen_New York_tract_zip_2022_consolidated_summary.json"
+  },
+  "Cen_New Hampshire_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 10,
+    "output_path": "census_summaries/Cen_New Hampshire_county_2022_consolidated_summary.json"
+  },
+  "Cen_Indiana_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 930,
+    "output_path": "census_summaries/Cen_Indiana_zip_2022_consolidated_summary.json"
+  },
+  "Cen_North Dakota_tract_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 228,
+    "output_path": "census_summaries/Cen_North Dakota_tract_county_2023_consolidated_summary.json"
+  },
+  "Cen_Idaho_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 44,
+    "output_path": "census_summaries/Cen_Idaho_county_2023_consolidated_summary.json"
+  },
+  "Cen_South Carolina_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 46,
+    "output_path": "census_summaries/Cen_South Carolina_county_2023_consolidated_summary.json"
+  },
+  "Cen_South Dakota_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 383,
+    "output_path": "census_summaries/Cen_South Dakota_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Rhode Island_county_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 5,
+    "output_path": "census_summaries/Cen_Rhode Island_county_2023_consolidated_summary.json"
+  },
+  "Cen_Georgia_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 159,
+    "output_path": "census_summaries/Cen_Georgia_county_2022_consolidated_summary.json"
+  },
+  "Cen_Minnesota_tract_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 4022,
+    "output_path": "census_summaries/Cen_Minnesota_tract_zip_2022_consolidated_summary.json"
+  },
+  "Cen_South Carolina_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 518,
+    "output_path": "census_summaries/Cen_South Carolina_zip_2023_consolidated_summary.json"
+  },
+  "Cen_Missouri_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1123,
+    "output_path": "census_summaries/Cen_Missouri_zip_2022_consolidated_summary.json"
+  },
+  "Cen_New York_state_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_New York_state_2022_consolidated_summary.json"
+  },
+  "Cen_Vermont_tract_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 192,
+    "output_path": "census_summaries/Cen_Vermont_tract_county_2022_consolidated_summary.json"
+  },
+  "Cen_Massachusetts_tract_zip_2023_consolidated": {
+    "status": "success",
+    "rows_processed": 3123,
+    "output_path": "census_summaries/Cen_Massachusetts_tract_zip_2023_consolidated_summary.json"
+  },
+  "Cen_Michigan_tract_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 6244,
+    "output_path": "census_summaries/Cen_Michigan_tract_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Tennessee_tract_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1679,
+    "output_path": "census_summaries/Cen_Tennessee_tract_county_2022_consolidated_summary.json"
+  },
+  "Cen_California_zip_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 2420,
+    "output_path": "census_summaries/Cen_California_zip_2022_consolidated_summary.json"
+  },
+  "Cen_Massachusetts_county_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 14,
+    "output_path": "census_summaries/Cen_Massachusetts_county_2022_consolidated_summary.json"
+  },
+  "Cen_Pennsylvania_state_2022_consolidated": {
+    "status": "success",
+    "rows_processed": 1,
+    "output_path": "census_summaries/Cen_Pennsylvania_state_2022_consolidated_summary.json"
+  }
+}
